@@ -1,2 +1,0 @@
-#debaz #spectradom #worldbuilding 
-**West Makheda** ([[Pezen/Debaz/Debazi language/Debazi]]: *Thabzomakheda* \[θabɥømacɕiɪda]) is a province of the [[Republic of Debaz]]. It is east of [[Asōmdagli]], west of [[East Makhēda]], south of [[Layyani]], and north of [[Eramēs]].

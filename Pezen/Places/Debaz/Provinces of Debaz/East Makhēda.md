@@ -1,0 +1,2 @@
+#debaz #spectradom #worldbuilding 
+**East Makheda** ([[Debazi]]: *‘Ulàmmakheda* \[ʕuːlɜmːacɕiɪda]) is a province of the [[Republic of Debaz]]. It is east of [[West Makhēda]] and southeast of [[Layyani]].

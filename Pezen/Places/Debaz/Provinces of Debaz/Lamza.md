@@ -1,0 +1,2 @@
+#debaz #spectradom #worldbuilding 
+**Lamza** ([[Debazi]]: \[ˈlæmdzɛ]) is one of the provinces of the [[Republic of Debaz]]. It is in the north, and its southern border with [[Layyani]] forms the edge of what is considered "core Debaz".

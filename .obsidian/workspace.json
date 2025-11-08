@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pezen/Debaz/Republic of Debaz.md",
+                "file": "Pezen/Institutions/Shadaric political structures/Family of Daman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Republic of Debaz"
+              "title": "Family of Daman"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pezen/Debaz/Republic of Debaz.md",
+                "file": "Pezen/Institutions/Shadaric political structures/Family of Daman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Republic of Debaz"
+              "title": "Backlinks for Family of Daman"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pezen/Debaz/Republic of Debaz.md",
+                "file": "Pezen/Institutions/Shadaric political structures/Family of Daman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Republic of Debaz"
+              "title": "Outgoing links from Family of Daman"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pezen/Debaz/Republic of Debaz.md",
+                "file": "Pezen/Institutions/Shadaric political structures/Family of Daman.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Republic of Debaz"
+              "title": "Outline of Family of Daman"
             }
           },
           {
@@ -195,6 +195,24 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "662e34bea38198ee",
-  "lastOpenFiles": []
+  "active": "8427eae453013636",
+  "lastOpenFiles": [
+    "Pezen/Languages",
+    "Pezen/Places/Shadar/Places/Condero.md",
+    "Mirai family.md",
+    "Pezen/Places/Mangell.md",
+    "Pezen/Institutions/Shadaric political structures/Family of Daman.md",
+    "Pezen/Institutions/Shadaric political structures",
+    "Pezen/Places/Shadar/States/Daman.md",
+    "Pezen/Institutions/Shadaric political structures.md",
+    "Pezen/Places/Shadar/Shadaric city-states.md",
+    "Pezen/Places/Shadar/Shadar.md",
+    "Pezen/Places/Shadar/Places",
+    "Pezen/Places/Shadar/States",
+    "Pezen/Institutions",
+    "Pezen/Events",
+    "Pezen/Characters",
+    "Pezen/Places",
+    "Pezen/Places/Debaz/Republic of Debaz.md"
+  ]
 }

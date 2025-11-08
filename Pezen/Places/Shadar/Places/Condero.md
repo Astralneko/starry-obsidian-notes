@@ -1,6 +1,6 @@
 '''Condero''' is a city in the region of [[Shadar]]. It is the largest settlement in [[Daman]].
 
-In [[Drawn to AfterLife]], the [[Mirai twins]] are from Condero. As a result, the story begins there.
+In [[Drawn to AfterLife]], the Mirai family are from Condero. As a result, the story begins there.
 
 ## History
 Condero is one of the so-called "phoenix cities" which formed after the collapse of the original nation of Shadar. Originally, Condero had a distinct state of the same name, for which the city was its heart. However, during the [[Century of Strife]], the duchy of Daman took over the city, in spite of its associated castle being smaller than Condero's. This seige of Condero is talked about in epic poetry of the time period, as it is arguably the single most powerful example of the political climate of the time.
