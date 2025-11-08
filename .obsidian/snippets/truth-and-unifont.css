@@ -4,4 +4,8 @@ body {
 	--font-monospace-theme: "Unifont", "Unifont JP", "Unifont Upper";
 	--line-height-normal: 1.2;
 	--line-height-tight: 1;
+	--font-ui-smallest: 14px;
+	--font-ui-small: 16px;
+	--font-ui-medium: 19px;
+	--font-ui-large: 22px;
 }
