@@ -1,0 +1,7 @@
+body {
+	--font-interface-theme: "Truth and Ideals", "Unifont", "Unifont JP", "Unifont Upper";
+	--font-text-theme: "Truth and Ideals", "Unifont", "Unifont JP", "Unifont Upper";
+	--font-monospace-theme: "Unifont", "Unifont JP", "Unifont Upper";
+	--line-height-normal: 1.2;
+	--line-height-tight: 1;
+}

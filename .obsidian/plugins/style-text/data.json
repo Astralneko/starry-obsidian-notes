@@ -1,0 +1,14 @@
+{
+  "styles": [
+    {
+      "name": "Large",
+      "css": "font-size: 1.133em",
+      "contextMenu": true
+    },
+    {
+      "name": "Small",
+      "css": "font-size: 0.833em;",
+      "contextMenu": true
+    }
+  ]
+}

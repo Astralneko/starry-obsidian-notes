@@ -1,0 +1,1 @@
+A transforming species is exactly as it says on the tin. Note that even though many real life species can metamorphose, a fully transforming species is assumed to be able to change *between* its forms. This means it is assumed to be a Fantastic-exclusive trait.

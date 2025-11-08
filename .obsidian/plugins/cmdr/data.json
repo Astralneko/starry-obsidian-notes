@@ -1,0 +1,50 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 32,
+    "columnLayout": false,
+    "mappedIcons": [
+      {
+        "commandID": "style-text:style1",
+        "iconID": "lucide-a-arrow-up"
+      },
+      {
+        "commandID": "style-text:style2",
+        "iconID": "lucide-a-arrow-down"
+      },
+      {
+        "commandID": "style-text:remove-style",
+        "iconID": "lucide-remove-formatting"
+      },
+      {
+        "commandID": "automatic-table-of-contents:insert-automatic-table-of-contents",
+        "iconID": "lucide-list-tree"
+      },
+      {
+        "commandID": "obsidian-icon-folder:iconize:set-icon-for-file",
+        "iconID": "excalidraw-icon"
+      }
+    ],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

@@ -1,0 +1,1 @@
+"Fantastic" refers to any fictional species. Within is the "Spirit" subclass that refers to species typically described as a reincarnate version of another species - such as with ghosts and humans, or kitsune and foxes.

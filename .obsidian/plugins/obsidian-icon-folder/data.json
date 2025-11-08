@@ -1,0 +1,69 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiBrushLine",
+      "RaFireballSword",
+      "LiBird",
+      "RaLightningBolt",
+      "🎈"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "custom",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Bios/Headmates/Marzipan.md": {
+    "iconName": "LiCandy",
+    "iconColor": "#cf4064"
+  },
+  "Bios/Headmates/Reisen.md": {
+    "iconName": "RaBullets",
+    "iconColor": "#3a87fe"
+  },
+  "Bios/Headmates/Youmu.md": {
+    "iconName": "RaCandleFire",
+    "iconColor": "#ffffff"
+  },
+  "Bios/Headmates/Reimu.md": {
+    "iconName": "FasCross",
+    "iconColor": "#1b0ccb"
+  },
+  "Bios/Headmates/Solin.md": {
+    "iconName": "RaCrystals",
+    "iconColor": "#707070"
+  },
+  "Bios/Headmates/Aster.md": {
+    "iconName": "FasMeteor",
+    "iconColor": "#d357f3"
+  },
+  "Bios/Headmates/Almond.md": "🎈",
+  "Bios/Headmates/Hikari.md": "RaLightningBolt",
+  "Bios/Headmates/Puanga.md": "LiBird",
+  "Bios/Headmates/Kalia.md": "RaFireballSword",
+  "Bios/Headmates/Estariel.md": {
+    "iconName": "RiBrushLine",
+    "iconColor": "#23ffea"
+  }
+}

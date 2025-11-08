@@ -1,0 +1,1 @@
+No, Patrick, being able to digitize your Pokémon doesn't mean it's a Technological Species. Or do the humans of *Star Trek* belong here? Because the Borg say otherwise.
