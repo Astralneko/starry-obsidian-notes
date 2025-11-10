@@ -1,6 +1,6 @@
 #galaxysys #headmate 
 ## Important dates
-Most recent dormancy exit: 21 Oct 2025
+Has been located in memory sea after last reset (21-28 Oct 2025): Yes
 ## Basic bullets
 - full name: Marzipan (Røkkr)
 	- origin: «twilight confection»

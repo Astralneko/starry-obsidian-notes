@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pezen/Institutions/Shadaric political structures/Family of Daman.md",
+                "file": "Bios/Headmates/Zephyr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Family of Daman"
+              "title": "Zephyr"
             }
           }
         ]
@@ -195,24 +195,42 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "8427eae453013636",
+  "active": "662e34bea38198ee",
   "lastOpenFiles": [
+    "Bios/Headmates/Yun.md",
+    "Bios/Headmates/Zephyr.md",
+    "block.properties",
+    "Bios/Headmates/Youmu.md",
+    "Bios/Headmates/Yankee.md",
+    "Bios/Headmates/Techikas’.md",
+    "Bios/Headmates/Takara.md",
+    "Bios/Headmates/Sparkle.md",
+    "Bios/Headmates/Solin.md",
+    "Bios/Headmates/Seolyeong.md",
+    "Bios/Headmates/Sahara.md",
+    "Bios/Headmates/Ruvafuka.md",
+    "Bios/Headmates/Rena.md",
+    "Bios/Headmates/Reisen.md",
+    "Bios/Headmates/Reimu.md",
+    "Bios/Headmates/Puanga.md",
+    "Bios/Headmates/Marzipan.md",
+    "Bios/Headmates/Kalia.md",
+    "Bios/Headmates/Hikari.md",
+    "Bios/Headmates/Estariel.md",
+    "Bios/Headmates/Almond.md",
+    "Bios/Headmates/Alice.md",
+    "Bios/Headmates/Aster.md",
+    "Pezen/Events/History of Pezen.md",
+    "Bios/Headmates/Trinity.md",
+    "Bios/Headmates/Paradox.md",
+    "Bios/Headmates/Neka.md",
     "Pezen/Languages",
-    "Pezen/Places/Shadar/Places/Condero.md",
-    "Mirai family.md",
-    "Pezen/Places/Mangell.md",
-    "Pezen/Institutions/Shadaric political structures/Family of Daman.md",
     "Pezen/Institutions/Shadaric political structures",
-    "Pezen/Places/Shadar/States/Daman.md",
-    "Pezen/Institutions/Shadaric political structures.md",
-    "Pezen/Places/Shadar/Shadaric city-states.md",
-    "Pezen/Places/Shadar/Shadar.md",
     "Pezen/Places/Shadar/Places",
     "Pezen/Places/Shadar/States",
     "Pezen/Institutions",
     "Pezen/Events",
     "Pezen/Characters",
-    "Pezen/Places",
-    "Pezen/Places/Debaz/Republic of Debaz.md"
+    "Pezen/Places"
   ]
 }

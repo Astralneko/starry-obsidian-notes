@@ -1,8 +1,8 @@
 #galaxysys #headmate 
-## important dates
-Most recent dormancy exit: 
-
-## bio
+## Important dates
+Has been located in memory sea after last reset (21-28 Oct 2025): No
+## Basic bullets
+## Bio
 - full name: Reisen Inaba
 - gender identity: 
 - canon species: [[AI|Holographic]] [[Moon Rabbit]]

@@ -1,6 +1,6 @@
 #galaxysys #headmate 
 ## Important dates
-Most recent dormancy exit: 3 Nov 2025
+Has been located in memory sea after last reset (21-28 Oct 2025): Yes
 ## Basic bullets
 - full name: Estariel
 	- origin: corruption of Sariel «command of God»

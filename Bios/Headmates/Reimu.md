@@ -1,5 +1,6 @@
+#galaxysys #headmate 
 ## Important dates
-Most recent dormancy exit: 
+Has been located in memory sea after last reset (21-28 Oct 2025): Currently deemed irrelevant
 ## Basic bullets
 - full name: Reimu Codarei
 - gender identity: Agender
