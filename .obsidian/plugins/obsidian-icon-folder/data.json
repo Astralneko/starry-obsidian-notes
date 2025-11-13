@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiBrushLine",
-      "RaFireballSword",
-      "LiBird",
-      "RaLightningBolt",
-      "🎈"
+      "RiPlanetLine",
+      "RaFlowers",
+      "RiZzzFill",
+      "LiSparkles",
+      "FabFly"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -58,12 +58,36 @@
     "iconName": "FasMeteor",
     "iconColor": "#d357f3"
   },
-  "Bios/Headmates/Almond.md": "🎈",
-  "Bios/Headmates/Hikari.md": "RaLightningBolt",
-  "Bios/Headmates/Puanga.md": "LiBird",
-  "Bios/Headmates/Kalia.md": "RaFireballSword",
+  "Bios/Headmates/Almond.md": {
+    "iconName": "FabFly",
+    "iconColor": "#cfb698"
+  },
+  "Bios/Headmates/Hikari.md": {
+    "iconName": "RaLightningBolt",
+    "iconColor": "#0088ff"
+  },
+  "Bios/Headmates/Puanga.md": {
+    "iconName": "RaFlowers",
+    "iconColor": "#cd62a3"
+  },
+  "Bios/Headmates/Kalia.md": {
+    "iconName": "RaFireballSword",
+    "iconColor": "#330000"
+  },
   "Bios/Headmates/Estariel.md": {
     "iconName": "RiBrushLine",
     "iconColor": "#23ffea"
+  },
+  "Bios/Headmates/Sparkle.md": {
+    "iconName": "LiSparkles",
+    "iconColor": "#dd0000"
+  },
+  "Bios/Headmates/Takara.md": {
+    "iconName": "RiZzzFill",
+    "iconColor": "#8f9486"
+  },
+  "Bios/Headmates/Yankee.md": {
+    "iconName": "RiPlanetLine",
+    "iconColor": "#d4078c"
   }
 }

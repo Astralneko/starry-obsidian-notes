@@ -1,0 +1,1 @@
+I'm not going to differentiate Pokémon into mortal and immortal ones. Sue me.

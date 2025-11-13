@@ -1,4 +1,5 @@
-'''Condero''' is a city in the region of [[Shadar]]. It is the largest settlement in [[Daman]].
+#worldbuilding #spectradom #shadar 
+**Condero** is a city in the region of [[Shadar]]. It is the largest settlement in [[Daman]].
 
 In [[Drawn to AfterLife]], the Mirai family are from Condero. As a result, the story begins there.
 

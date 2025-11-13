@@ -1,3 +1,4 @@
+#worldbuilding #spectradom 
 This table's calendar year fields don't automatically update, sorry.
 
 | years before present | Rokaselan | Shadaric | Munkayan | Event                                                                                                                                                                          |

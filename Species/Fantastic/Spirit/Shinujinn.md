@@ -1,0 +1,3 @@
+A [[Spectradom]]-original species.
+They are [[Yukacan|supposedly]] connected to [[Ruvafuka|Rému'an the Sky]], and had brought an (until [[Selshan Téshika Téraza Télíta]] showed up) endless darkness to the planet by eating the stars and daylight.
+They resemble [[kanva]]s, particularly the more [[Cat]]like varieties. However, shinujinn have no tail, as their entire belly and waist have been hollowed out for a giant second mouth on their belly.

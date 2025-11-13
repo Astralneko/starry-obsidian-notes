@@ -1,3 +1,4 @@
+#worldbuilding #spectradom #shadar 
 The **Family of Daman** are the rulers of the [[Daman|Shire of Daman]].
 In spite of the name, the Family of Daman is not a monarchy, as members are not related, but see themselves as a family as linked as one formed through blood. In this respect, the Family of Daman more closely resembles a mafia than a royal family.
 ## Induction

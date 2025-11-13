@@ -1,3 +1,4 @@
+#worldbuilding #spectradom #shadar 
 **Daman**, formally the **Shire of Daman** ([[Linnerian]]: *Arcon ea Daman* /ɑð̞kɔn e ɾɑmɑn), is one of the [[Shadaric city-states|Shadaric city-states]]. 
 
 ## Etymology

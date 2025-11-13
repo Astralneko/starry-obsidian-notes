@@ -2,7 +2,8 @@
 ## Important dates
 Has been located in memory sea after last reset (21-28 Oct 2025): Yes
 ## Basic bullets
-- full name: Estariel
+- full name: Estariel Mojito
+	- in [[Rokadong]]: 󴀂󴀂  *Estariel Mohito*
 	- origin: corruption of Sariel «command of God»
 - gender identity: Demifemale
 	- pronouns: they/it/she/mew

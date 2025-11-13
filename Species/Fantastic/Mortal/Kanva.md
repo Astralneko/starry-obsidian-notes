@@ -1,0 +1,1 @@
+Kanvas are a sapient anthropomorphic species from [[Spectradom]]. They are primarily based on cats, and so will fall under the [[Felid]] group, but kanvas can also resemble non-felids, such as foxes and jackals. Specific kanvas will, when noted, list the real world animal they most closwly align with.
