@@ -1,16 +1,34 @@
 /* a.tag[href*=x] = Preview Mode, .cm-tag-x = Edit Mode */
-a.tag[href*='#worldbuilding'] {
+a.tag[href*='#worldbuilding'], a.tag[href*='#conlang']{
   background-color: #17b978;
   color: #fff;
 }
-span.cm-tag-worldbuilding:not(.cm-formatting-hashtag) {
+span.cm-tag-worldbuilding:not(.cm-formatting-hashtag), span.cm-tag-conlang:not(.cm-formatting-hashtag) {
   color: #45e0a2;
 }
 
 a.tag[href*='#spectradom'] {
-  background-image: linear-gradient(to right, #d00, #dd0);
+  background-image: linear-gradient(to right, #b00, #990, #0b0, #099, #00b, #909);
   color: #fff;
 }
 span.cm-tag-spectradom:not(.cm-formatting-hashtag) {
-  color: linear-gradient(to right, red, yellow);
+  background-image: linear-gradient(to right, #b00, #990, #0b0, #099, #00b, #909);
+  color: #fff;
+}
+span.cm-tag-spectradom.cm-formatting-hashtag {
+  background-color: #b00;
+  color: #fff;
+}
+
+a.tag[href*='#quill'] {
+  background-image: linear-gradient(to right, #000, #000, #000, #888);
+  color: #fff;
+}
+span.cm-tag-quill-kingdom:not(.cm-formatting-hashtag) {
+  background-image: linear-gradient(to right, #000, #000, #888);
+  color: #fff;
+}
+span.cm-tag-quill-kingdom.cm-formatting-hashtag {
+  background-color: #000;
+  color: #fff;
 }

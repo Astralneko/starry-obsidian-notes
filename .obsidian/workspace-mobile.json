@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bios/Headmates/Hikari.md",
-                "mode": "source",
+                "file": "Pezen/Languages/Rokadong language/Rokadong.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hikari"
+              "title": "Rokadong"
             }
           }
         ],
@@ -271,9 +271,13 @@
   },
   "active": "0fc16140729d2f4b",
   "lastOpenFiles": [
+    "Pezen/Languages/Rokadong language/Rokadong pronouns.md",
+    "Pezen/Languages/Rokadong language/Rokadong.md",
+    "Pezen/Institutions/Shadaric political structures/Family of Daman.md",
+    "Species/Organic.md",
+    "Bios/Headmates/Hikari.md",
     "Files/My art/Youmu Ref.png",
     "Untitled",
-    "Bios/Headmates/Hikari.md",
     "Species/Organic/Fish/Anglerfish.md",
     "Species/Organic/Fish.md",
     "Species/Organic/Fish",
@@ -288,11 +292,9 @@
     "Bios/Headmates/Marzipan.md",
     "Bios/Headmates/Reimu.md",
     "Bios/Headmates/Sparkle.md",
-    "Pezen/Languages/Rokadong language/Rokadong pronouns.md",
     "Pezen/Languages/Rokadong language/Rokadong grammar.md",
     "Pezen/Languages/Rokadong language/Rokadong phonology.md",
     "Pezen/Languages/Debazi language/Debazi grammar.md",
-    "Pezen/Languages/Rokadong language/Rokadong.md",
     "Bios/Headmates/Estariel.md",
     "Species/Fantastic/Spirit/Moon Rabbit.md",
     "Bios/Headmates/Ruvafuka.md",
@@ -300,7 +302,6 @@
     "Species/Organic/Mammal/Canid/Maned wolf.md",
     "Species/Fantastic/Pokémon/Wigglytuff.md",
     "Species/Organic/Mammal/Rabbit.md",
-    "Species/Organic/Mammal/Canid.md",
     "Species/Organic/Mammal/Felid",
     "Species/Organic/Mammal/Canid",
     "Species/Fantastic/Pokémon",

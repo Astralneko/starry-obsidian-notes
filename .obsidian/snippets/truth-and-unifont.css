@@ -1,28 +1,28 @@
 @font-face {
   font-family: "Truth and Ideals";
   src: local("Truth and Ideals"), url("https://hoard.astaryuu.cc/astaryuu/fonts/Truth And Ideals-Normal.ttf") format(truetype);
-  font-weight: normal;
+  font-weight: 100 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Truth and Ideals";
-  src: local("Truth and Ideals"), url("https://hoard.astaryuu.cc/astaryuu/fonts/Truth And Ideals-Bold.ttf") format(truetype);
-  font-weight: bold;
+  src: local("Truth and Ideals - Bold"), url("https://hoard.astaryuu.cc/astaryuu/fonts/Truth And Ideals-Bold.ttf") format(truetype);
+  font-weight: 500 900;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Truth and Ideals";
-  src: local("Truth and Ideals"), url("https://hoard.astaryuu.cc/astaryuu/fonts/Truth And Ideals-Italic.ttf") format(truetype);
-  font-weight: normal;
+  src: local("Truth and Ideals - Italic"), url("https://hoard.astaryuu.cc/astaryuu/fonts/Truth And Ideals-Italic.ttf") format(truetype);
+  font-weight: 100 500;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Truth and Ideals";
-  src: local("Truth and Ideals"), url("https://hoard.astaryuu.cc/astaryuu/fonts/Truth And Ideals-Bold-Italic.ttf") format(truetype);
-  font-weight: bold;
+  src: local("Truth and Ideals - Bold Italic"), url("https://hoard.astaryuu.cc/astaryuu/fonts/Truth And Ideals-Bold-Italic.ttf") format(truetype);
+  font-weight: 500 900;
   font-style: italic;
 }
 
