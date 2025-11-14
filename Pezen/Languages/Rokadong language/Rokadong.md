@@ -5,6 +5,6 @@ See [[Rokadong phonology]] and [[Dialects of Rokadong]] for more details.
 ## Orthography
 See [[Rokadong orthography]] for more details.
 ## Grammar
-See [[Rokadong grammar]] for more details.
+Rokadong has the most detailed grammar of my conlangs so far. See [[Rokadong grammar]] for an overview.
 ## Lexicon
 See [[Rokadong lexicon]] for more details.

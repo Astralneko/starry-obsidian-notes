@@ -23,16 +23,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bios/Headmates/Estariel.md",
+                "file": "Pezen/Languages/Rokadong language/Rokadong pronouns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estariel"
+              "title": "Rokadong pronouns"
+            }
+          },
+          {
+            "id": "a57bbfe8bd7d6e1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pezen/Languages/Rokadong language/Rokadong pronouns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rokadong pronouns"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,10 +255,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "53cb6fe6b5ef7d56",
+  "active": "a57bbfe8bd7d6e1c",
   "lastOpenFiles": [
-    "Bios/Headmates/Kalia.md",
+    "Pezen/Languages/Rokadong language/Rokadong grammar.md",
+    "Pezen/Languages/Rokadong language/Rokadong pronouns.md",
+    "Pezen/Languages/Rokadong language/Rokadong phonology.md",
+    "Pezen/Languages/Debazi language/Debazi grammar.md",
+    "Pezen/Languages/Rokadong language/Rokadong.md",
     "Bios/Headmates/Estariel.md",
+    "Bios/Headmates/Kalia.md",
     "Bios/Headmates/Marzipan.md",
     "Bios/Headmates/Almond.md",
     "Species/Fantastic/Spirit/Moon Rabbit.md",
@@ -267,11 +286,6 @@
     "DXRI.4067f (Protolang Event)/Nhwétwes Isles.md",
     "Pezen/Institutions/Shadaric political structures/Family of Daman.md",
     "Pezen/Events/History of Pezen.md",
-    "Pezen/Places/Debaz/Provinces of Debaz/West Makhēda.md",
-    "Pezen/Places/Debaz/Provinces of Debaz/Amaril.md",
-    "Pezen/Places/Debaz/Republic of Debaz.md",
-    "Pezen/Places/Shadar/Shadaric city-states.md",
-    "Pezen/Places/Shadar/Shadar.md",
     "DXRI.4067f (Protolang Event)",
     "RDG export 1761561265 1.csv",
     "RDG export 1761561265.csv",
