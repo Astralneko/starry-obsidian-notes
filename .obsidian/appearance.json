@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "truth-and-unifont"
   ],
-  "baseFontSize": 18
+  "baseFontSize": 20,
+  "cssTheme": "Obsidianite"
 }

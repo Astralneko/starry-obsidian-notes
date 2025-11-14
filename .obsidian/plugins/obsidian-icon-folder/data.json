@@ -12,7 +12,7 @@
       "LiSparkles",
       "FabFly"
     ],
-    "recentlyUsedIconsSize": 5,
+    "recentlyUsedIconsSize": 12,
     "rules": [],
     "extraMargin": {
       "top": 0,
@@ -20,7 +20,7 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
+    "iconInTabsEnabled": true,
     "iconInTitleEnabled": true,
     "iconInTitlePosition": "inline",
     "iconInFrontmatterEnabled": false,

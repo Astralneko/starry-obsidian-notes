@@ -3,33 +3,83 @@
 ```
 # Standard pronouns
 ## 1st person
-
-| Gloss | Used when... | English | Rokadong | Notes |
-| ----- | ------------ | ------- | -------- | ----- |
-|       |              |         |          |       |
+| Gloss           | Used when...                                    | English       | Rokadong | Notes                                                                         |
+| :-------------- | :---------------------------------------------- | :------------ | :------- | :---------------------------------------------------------------------------- |
+| 11              | when talking to self                            | I             | ká       |                                                                               |
+| 1s.INTM         | with an intimate partner                        | ^             | nyu      | oceanic only; aya is used here elsewhere; -nya =GEN.1s like aya               |
+| 1s.FAM          | with friends, family, or lovers                 | ^             | aya      |                                                                               |
+| 1s.CASL         | in a casual environment                         | ^             | zahal    | lit. "friend"; aya is often used here as well; -nya =GEN.1s like aya          |
+| ^               | ^                                               | ^             | cán      | Puram and continental only - zahal or aya is used here as well; -can =GEN.1s  |
+| 1s.NTL          | neutral respect; in a semi-formal environment   | ^             | nata     |                                                                               |
+| 1s.FOR          | in a formal environment                         | I, we (royal) | nahata   | in casual environments, is seen as emotionally distant                        |
+| 1s.HUM          | addressing noblepersons                         | I             | pacun    |                                                                               |
+| ^               | polite, deferential; often used in sales/market | ^             | piyoka   | lit. "servant"                                                                |
+| 1s.IMPS         | imposing respect                                | we (royal)    | bokah    | Karenish to use outside of high-formality environments (especially in market) |
+| 1p.EXCL (13)    | 2 is not included                               | we            | kinah    |                                                                               |
+| 1p.INCL (12(3)) | 2 is included                                   | ^             | kayari   | may also be used as 1s.CASL                                                   |
 ## 2nd person
+| Gloss                | Used when...                                                                                | English     | Rokadong                          | Notes                                                                                                    |
+| -------------------- | ------------------------------------------------------------------------------------------- | ----------- | --------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| 2s.INTM              | with an intimate partner                                                                    | you         | ryu                               | oceanic only; zena is used here elsewhere; -za or -ra =GEN.2s                                            |
+| 2s.FAM               | with friends, family, or lovers                                                             | ^           | zena                              |                                                                                                          |
+| 2s.CASL              | in a casual environment                                                                     | ^           | ^                                 |                                                                                                          |
+| ^                    | ^                                                                                           | ^           | zú                                | Puram and continental only - zena is used here as well; -zo =GEN.1s                                      |
+| 2s.M.CASL            |                                                                                             | ^           | zeda                              | zena + daren                                                                                             |
+| 2s.F.CASL            |                                                                                             | ^           | zenaz                             | zena + nazren                                                                                            |
+| 2s.N.AN.CASL         |                                                                                             | ^           | zerav                             | zena + ravi'en                                                                                           |
+| 2s.N.CASL            |                                                                                             | ^           | zehan                             | zena + an, like all .N pronouns, this is also 2s.INAN                                                    |
+| 2s.NTL               | in a semi-formal environment                                                                | ^           | talah / tau                       | either may see use                                                                                       |
+| 2s.FOR               | in a formal environment                                                                     | ^           | ^                                 |                                                                                                          |
+| 2s.M.FOR             | ^                                                                                           | sir         | ludi                              |                                                                                                          |
+| 2s.F.FOR             | ^                                                                                           | madam       | lunu                              |                                                                                                          |
+| 2s.N.FOR             | ^                                                                                           | (no direct) | luvi                              | rare; the older the speaker, the more likely they'll not use this and instead use ludi for this category |
+| 2s.FOR               | ^                                                                                           | your Honour | javital                           | when addressing a gov't official; could also be considered 2s.IMPS                                       |
+| 2s.HUM               | addressing noblepersons                                                                     | my lord     | kantunya                          | note the irregular use of -nya - theorized to be a self-humbling measure                                 |
+| 2p.FAM               | with friends, family, or loved ones                                                         | you (all)   | zenyaci                           | -zoi =GEN.2s                                                                                             |
+| 2p.CASL              | in a casual environment                                                                     | ^           | ^                                 | ^                                                                                                        |
+| 2p.NTL/FOR           | in a semi-formal or formal environment                                                      | ^           | talah / tau                       |                                                                                                          |
+| ^                    | ^                                                                                           | ^           | talah tékuha / tau tékuha         | only for specificity; talah / tau is preferred                                                           |
+| ^                    | ^                                                                                           | ^           | tauyaci                           | often used by management when addressing their staff; may use -zoi =GEN.2s                               |
+| 2p.G?.INTM/FAM/ CASL | in the same circumstances as the original 2s (takes on the same gender and formality as it) | ^           | (any 2s.INTM, FAM, or CASL)yaci   | -zoi =GEN.2s                                                                                             |
+| 2p.G?.NTL/FOR/ IMPS  | in the same circumstances as the original 2s (takes on the same gender and formality as it) | ^           | (any 2s.NTL, FOR, or IMPS) tékuha | like talah / tau, the tékuha is optional                                                                 |
 
-| Gloss | Used when... | English | Rokadong | Notes |
-| ----- | ------------ | ------- | -------- | ----- |
-|       |              |         |          |       |
 ## 3rd person
 
-| Gloss | Used when... | English | Rokadong | Notes |
-| ----- | ------------ | ------- | -------- | ----- |
-|       |              |         |          |       |
+| Gloss       | Used when...                                 | English         | Rokadong    | Notes                                                                                  |
+| ----------- | -------------------------------------------- | --------------- | ----------- | -------------------------------------------------------------------------------------- |
+| 3uvn        | in a casual environment                      | they (singular) | lan         | considered ungrammatical; 3s.NB or 4 is preferred esp. in formal situations            |
+| 3s.M        | anywhere                                     | he              | landa       |                                                                                        |
+| 3s.F        | ^                                            | she             | lanaz       |                                                                                        |
+| 3s.N.AN     | ^                                            | they, xe        | lanil       |                                                                                        |
+| 3s.N        | ^                                            | it              | an          | also 3s.INAN                                                                           |
+| 3p.CASL     | with friends/family/etc., casual environment | they            | lanil razil | originally was the latter, now is the former except in conservative dialects           |
+| (3p.N.CASL) | ^                                            | ^               | ^           | ^                                                                                      |
+| (3p.M.CASL) | ^                                            | ^               | landa razil | only used in conservative dialects (and in said dialects it may also be 3s.NB.FAM/CAS) |
+| (3p.F.CASL) | ^                                            | ^               | lanaz razil | only used in conservative dialects                                                     |
+| 3p.NTL/FOR  | in a semi-formal or formal environment       | ^               | kamusha     |                                                                                        |
+| ^           | ^                                            | ^               | kamusha ibi |                                                                                        |
+| ^           | ^                                            | ^               | razil ibi   | lit. "those people"                                                                    |
+| 4           | ^                                            | one             | ika         |                                                                                        |
+
 # Neopronouns
-## 1st person
+| Gloss       | Used when...                                                                                                                  | English       | Rokadong         | Notes                                                                                                            |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------- |
+| (see above) | \~yaci, lanil, luvi, zehan, zerav are all recent enough to be considered neopronouns, they're just more common than the below | <             | <                | <                                                                                                                |
+| 1s&(.CASL)  | used in any context where "this person" and "this body" need disambiguation; the former uses standard singular pronouns       | I(&), we      | ayazal / ayaci   | sometimes the aya/ayazal pairing is instead ká/aya, see zenzal                                                   |
+| 2s&(.CASL)  | ^                                                                                                                             | you(&), y'all | zenzal / zenaci  | nonstandard, "zal" is short for "zahal", in this case its nonpronoun meaning; -yaci variants are generally rarer |
+| 3s&(.CASL)  | ^                                                                                                                             | they(&)       | lanizal / lanaci | ^                                                                                                                |
+| 1s.M        | coined by analogy to the 2s and 3s series                                                                                     |               | (any 1sg)da      | natada → nadda is common                                                                                         |
+| 1s.F        | ^                                                                                                                             |               | (any 1sg)naz     | also may be \~na                                                                                                 |
+| ^           | ^                                                                                                                             |               | (any 1sg)nu      | for all these, "zahal" root is typically shortened to "zal"                                                      |
+| 1s.N        | ^                                                                                                                             |               | (any 1sg)ra      | zalra → zara sometimes occurs                                                                                    |
+| ^           | ^                                                                                                                             |               | (any 1sg)vi      | also may be \~fi                                                                                                 |
+| 1s          | originally-archaic pronouns, which have been revived as loaned borrowings in languages that retain them                       | I             |                  |                                                                                                                  |
+| 2s          | ^                                                                                                                             | you           |                  |                                                                                                                  |
+| 3s          | ^                                                                                                                             | they          |                  |                                                                                                                  |
+| 1s.M        | ^                                                                                                                             |               |                  |                                                                                                                  |
+| 1s.F        | ^                                                                                                                             |               |                  |                                                                                                                  |
+| 2s.M        | ^                                                                                                                             |               |                  |                                                                                                                  |
+| 2s.F        | ^                                                                                                                             |               |                  |                                                                                                                  |
+| 3s.M        | ^                                                                                                                             | he            |                  |                                                                                                                  |
+| 3s.F        | ^                                                                                                                             | she           |                  |                                                                                                                  |
 
-| Gloss | Used when... | English | Rokadong | Notes |
-| ----- | ------------ | ------- | -------- | ----- |
-|       |              |         |          |       |
-## 2nd person
-
-| Gloss | Used when... | English | Rokadong | Notes |
-| ----- | ------------ | ------- | -------- | ----- |
-|       |              |         |          |       |
-## 3rd person
-
-| Gloss | Used when... | English | Rokadong | Notes |
-| ----- | ------------ | ------- | -------- | ----- |
-|       |              |         |          |       |

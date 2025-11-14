@@ -43,5 +43,6 @@
     "obsidian-icon-folder:iconize:set-icon-for-file",
     "editor:table-row-delete"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true
 }

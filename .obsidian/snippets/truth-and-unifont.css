@@ -1,35 +1,10 @@
-@font-face{
-   font-family: 'Truth and Ideals';
-   src: url("https://cdn.jsdelivr.net/gh/Astralneko/ahrokajang@master/Truth and Ideals-Normal.ttf") format('truetype');
-   font-weight: normal;
-   font-style: normal;
-}
 
-@font-face{
-   font-family: 'Truth and Ideals';
-   src: url("https://cdn.jsdelivr.net/gh/Astralneko/ahrokajang@master/Truth and Ideals-Bold.ttf") format('truetype');
-   font-weight: bold;
-   font-style: normal;
-}
-
-@font-face{
-   font-family: 'Truth and Ideals';
-   src: url("https://cdn.jsdelivr.net/gh/Astralneko/ahrokajang@master/Truth and Ideals-Italic.ttf") format('truetype');
-   font-weight: normal;
-   font-style: italic;
-}
-
-@font-face{
-   font-family: 'Truth and Ideals';
-   src: url("https://cdn.jsdelivr.net/gh/Astralneko/ahrokajang@master/Truth and Ideals-Bold-Italic.ttf") format('truetype');
-   font-weight: bold;
-   font-style: italic;
-}
 
 body {
 	--font-interface-theme: "Truth and Ideals", "Unifont", "Unifont JP", "Unifont Upper";
 	--font-text-theme: "Truth and Ideals", "Unifont", "Unifont JP", "Unifont Upper";
 	--font-monospace-theme: "Unifont", "Unifont JP", "Unifont Upper";
+	--tag-font-family: "Unifont", "Unifont JP", "Unifont Upper";
 	--line-height-normal: 1.2;
 	--line-height-tight: 1;
 	--font-ui-smallest: 14px;
