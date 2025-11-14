@@ -3,25 +3,25 @@
 ```
 # Standard pronouns
 ## 1st person
-| Gloss           | Used when...                                    | English       | Rokadong | Notes                                                                         |
-| :-------------- | :---------------------------------------------- | :------------ | :------- | :---------------------------------------------------------------------------- |
-| 11              | when talking to self                            | I             | ká       |                                                                               |
-| 1s.INTM         | with an intimate partner                        | ^             | nyu      | oceanic only; aya is used here elsewhere; -nya =GEN.1s like aya               |
-| 1s.FAM          | with friends, family, or lovers                 | ^             | aya      |                                                                               |
-| 1s.CASL         | in a casual environment                         | ^             | zahal    | lit. "friend"; aya is often used here as well; -nya =GEN.1s like aya          |
-| ^               | ^                                               | ^             | cán      | Puram and continental only - zahal or aya is used here as well; -can =GEN.1s  |
-| 1s.NTL          | neutral respect; in a semi-formal environment   | ^             | nata     |                                                                               |
-| 1s.FOR          | in a formal environment                         | I, we (royal) | nahata   | in casual environments, is seen as emotionally distant                        |
-| 1s.HUM          | addressing noblepersons                         | I             | pacun    |                                                                               |
-| ^               | polite, deferential; often used in sales/market | ^             | piyoka   | lit. "servant"                                                                |
-| 1s.IMPS         | imposing respect                                | we (royal)    | bokah    | Karenish to use outside of high-formality environments (especially in market) |
-| 1p.EXCL (13)    | 2 is not included                               | we            | kinah    |                                                                               |
-| 1p.INCL (12(3)) | 2 is included                                   | ^             | kayari   | may also be used as 1s.CASL                                                   |
+|           Gloss | Used when...                                    | English       | Rokadong       | Notes                                                                         |
+| --------------: | :---------------------------------------------- | :------------ | :------------- | :---------------------------------------------------------------------------- |
+|              11 | when talking to self                            | I             |  *ká*        |                                                                               |
+|         1s.INTM | with an intimate partner                        | ^             |  *nyu*       | oceanic only; aya is used here elsewhere; -nya =GEN.1s like aya               |
+|          1s.FAM | with friends, family, or lovers                 | ^             |  *aya*       |                                                                               |
+|         1s.CASL | in a casual environment                         | ^             |  *zahal*    | lit. "friend"; aya is often used here as well; -nya =GEN.1s like aya          |
+|               ^ | ^                                               | ^             |  *cán*      | Puram and continental only - zahal or aya is used here as well; -can =GEN.1s  |
+|          1s.NTL | neutral respect; in a semi-formal environment   | ^             |  *nata*      |                                                                               |
+|          1s.FOR | in a formal environment                         | I, we (royal) |  *nahata*   | in casual environments, is seen as emotionally distant                        |
+|          1s.HUM | addressing noblepersons                         | I             |  *pacun*   |                                                                               |
+|               ^ | polite, deferential; often used in sales/market | ^             |  *piyoka* | lit. "servant"                                                                |
+|         1s.IMPS | imposing respect                                | we (royal)    |  *bokah*   | Karenish to use outside of high-formality environments (especially in market) |
+|    1p.EXCL (13) | 2 is not included                               | we            |  *kinah*   |                                                                               |
+| 1p.INCL (12(3)) | 2 is included                                   | ^             |  *kayari*  | may also be used as 1s.CASL                                                   |
 ## 2nd person
 | Gloss                | Used when...                                                                                | English     | Rokadong                          | Notes                                                                                                    |
 | -------------------- | ------------------------------------------------------------------------------------------- | ----------- | --------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| 2s.INTM              | with an intimate partner                                                                    | you         | ryu                               | oceanic only; zena is used here elsewhere; -za or -ra =GEN.2s                                            |
-| 2s.FAM               | with friends, family, or lovers                                                             | ^           | zena                              |                                                                                                          |
+| 2s.INTM              | with an intimate partner                                                                    | you         |  ryu                           | oceanic only; zena is used here elsewhere; -za or -ra =GEN.2s                                            |
+| 2s.FAM               | with friends, family, or lovers                                                             | ^           |  zena                           |                                                                                                          |
 | 2s.CASL              | in a casual environment                                                                     | ^           | ^                                 |                                                                                                          |
 | ^                    | ^                                                                                           | ^           | zú                                | Puram and continental only - zena is used here as well; -zo =GEN.1s                                      |
 | 2s.M.CASL            |                                                                                             | ^           | zeda                              | zena + daren                                                                                             |

@@ -37,16 +37,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pezen/Languages/Rokadong language/Rokadong pronouns.md",
+                "file": "Species/Organic/Fish.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rokadong pronouns"
+              "title": "Fish"
+            }
+          },
+          {
+            "id": "0fc16140729d2f4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bios/Headmates/Hikari.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hikari"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -255,43 +269,43 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a57bbfe8bd7d6e1c",
+  "active": "0fc16140729d2f4b",
   "lastOpenFiles": [
-    "Pezen/Languages/Rokadong language/Rokadong grammar.md",
+    "Files/My art/Youmu Ref.png",
+    "Untitled",
+    "Bios/Headmates/Hikari.md",
+    "Species/Organic/Fish/Anglerfish.md",
+    "Species/Organic/Fish.md",
+    "Species/Organic/Fish",
+    "Species/Fantastic/Mortal/Merfolk.md",
+    "Species/Fantastic/Mortal/Kanva.md",
+    "Bios/Headmates/Kalia.md",
+    "Bios/Headmates/Almond.md",
+    "Bios/Headmates/Youmu.md",
+    "Files/My art",
+    "Files",
+    "Bios/Headmates/Yankee.md",
+    "Bios/Headmates/Marzipan.md",
+    "Bios/Headmates/Reimu.md",
+    "Bios/Headmates/Sparkle.md",
     "Pezen/Languages/Rokadong language/Rokadong pronouns.md",
+    "Pezen/Languages/Rokadong language/Rokadong grammar.md",
     "Pezen/Languages/Rokadong language/Rokadong phonology.md",
     "Pezen/Languages/Debazi language/Debazi grammar.md",
     "Pezen/Languages/Rokadong language/Rokadong.md",
     "Bios/Headmates/Estariel.md",
-    "Bios/Headmates/Kalia.md",
-    "Bios/Headmates/Marzipan.md",
-    "Bios/Headmates/Almond.md",
     "Species/Fantastic/Spirit/Moon Rabbit.md",
     "Bios/Headmates/Ruvafuka.md",
     "Bios/Headmates/Sahara.md",
     "Species/Organic/Mammal/Canid/Maned wolf.md",
     "Species/Fantastic/Pokémon/Wigglytuff.md",
-    "Species/Fantastic/Mortal/Kanva.md",
     "Species/Organic/Mammal/Rabbit.md",
     "Species/Organic/Mammal/Canid.md",
-    "Species/Organic/Mammal/Felid.md",
     "Species/Organic/Mammal/Felid",
     "Species/Organic/Mammal/Canid",
-    "Species/Organic/Mammal/Felid/Cat.md",
-    "Species/Fantastic/Spirit/Shinujinn.md",
-    "Species/Fantastic/Spirit/Kitsune.md",
-    "Species/Fantastic/Pokémon.md",
-    "Species/Fantastic.md",
     "Species/Fantastic/Pokémon",
-    "DXRI.4067f (Protolang Event)/Nhwétwes Isles.md",
-    "Pezen/Institutions/Shadaric political structures/Family of Daman.md",
-    "Pezen/Events/History of Pezen.md",
     "DXRI.4067f (Protolang Event)",
     "RDG export 1761561265 1.csv",
-    "RDG export 1761561265.csv",
-    "calendar thingy.sheet.xlsx",
-    "calendar thingy.xlsx",
-    "Pezen/Shadar",
-    "Pezen/Karentahn/Matelian language"
+    "RDG export 1761561265.csv"
   ]
 }

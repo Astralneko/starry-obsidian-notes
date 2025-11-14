@@ -9,4 +9,13 @@ Has been located in memory sea after last reset (21-28 Oct 2025): Yes
 - sources, if any: Youmu Konpaku (R2) (Touhou LostWord)
 - origin: [[Reimu]] calls her her shikigami, but she was not discovered until way later due to [[Reisen]] feeling under the weather
 ## Appearance
-will add image soon^TM^
+![[Youmu Ref.png]]
+## In more detail
+### Preferences
+H
+### Canon information
+#### Abilities
+
+#### History
+### In-sys relations
+Deeply afraid of [[Reimu]], her boss, so to speak. Seems to have helped form [[Zephyr]] and/or [[Ganymede]] to reinforce positive thoughts.
