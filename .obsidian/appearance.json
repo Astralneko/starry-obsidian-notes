@@ -2,8 +2,9 @@
   "textFontFamily": "",
   "interfaceFontFamily": "",
   "enabledCssSnippets": [
-    "truth-and-unifont"
+    "truth-and-unifont",
+    "tags"
   ],
   "baseFontSize": 20,
-  "cssTheme": ""
+  "cssTheme": "Obsidianite"
 }

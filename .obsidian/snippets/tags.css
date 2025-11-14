@@ -1,0 +1,16 @@
+/* a.tag[href*=x] = Preview Mode, .cm-tag-x = Edit Mode */
+a.tag[href*='#worldbuilding'] {
+  background-color: #17b978;
+  color: #fff;
+}
+span.cm-tag-worldbuilding:not(.cm-formatting-hashtag) {
+  color: #45e0a2;
+}
+
+a.tag[href*='#spectradom'] {
+  background-image: linear-gradient(to right, #d00, #dd0);
+  color: #fff;
+}
+span.cm-tag-spectradom:not(.cm-formatting-hashtag) {
+  color: linear-gradient(to right, red, yellow);
+}
