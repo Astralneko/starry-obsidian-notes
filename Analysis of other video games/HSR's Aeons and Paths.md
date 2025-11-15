@@ -55,7 +55,7 @@ Like the Family, Tribios headmates- er, FRAGMENTS, sorry, my headcanon got away 
 
 However, unlike what has been confirmed for the Family, Tribios fragments lose their power over time as they use it, and eventually their ego dies. When this is close to happening, the afflicted fragment gains amnesia barriers, slowly losing all memories they did not personally make, and eventually deteriorating into the form of a plush doll. However, the living fragments seem to remember the experiences of the fallen fragment, **including their death**. Tribbie has a playable nightmare sequence where the original's mother chants a horrific prophecy, while their childhood home is filled with all 997 fallen fragments - clearly a repressed memory that was unlocked by Trianne's oncoming ego death.
 
-And yet, ego death is precisely Xipe's preferred outcome: it subsumed Ena, killing THEIR spirit but maintaining THEIR body and power.
+And yet, ego death is precisely Xipe's preferred outcome: it subsumed Ena, killing THEIR spirit but maintaining THEIR body and power. This would obviously be Lygus's answer for how the Harmony is Destructive.
 ## Nihility
 The ultimate fate of the multiverse is nothingness, and therefore, worthless. Action is meaningless; it is not worth worrying about your actions or inactions. When faced with nothingness, apathy and laziness is the only understandable outcome.
 ### Device IX
@@ -71,7 +71,7 @@ There are two Emanators of the Preservation, both IPC chief officers: CSO Diamon
 
 There is a virtual Emanator, \[EleOs252] Hyacine, but she's virtual, and inherits the role from (unofficial code) \[EleOs251] Seliose, who stole the role from Aquila the Sky (side note - Akivili's name is derived from Aquila's name). Seliose is just as much of a fake Emanator as the IPC Emanators, just for different reasons: Seliose determined that leaving Amphoreus should be illegal, as it would be too dangerous, and so Seliose/Aquila forbids all flight in Amphoreus. With hindsight, I think Seliose was actually made aware of the truth of Amphoreus, perhaps by Lygus, and reasoned that if anyone were able to leave Amphoreus, Irontomb would awaken. Seliose could not handle being an Emanator for thousands of simulated years, especially when that meant keeping Amphoreus caged, causing her to go mad and eventually fall to the black tide (Destruction) - basically making her an Emanator version of Cocolia, who also fell to the Destruction due to the powers that be twisting her definition of Preservation.
 
-With this in mind, Hyacine is the only actually altruistic Emanator of Preservation, virtual or otherwise, and her entire world gets rocked by meeting her hero (Seliose) and seeing the end of everything. I'm convinced that in Seliose's place, Hyacine would also fall to Destruction.
+With this in mind, Hyacine is the only actually altruistic Emanator of Preservation, virtual or otherwise, and her entire world gets rocked by meeting her hero (Seliose) and seeing the end of everything. I'm convinced that in Seliose's place, Hyacine would also fall to Destruction, and probably faster.
 ## Abundance
 Death and illness is a blight that must be stopped. Perfection and immortality are synonymous. Prosperity is derived from selflessness and altruism.
 ### Yaoshi
@@ -107,7 +107,7 @@ All things in the the universe are beautiful. The universe can best be understoo
 ### Idrila and THEIR Followers
 Idrila is assumed to be dead before the events of the story. THEIR most ardent followers, the Knights of Beauty, think THEY have merely disappeared, but the Mirror Holders, the Xianzhou Luofu Divination Commission, and the Astral Express all seem to agree that THEY have, in fact, died.
 
-There are two Emanator-adjacent beings for Idrila. There is a self-proclaimed Emanator of the Beauty in the Mirror Holders, who goes unnamed but that I'm pretty sure is Narcissus. There is also the virtual Emanator, \[KaLos618] Aglaea. Aglaea ends up usually killing herself to help push the other Flame-Chasers to the Era Nova. This may be a mirror of how Idrila
+There are two Emanator-adjacent beings for Idrila. There is a self-proclaimed Emanator of the Beauty in the Mirror Holders, who goes unnamed but that I'm pretty sure is Narcissus. There is also the virtual Emanator, \[KaLos618] Aglaea. Aglaea ends up usually killing herself to help push the other Flame-Chasers to the Era Nova. This may be a mirror of how Idrila died.
 ## Permanence
 One person may be transient, but inheritance lasts forever. We cannot escape history; those who wrote it have permanently altered the universe.
 ### Long and Terravox

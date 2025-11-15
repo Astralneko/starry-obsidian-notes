@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bios/Headmates/Zephyr.md",
+                "file": "Analysis of other video games/HSR's Aeons and Paths.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zephyr"
+              "title": "HSR's Aeons and Paths"
             }
           },
           {
@@ -31,8 +31,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,8 +240,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0fc16140729d2f4b",
+  "active": "237bbaa6847455c0",
   "lastOpenFiles": [
+    "Bios/Headmates/Alice.md",
+    "Analysis of other video games/HSR's Aeons and Paths.md",
     "Bios/Headmates/Zephyr.md",
     "Bios/Headmates/Ruvafuka.md",
     "Bios/Headmates/Yun.md",
@@ -267,8 +268,6 @@
     "Bios/Headmates/Kalia.md",
     "Bios/Headmates/Junko.md",
     "Bios/Headmates/Jade.md",
-    "Bios/Headmates/Hikari.md",
-    "Bios/Headmates/Hatena.md",
     "Species/Organic/Reptilian",
     "Analysis of other video games",
     "Files/My art/Youmu Ref.png",
