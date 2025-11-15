@@ -11,70 +11,28 @@
             "id": "237bbaa6847455c0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "53cb6fe6b5ef7d56",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Pezen/Languages/Rokadong language/Rokadong pronouns.md",
+                "file": "Bios/Headmates/Zephyr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rokadong pronouns"
-            }
-          },
-          {
-            "id": "a57bbfe8bd7d6e1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Species/Organic/Fish.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fish"
+              "title": "Zephyr"
             }
           },
           {
             "id": "0fc16140729d2f4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pezen/Languages/Rokadong language/Rokadong.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rokadong"
-            }
-          },
-          {
-            "id": "2567ad811f1af4db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analysis of other video games/HSR's Aeons and Paths.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HSR's Aeons and Paths"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -283,44 +241,44 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2567ad811f1af4db",
+  "active": "0fc16140729d2f4b",
   "lastOpenFiles": [
-    "Notes on dreams.md",
-    "Analysis of other video games/HSR's Aeons and Paths.md",
-    "Analysis of other video games",
-    "Pezen/Languages/Rokadong language/Rokadong.md",
-    "Pezen/Languages/Rokadong language/Rokadong pronouns.md",
-    "Pezen/Institutions/Shadaric political structures/Family of Daman.md",
-    "Species/Organic.md",
-    "Bios/Headmates/Hikari.md",
-    "Files/My art/Youmu Ref.png",
-    "Species/Organic/Fish/Anglerfish.md",
-    "Species/Organic/Fish.md",
-    "Species/Organic/Fish",
-    "Species/Fantastic/Mortal/Merfolk.md",
-    "Species/Fantastic/Mortal/Kanva.md",
-    "Bios/Headmates/Kalia.md",
-    "Bios/Headmates/Almond.md",
+    "Bios/Headmates/Zephyr.md",
+    "Bios/Headmates/Ruvafuka.md",
+    "Bios/Headmates/Yun.md",
     "Bios/Headmates/Youmu.md",
+    "Bios/Headmates/Yankee.md",
+    "Bios/Headmates/Trinity.md",
+    "Bios/Headmates/Techikas’.md",
+    "Bios/Headmates/Takara.md",
+    "Bios/Headmates/Sparkle.md",
+    "Bios/Headmates/Solin.md",
+    "Bios/Headmates/Seolyeong.md",
+    "Bios/Headmates/Sahara.md",
+    "Bios/Headmates/Rena.md",
+    "Bios/Headmates/Reisen.md",
+    "Bios/Headmates/Reimu.md",
+    "Bios/Headmates/Puanga.md",
+    "Bios/Headmates/Paradox.md",
+    "Bios/Headmates/Nozomi.md",
+    "Bios/Headmates/Neka.md",
+    "Bios/Headmates/Mitten.md",
+    "Bios/Headmates/Marzipan.md",
+    "Bios/Headmates/Kalia.md",
+    "Bios/Headmates/Junko.md",
+    "Bios/Headmates/Jade.md",
+    "Bios/Headmates/Hikari.md",
+    "Bios/Headmates/Hatena.md",
+    "Species/Organic/Reptilian",
+    "Analysis of other video games",
+    "Files/My art/Youmu Ref.png",
+    "Species/Organic/Fish",
     "Files/My art",
     "Files",
-    "Bios/Headmates/Yankee.md",
-    "Bios/Headmates/Marzipan.md",
-    "Bios/Headmates/Reimu.md",
-    "Bios/Headmates/Sparkle.md",
-    "Pezen/Languages/Rokadong language/Rokadong grammar.md",
-    "Pezen/Languages/Rokadong language/Rokadong phonology.md",
-    "Pezen/Languages/Debazi language/Debazi grammar.md",
-    "Bios/Headmates/Estariel.md",
-    "Species/Fantastic/Spirit/Moon Rabbit.md",
-    "Bios/Headmates/Ruvafuka.md",
-    "Bios/Headmates/Sahara.md",
-    "Species/Organic/Mammal/Canid/Maned wolf.md",
     "Species/Organic/Mammal/Felid",
     "Species/Organic/Mammal/Canid",
     "Species/Fantastic/Pokémon",
     "DXRI.4067f (Protolang Event)",
-    "RDG export 1761561265 1.csv",
-    "RDG export 1761561265.csv"
+    "RDG export 1761561265 1.csv"
   ]
 }

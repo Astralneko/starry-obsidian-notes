@@ -42,7 +42,7 @@
     "automatic-table-of-contents:insert-automatic-table-of-contents",
     "obsidian-icon-folder:iconize:set-icon-for-file",
     "editor:table-row-delete",
-    "obsidian-regex-replace:obsidian-regex-replace"
+    "copy-as-html:copy-as-html-command"
   ],
   "alwaysUpdateLinks": true,
   "readableLineLength": true

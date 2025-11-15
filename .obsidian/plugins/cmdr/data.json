@@ -3,7 +3,20 @@
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
-  "fileMenu": [],
+  "fileMenu": [
+    {
+      "id": "copy-as-html:copy-as-html-command",
+      "icon": "lucide-code-2",
+      "name": "Copy as HTML: Copy as HTML command",
+      "mode": "any"
+    },
+    {
+      "id": "advanced-copy:copy-page",
+      "icon": "lucide-copy",
+      "name": "Advanced Copy: Copy page",
+      "mode": "any"
+    }
+  ],
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],

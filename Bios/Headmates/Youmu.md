@@ -1,9 +1,10 @@
-#galaxysys #headmate 
+#galaxysys #headmate #cyberscape-floor 
 ## Important dates
 Has been located in memory sea after last reset (21-28 Oct 2025): Yes
 ## Basic bullets
-- full name: Youmu Hanahaki
-- gender identity: 
+- full name: Youmu Hanahaki \[Br9]
+- gender identity: female??
+	- pronouns: she/kit/they
 - canon species: [[AI|Holographic]] [[Kitsune|Kitsune]]
 - role: doekid / middle
 - sources, if any: Youmu Konpaku (R2) (Touhou LostWord)

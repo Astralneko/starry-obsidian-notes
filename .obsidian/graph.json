@@ -3,10 +3,53 @@
   "search": "tag:#headmate  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#seascape-floor",
+      "color": {
+        "a": 1,
+        "rgb": 1004788
+      }
+    },
+    {
+      "query": "tag:#cyberscape-floor  ",
+      "color": {
+        "a": 1,
+        "rgb": 65343
+      }
+    },
+    {
+      "query": "tag:#voidscape-floor  ",
+      "color": {
+        "a": 1,
+        "rgb": 5118753
+      }
+    },
+    {
+      "query": "tag:#dreamscape-floor  ",
+      "color": {
+        "a": 1,
+        "rgb": 13391528
+      }
+    },
+    {
+      "query": "tag:#snowscape-floor  ",
+      "color": {
+        "a": 1,
+        "rgb": 5434878
+      }
+    },
+    {
+      "query": "tag:#starscape-floor  ",
+      "color": {
+        "a": 1,
+        "rgb": 12982250
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,

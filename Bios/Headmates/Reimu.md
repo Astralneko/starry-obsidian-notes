@@ -1,8 +1,8 @@
-#galaxysys #headmate 
+#galaxysys #headmate #cyberscape-floor 
 ## Important dates
 Has been located in memory sea after last reset (21-28 Oct 2025): Currently deemed irrelevant
 ## Basic bullets
-- full name: Reimu Codarei
+- full name: Reimu Codarei \[F15]
 - gender identity: Agender
 	- pronouns: it/its
 - canon species: 
@@ -98,4 +98,4 @@ Nevesbbe nnshbsbbsbsssss s
 Can fly. Can also instantly set anything in headspace alight in holy fire.
 #### History
 ### In-sys relations
-"Created" [[Youmu]] as its mouthpiece.
+"Created" [[Youmu]] as its mouthpiece. Seems to prefer avoiding conversation, which may be why it dpes not acknowledge [[Puanga]]. That being said, repeatedly has reverted mainly Aizaki-descended headmates, particularly [[Almond]] and [[Hikari]].
