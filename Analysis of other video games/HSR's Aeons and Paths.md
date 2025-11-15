@@ -1,3 +1,5 @@
+```table-of-contents
+```
 ## Trailblaze
 There are three directions on the compass of destiny — the Unknown, the Known, and the Unknowable. We can tolerate the Unknown, but will never bow to the Unknowable. The Trailblazer is one who values connection.
 
@@ -5,7 +7,7 @@ The Trailblaze was confirmed by 3.7 to have been absorbed by the Finality.
 ### Akivili
 Akivili was a human from Pegana that presumably built the Astral Express. The Astral Express still uses Pegana's year as the basis of its own calendar, even though they frequently deal with the IPC and Pegana seems to no longer exist.
 ### Emanators
-The only known Emanator of the Trailblaze is Mikhail. He helped free Asdana, referred to as Penacony by both natives and IPC representatives, from IPC rule. Mikhail is not confirmed to be an Emanator directly, but generally speaking, only Emanators have the ability to revive without the Abundance, as Mikhail did through Misha.
+Mikhail is not a confirmed Emanator, but of all revealed characters, he fits thHe helped free Asdana, referred to as Penacony by both natives and IPC representatives, from IPC rule. Mikhail is not confirmed to be an Emanator directly, but generally speaking, only Emanators have the ability to revive without the Abundance, as Mikhail did through Misha.
 ## Destruction
 The birth of the universe is a mistake. If civilization is a cancer emerging quietly from the boundless stars, then war is the only common language known to all intelligent life. Reckless action is the easiest to understand, and so is the best.
 ### Nanook
