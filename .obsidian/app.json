@@ -41,7 +41,8 @@
     "editor:table-col-align-right",
     "automatic-table-of-contents:insert-automatic-table-of-contents",
     "obsidian-icon-folder:iconize:set-icon-for-file",
-    "editor:table-row-delete"
+    "editor:table-row-delete",
+    "obsidian-regex-replace:obsidian-regex-replace"
   ],
   "alwaysUpdateLinks": true,
   "readableLineLength": true
