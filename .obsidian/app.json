@@ -39,10 +39,11 @@
     "editor:table-col-align-left",
     "editor:table-col-align-center",
     "editor:table-col-align-right",
+    "table-editor-obsidian:evaluate-formulas",
     "automatic-table-of-contents:insert-automatic-table-of-contents",
     "obsidian-icon-folder:iconize:set-icon-for-file",
     "editor:table-row-delete",
-    "copy-as-html:copy-as-html-command"
+    "editor:fold-all"
   ],
   "alwaysUpdateLinks": true,
   "readableLineLength": true

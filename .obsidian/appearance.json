@@ -6,5 +6,6 @@
     "tags"
   ],
   "baseFontSize": 20,
-  "cssTheme": "Obsidianite"
+  "cssTheme": "Obsidianite",
+  "accentColor": ""
 }
