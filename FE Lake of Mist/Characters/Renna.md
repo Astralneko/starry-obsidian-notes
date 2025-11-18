@@ -1,14 +1,14 @@
 #fe-lake-of-mist #fe-lom-character
 ## Stats
 
-| Entry Chapter       | -   | [[0b "Defense of Albacet"]]     |
-| ------------------- | --- | ------------------------------- |
-| Starting Race/Class | -   | Taguel Archer                   |
-| Starting Level      | -   | 1                               |
-| Gender/Age          | -   | 16, F                           |
-| Base Weapon Ranks   | -   | Bows: C                         |
-| Base Supports       | -   | [[Huyao\|Huyao]]: 20 to C |
-| ^                   | -   | [[Renna]]: 50 to C              |
+| Entry Chapter       | -   | [[0b "Defense of Albacet"]] |
+| ------------------- | --- | --------------------------- |
+| Starting Race/Class | -   | Taguel Archer               |
+| Starting Level      | -   | 1                           |
+| Gender/Age          | -   | 16, F                       |
+| Base Weapon Ranks   | -   | Bows: C                     |
+| Base Supports       | -   | [[Huyao\|Huyao]]: 20 to C   |
+| ^                   | -   | [[Renna]]: 50 to C          |
 Personal Skill:
 
 |            | -   | Base | Growth |

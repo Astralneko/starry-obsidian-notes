@@ -1,13 +1,13 @@
 #fe-lake-of-mist #fe-lom-character
 ## Stats
 
-| Entry Chapter       | -   | [[0a "Sparring with Father"]]     |
-| ------------------- | --- | --------------------------------- |
-| Starting Race/Class | -   | Kumiho Paladin                    |
-| Starting Level      | -   | 1 (21)                            |
-| Gender/Age          | -   | 42, M                             |
-| Base Weapon Ranks   | -   | Axes: C                           |
-| ^                   | -   | Lances: A                         |
+| Entry Chapter       | -   | [[0a "Sparring with Father"]]                          |
+| ------------------- | --- | ------------------------------------------------------ |
+| Starting Race/Class | -   | Kumiho Paladin                                         |
+| Starting Level      | -   | 1 (21)                                                 |
+| Gender/Age          | -   | 42, M                                                  |
+| Base Weapon Ranks   | -   | Axes: C                                                |
+| ^                   | -   | Lances: A                                              |
 | Base Supports       | -   | [[FE Lake of Mist/Characters/Seolyeong\|Seolyeong]]: C |
 Personal Skill:
 
