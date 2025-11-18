@@ -1,0 +1,1 @@
+The **Hoshi no Tama** is the PRF weapon of [[Seolyeong Toran]]. It starts in [[Huyao Toran]]'s possession, and he theoretically could use it, but he warns that "he's never been good with magic" (which is true, as his Magic stat is 0 and its growth is 5%), and he will not use it in Chapter 0.
