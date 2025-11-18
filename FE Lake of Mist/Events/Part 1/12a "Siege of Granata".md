@@ -1,3 +1,4 @@
+#fe-lake-of-mist 
 Chapter 12, "Siege of Granata", is the climax of [[Part 1 of Lake of Mist]].
 ## Gameplay
 "Siege of Granata" is defined as a defend map where the player must defend Granata Castle, the hub of the prologue and Chapters 6-11. However, the turn limit is 99; this is because it is explicitly intended to be impossible. The leading attacker, Captain Mars, is holding the "[[Fire Emblem|Shield of the Ouroboros]]", which deals a bunch of structural damage every time Mars moves. He also refuses to unequip the item even to attack other troops (as it is the only weapon in his inventory), making it so that attacks can only do at most 1 damage to him.

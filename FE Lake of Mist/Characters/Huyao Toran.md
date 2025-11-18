@@ -1,3 +1,4 @@
+#fe-lake-of-mist #fe-lom-character
 ## Stats
 
 | Entry Chapter       | -   | [[0a "Sparring with Father"]]     |

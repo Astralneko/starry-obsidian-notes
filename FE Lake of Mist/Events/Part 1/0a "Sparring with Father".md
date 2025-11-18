@@ -1,3 +1,4 @@
+#fe-lake-of-mist 
 ## Story
 The first chapter of Lake of Mist has protagonist [[Seolyeong Toran|Seolyeong]] spar with her father [[Huyao Toran|Huyao]], in a field outside of the town of Albacet.
 ## Gameplay

@@ -1,3 +1,4 @@
+#fe-lake-of-mist 
 Like Chapters 0c and 0d, but unlike other chapters of similar labels, Chapter 0b is required to progress to Chapter 0c.
 ## Story
 After the sparring match, [[Seolyeong Toran|Seolyeong]]'s childhood friend [[Renna]] appears, congratulating the former on her performance. However, soon afterward, monsters appear in the town proper, so the three of them go over to check it out.

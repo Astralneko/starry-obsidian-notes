@@ -1,3 +1,4 @@
+#fe-lake-of-mist 
 Chapter 0c "The Titling" is the third chapter of Lake of Mist's prologue.
 Like Chapters 0b and 0d, but unlike other chapters of similar labels, Chapter 0c is required to progress to Chapter 0d.
 ## Story
