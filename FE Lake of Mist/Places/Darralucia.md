@@ -1,7 +1,7 @@
 #fe-lake-of-mist #darralucia
 The Caliphate of Darralucia is the nation which Lake of Mist begins in, and is the homeland of the protagonist. Its population is predominantly laguz.
 ## Origin
-Darralucia is based on Andalusia, and carries on a similar name, albeit with some tweaks. As it is the starting location and birthplace of protagonist [[Seolyeong Toran]], the name origin of "dar a la luz" (to give birth) is metatextually sensible.
+Darralucia is based on Andalusia, and carries on a similar name, albeit with some tweaks. As it is the starting location and birthplace of protagonist [[FE Lake of Mist/Characters/Seolyeong|Seolyeong]], the name origin of "dar a la luz" (to give birth) is metatextually sensible.
 ## Structure
 Darralucia is divided into several provinces, mostly along the lines of laguz clans, such that each province's majority population is one laguz clan.
 

@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaLanternFlame",
       "RiPlanetLine",
       "RaFlowers",
       "RiZzzFill",
@@ -89,5 +90,9 @@
   "Bios/Headmates/Yankee.md": {
     "iconName": "RiPlanetLine",
     "iconColor": "#d4078c"
+  },
+  "Bios/Headmates/Seolyeong.md": {
+    "iconName": "RaLanternFlame",
+    "iconColor": "#d65846"
   }
 }

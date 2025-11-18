@@ -1,6 +1,6 @@
 #fe-lake-of-mist 
 Like Chapters 0c and 0d, but unlike other chapters of similar labels, Chapter 0b is required to progress to Chapter 0c.
 ## Story
-After the sparring match, [[Seolyeong Toran|Seolyeong]]'s childhood friend [[Renna]] appears, congratulating the former on her performance. However, soon afterward, monsters appear in the town proper, so the three of them go over to check it out.
+After the sparring match, [[FE Lake of Mist/Characters/Seolyeong|Seolyeong]]'s childhood friend [[Renna]] appears, congratulating the former on her performance. However, soon afterward, monsters appear in the town proper, so the three of them go over to check it out.
 ## Gameplay
 This chapter serves as an introduction to range, pairing up and transformation. On turn 1, Renna is required to be the first action, and her transformation gauge is filled after her action. So, between turns, she asks Seolyeong to go over and protect her while she transforms on turn 2 - functionally, pairing up. Pairing up with transformed Renna allows a non-transformed ally to become a mounted unit until either unpairing or Renna untransforms, dramatically increasing their movement. The player is then given free reign to complete the chapter. Once Renna untransforms or the map ends this is explained, alongside some comedy if a unit is still paired with her.

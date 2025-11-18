@@ -8,7 +8,7 @@
 | Gender/Age          | -   | 16, F                       |
 | Base Weapon Ranks   | -   | Daggers: C                  |
 | ^                   | -   | Tomes: C                    |
-| Base Supports       | -   | [[Huyao Toran\|Huyao]]: C   |
+| Base Supports       | -   | [[Huyao\|Huyao]]: C   |
 | ^                   | -   | [[Renna]]: 50 to C          |
 Personal Skill:
 

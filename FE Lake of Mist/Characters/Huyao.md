@@ -8,7 +8,7 @@
 | Gender/Age          | -   | 42, M                             |
 | Base Weapon Ranks   | -   | Axes: C                           |
 | ^                   | -   | Lances: A                         |
-| Base Supports       | -   | [[Seolyeong Toran\|Seolyeong]]: C |
+| Base Supports       | -   | [[FE Lake of Mist/Characters/Seolyeong\|Seolyeong]]: C |
 Personal Skill:
 
 |            | -   | Base | Growth |
