@@ -27,15 +27,27 @@ The source can still spend Resolve, but cannot use skills whose pool is Res. Tho
 ### Tamer's Brand
 Left: Fortitude → Earth Magic
 Center: Intuition → Ramp-Up
-Right: Control → Dark Magic
-Strike
+Right: Control → Decay Magic
 
-| Skill tree        | <   | <   | <   | <   | <   |
-| ----------------- | --- | --- | --- | --- | --- |
-|                   | <   | <   | <   | <   | <   |
-|                   | <   |     | <   |     | <   |
-|                   |     | <   |     | <   |     |
-|                   | <   |     | <   |     | <   |
-| Animal Connection | <   | <   | <   | <   | <   |
-Base "Animal Connection" - Once per Recollection, you may search for a Common or Elemental Beast or Monster in the area you are currently in; you and the beast or monster in question roll Persuasion
+| Skill tree         | <   | <           | <   | <            | <                 |
+| ------------------ | --- | ----------- | --- | ------------ | ----------------- |
+| Speak to the Myths | <   | <           | <   | <            | <                 |
+|                    | <   |             | <   |              | <                 |
+| Speak to the Trees |     | <           |     | <            | Speak to the Dead |
+| Fortify Spirit     | <   | Call Spirit | <   | Drain Spirit | <                 |
+| Animal Connection  | <   | <           | <   | <            | <                 |
+Base "Animal Connection" - Once per Recollection, outside of combat, you may search for a Common or Elemental Beast or Monster in the area the Tamer is currently in; the Tamer and the beast or monster in question roll Persuasion, and if the Tamer's result is higher, they can choose to make the beast or monster replace their available tamed creature. If they do not succeed or the Tamer does not make, what the beast or monster does is up to the DM.
+Tamed creatures can be summoned or recalled in combat for the Tamer's action. The Tamer controls the tamed creature by default, and the tamed creature ranks up alongside the Tamer. Depending on the DM, you may be allowed to start with a tamed creature, but it is recommended not to circumvent "Speak to the Trees/Dead/Myths" with this.
+
+L1 "Fortify Spirit" - Magi:Earth skill. For 8 Energy, you may choose to either give you or your summon a +50% buff to Fortitude until the end of the turn, or a 
+
+M1 "Call Spirit" - Reso:Sonic skill. For 3 Energy and the Tamer's action, they can call to their tamed creature as long as they're within 60 feet of them, giving them a +25% buff to their Strength and Will until the creature's 2nd action after using this skill. This will not stack if used multiple times in a row.
+
+R1 "Drain Spirit" - Magi:Decay attack. For 6 Energy and 2 Mana, deal damage equal to Spell Power and recover Vitality for either the Tamer or their summon equal to half the damage dealt, rounded up.
+
+LL2 "Speak to the Trees" - "Animal Connection" can also be used on minor Natura and Celestia.
+
+RR2 "Speak to the Dead" - "Animal Connection" can also be used on minor Undead and Spirits.
+
+Ultimate "Speak to the Myths" - "Animal Connection" can also be used on Dragons. All Magi-pool attacks deal double damage to Mythica enemies.
 ### M
