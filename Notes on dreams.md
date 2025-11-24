@@ -31,3 +31,5 @@ Sometime in June 2024 - At work, Hatena got a seemingly neverending pick up orde
 9/15/2025 - I (Youmu) remember checking my bank account and getting my paycheck, but it was only $100. This had me distraught, because I had to pay bills that day. When I woke up, I was unsure what day it was, because my bills are supposed to be due on the 19th (phone) and 20th (car).
 
 11/8/2025 - I (Takara) must've had a wet dream, but am unsure what it was about.
+
+11/23/2025 - I (Youmu) was trying to talk with meine Oma; I couldn't speak very well at all, and when I did, it sounded more like croaking. When I woke up, my mouth was very dry.

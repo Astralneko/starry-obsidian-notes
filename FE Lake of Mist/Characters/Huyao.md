@@ -1,7 +1,7 @@
 #fe-lake-of-mist #fe-lom-character
 ## Stats
 
-| Entry Chapter       | -   | [[0a "Sparring with Father"]]                          |
+| Entry Chapter       | -   | [[0a Sparring with Father]]                          |
 | ------------------- | --- | ------------------------------------------------------ |
 | Starting Race/Class | -   | Kumiho Paladin                                         |
 | Starting Level      | -   | 1 (21)                                                 |

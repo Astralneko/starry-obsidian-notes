@@ -1,3 +1,0 @@
-#fe-lake-of-mist 
-## Story
-The king of [[Darralucia]] decides to, as a counterattack, try and take over [[Marthelon]], sending [[Huyao]]'s troops in to do so. While they are only able to ransack part of the city, this includes rescuing many Darralucian and [[Coryucco|Coryuccan]] nationals, including [[Renna]] and (if not rescued in [[5a "Palma of My Hand"]]) [[Papillon]]. Of course, [[Argonia]] does NOT take kindly to this, and [[Emperor Fernan]] promises that Argonia will burn a path from Marthelon to [[Málaga]].

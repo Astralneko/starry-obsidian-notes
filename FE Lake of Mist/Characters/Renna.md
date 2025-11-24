@@ -1,7 +1,7 @@
 #fe-lake-of-mist #fe-lom-character
 ## Stats
 
-| Entry Chapter       | -   | [[0b "Defense of Albacet"]] |
+| Entry Chapter       | -   | [[0b Defense of Albacet]] |
 | ------------------- | --- | --------------------------- |
 | Starting Race/Class | -   | Taguel Archer               |
 | Starting Level      | -   | 1                           |
