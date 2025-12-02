@@ -32,6 +32,8 @@ B5 and B6 use the same inserted vowel patterns as B1 and B2 respectively, but ha
 There is only one declension for roots with 3 vowels: A. Declension A roots have the form CVCVCV. No vowels can be inserted, but vowels can be mutated, and these mutations pattern like B1 and C1. This is also why those patterns are number 1, rather than the other inserted vowel pattern.
 ### Words with more than 3 consonants
 If a root has more than 3 consonants in it, the last three consonants (and any vowels between or after them) are the only ones considered for declensions. For example, *rànpagli* "republic" has five consonants. However, the last three consonants have the form CVCCV, so declension B1 is used: *rànpagili* "republican". This is instead of using A due to the three vowels, which would result in \*rànpagli (no inserted vowel).
+## Compounding
+Compound words often have some of the first word's ending turned into /ʔ/. Usually, this forms a geminate or ejective consonant, as noted in [[Debazi phonology]]. This ends up very similar to Japanese *rendaku*, and would be called *sokudaku* there, but English doesn't have a word for this concept (hence loaning *rendaku* in the first place), so this would probably just be called word-boundary assimilation, as the ending assimilated to its following consonant.
 ## Nouns
 Nouns conjugate for both number and case. Only singular and plural numbers, and nominative, accusative, genitive, dative, locative, and instrumental cases, have their own forms. However, Debazi makes heavy use of affixes that effectively apply other cases or numbers:
 - The prefix *des-* on the singular form of a noun makes it paucal instead of singular.

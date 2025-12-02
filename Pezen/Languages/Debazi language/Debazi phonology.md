@@ -26,13 +26,15 @@ The light approximants /ɥ j/ and dark approximants /w ʕ/ are unique in that th
 |               ^ | **light**    |        | ʒ        |          |          |
 |               ^ | **dark**     |        | (ɮˤ)     |          |          |
 ### Notes
+
 #### Dialectology
 In most dialects, /θ x/ merge when not plain, as shown above. However, in [[Amaril|Amarilian]] Debazi and some other eastern dialects, /θ/ does have light and dark versions: \[θʲ~θɹ θʷ~ɸɹ].
 Likewise, in many dialects, including southern-to-western [[West Makhēda|Makhēdan]], [[Asōmdagli|Asōmdaglian]], and northern [[Eramēs|Eramesian]] Debazi, the alveolar stops and fricatives /ts dz s z/ palatalize when before a front vowel (namely /i e/).
 The implosive consonants are best described as "slack voiced", rather than fully voiced. 
 #### Marginal phonemes
 While there is no \[ɮˤ] in the vast majority of dialects, what happened to it varies significantly by region. [[Lamza|Lamzan]] is the only dialect group that includes a significant amount of \[ɮ], and even then, it's an affricated \[dɮ].
-/ʔ ʕ/ are only phonemic depending on the analysis of Debazi used. Generally speaking, either one must accept these phonemes or accept that all dark vowels are phonemic. However, these phonemes only have the written phones \[ʔ ʕ] if they are intervocoid or at the beginning or end of a morpheme. Otherwise, they transform plain plosives and fricatives into ejectives, light plosives and fricatives into ejectives either followed or preceded by /j/ (whichever direction has less weight), and anything else that isn't a dark plosives into a geminated version of itself. Adjacent to already-geminated nasals and dark plosives, these sounds are elided entirely. Note that these sounds were already doing this historically, in compound words where one of them was at the boundary, so elision is nothing new - but their vowel in older compound words has since mutated to match the consonant it's now next to.
+/ʔ ʕ/ are only phonemic depending on the analysis of Debazi used. Generally speaking, either one must accept these phonemes or accept that all dark vowels are phonemic. However, these phonemes only have the written phones \[ʔ ʕ] if they are intervocoid or at the beginning or end of a morpheme. Otherwise, they transform *preceding* plain plosives and fricatives into ejectives, *preceding* light plosives and fricatives into ejectives either followed or preceded by /j/ (whichever direction has less weight), and any other consonant that isn't a dark plosive or a geminated nasal into a geminated version of itself. Adjacent to dark plosives and geminated nasals, these sounds are elided entirely. Note that these sounds were already doing this historically, in compound words where one of them was at the boundary, so elision is nothing new - but their vowel in older compound words has since mutated to match the consonant it's now next to.
+This does mean geminated non-nasals can occur, but only geminated nasals are phonemic, because they can occur outside of medial position, while other geminates always occur in medial position.
 ## Vowels
 ### Chart
 
