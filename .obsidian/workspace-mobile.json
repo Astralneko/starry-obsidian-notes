@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pezen/Languages/Debazi language/Debazi grammar.md",
+                "file": "Pezen/Languages/Debazi language/Debazi orthography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Debazi grammar"
+              "title": "Debazi orthography"
             }
           }
         ]
@@ -232,9 +232,11 @@
   },
   "active": "e27d4f7557c21e5d",
   "lastOpenFiles": [
-    "Pezen/Languages/Debazi language/Debazi lexicon.md",
+    "Pezen/Languages/Debazi language/Debazi.md",
     "Pezen/Languages/Debazi language/Debazi grammar.md",
+    "Pezen/Languages/Debazi language/Debazi orthography.md",
     "Pezen/Languages/Debazi language/Debazi phonology.md",
+    "Pezen/Languages/Debazi language/Debazi lexicon.md",
     "Pezen/Institutions/Shadaric political structures/Family of Daman.md",
     "Notes on dreams.md",
     "FE Lake of Mist/Events/Part 1/13a Tears of Málaga.md",
@@ -264,8 +266,6 @@
     "Anima",
     "National Mana League",
     "Tachyon Force",
-    "FE Lake of Mist/Characters/Seolyeong.md",
-    "FE Lake of Mist/Characters/Huyao.md",
     "FE Lake of Mist/Items",
     "FE Lake of Mist/Events/Part 1",
     "Assets/My art/Youmu Ref.png"
