@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pezen/Institutions/Shadaric political structures/Family of Daman.md",
-                "mode": "source",
+                "file": "Pezen/Languages/Debazi language/Debazi phonology.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Family of Daman"
+              "title": "Debazi phonology"
             }
           }
         ]
@@ -232,8 +232,8 @@
   },
   "active": "e27d4f7557c21e5d",
   "lastOpenFiles": [
-    "Pezen/Places/Shadar/States/Daman.md",
     "Pezen/Institutions/Shadaric political structures/Family of Daman.md",
+    "Pezen/Places/Shadar/States/Daman.md",
     "Pezen/Places/Shadar/Shadar.md",
     "Pezen/Places/Shadar/Shadaric city-states.md",
     "Pezen/Places/Debaz/Republic of Debaz.md",
