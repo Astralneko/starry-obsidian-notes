@@ -1,0 +1,1 @@
+The **Sovereign Council of Lindae**, usually referred to simply as **Lindae** (English \[lɪndej], Habalindean \[lindaj]) is one of three countries on [[Kairi Island]].
