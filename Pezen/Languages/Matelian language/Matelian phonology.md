@@ -25,14 +25,14 @@ Like in other Old Low Kanafan languages, the uvular stop became uvularization an
 | **Tone 1** ŕ  | iː˦˥ | uː˦˥ | e˦˥ | o˦˥ | æ˦˥ | ʌ˦˥ |
 | **Tone 2** r̂ | i˥˧  | ʊ˥˧  | e˥˧ | o˥˧ | æ˥˧ | ʌ˥˧ |
 | **Tone 3** r  | i˧   | u˧   | e˧  | o˧  | æ˧  | ɑ˧  |
-| **Tone 4** r̈ | ɪː˩˧ | ʊː˩˧ | ɛ˩˧ | ɔ˩˧ | ɐ˩˧ | ʌ˩˧ |
-| **Tone 5** r̄ | ɪ˩   | ʊ˩   | ɛ˩  | ɔ˩  | æ˩  | ɑ˩  |
+| **Tone 4** r̃ | ɪː˩˧ | ʊː˩˧ | ɛ˩˧ | ɔ˩˧ | ɐ˩˧ | ʌ˩˧ |
+| **Tone 5** ṙ  | ɪ˩   | ʊ˩   | ɛ˩  | ɔ˩  | æ˩  | ɑ˩  |
 ### Notes
-/æ ʌ/ is written as ⟨a r⟩. This requires combining diacritics for r, which is why r is the example grapheme letter. Tone 3 /i/ is written as ⟨ı⟩ in order for easier differentiation, but this is more like iota, as its capital is not ⟨İ⟩.
+/æ ʌ/ is written as ⟨a r⟩. This requires combining diacritics for r, which is why r is the example grapheme letter. Tones 3 and 5 for /i/ are written as ⟨ı i⟩ in order for easier differentiation, but this is more like iota, as their capitals are ⟨I İ⟩.
 In all tones, /ii̯ ei̯ ou̯ uu̯/ become \[ɪɨ̯ ɛɨ̯ ʌʉ̯ ɤʉ̯]. /æu̯ ʌi̯/ are strictly forbidden. /i̯ u̯/ are written as ⟨y w⟩ if and only if an adjacent phoneme is their corresponding syllabic vowel.
 ## Phonotactics
 
 ### Syllable structure
-Matelian is maximally CVF, where F is any continuant. Unlike in e.g. [[Rokadong]], /ɺ/ is not a stop, but that's because it becomes \[l]. However, note that coda fricatives are only allowed at the end of a word, and all coda nasals become /ƞ/ (the whatever nasal).
+Matelian is maximally CVF, where F is any continuant. Unlike in e.g. [[Rokadong]], /ɺ/ is not a stop, but that's because it becomes \[l]. However, note that coda fricatives are only allowed at the end of a word, and all coda nasals become /ƞ/ (the whatever nasal), defaulting to \[ɲ ŋ] if the next word starts with a front or back vowel respectively.
 ### Assimilation
 Assimilation only occurs on the whatever nasal, which matches place of articulation with the next consonant.
