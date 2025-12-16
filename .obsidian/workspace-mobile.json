@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pezen/Languages/Matelian language/Matelian phonology.md",
+                "file": "Pezen/Languages/Debazi language/Debazi orthography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matelian phonology"
+              "title": "Debazi orthography"
             }
           }
         ]
@@ -230,18 +230,19 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e27d4f7557c21e5d",
+  "active": "7e1ebd0067cf7c17",
   "lastOpenFiles": [
+    "Pezen/Languages/Debazi language/Debazi phonology.md",
+    "Pezen/Languages/Debazi language/Debazi lexicon.md",
     "Pezen/Languages/Matelian language/Matelian orthography.md",
-    "Pezen/Languages/Matelian language/Matelian grammar.md",
+    "Pezen/Languages/Matelian language/Matelian phonology.md",
     "Pezen/Languages/Matelian language/Matelian lexicon.md",
+    "Notes on dreams.md",
+    "Pezen/Languages/Matelian language/Matelian grammar.md",
     "Pezen/Languages/Matelian language/Matelian.md",
     "Pezen/Languages/Rokadong language/Rokadong.md",
     "Pezen/Languages/Debazi language/Debazi.md",
-    "Pezen/Languages/Matelian language/Matelian phonology.md",
-    "Notes on dreams.md",
     "Drawing 2025-11-19 12.43.24.excalidraw.md",
-    "Pezen/Languages/Debazi language/Debazi phonology.md",
     "Pezen/Languages/Debazi language/Debazi orthography.md",
     "Pezen/Places/Kairi Island.md",
     "Pezen/Places/Shadar/States/Lindae.md",
@@ -256,7 +257,6 @@
     "Pezen/Languages/Nenevesian language/Nenevesian orthography.md",
     "Pezen/Languages/Nenevesian language/Nenevesian phonology.md",
     "Pezen/Languages/Debazi language/Debazi grammar.md",
-    "Pezen/Languages/Debazi language/Debazi lexicon.md",
     "FE Lake of Mist/Events/Part 1/13a Tears of Málaga.md",
     "FE Lake of Mist/Events/Part 1/12a Siege of Granata.md",
     "National Mana League/Languages/Kardonian",

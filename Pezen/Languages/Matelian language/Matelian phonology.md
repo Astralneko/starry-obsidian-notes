@@ -10,7 +10,7 @@ Like in other Old Low Kanafan languages, the uvular stop became uvularization an
 |               | Labial | Alveolar | Palatal | Velar | Guttural |
 | ------------: | ------ | -------- | ------- | ----- | -------- |
 |      **Stop** | p      | tˠ       | c ⟨ć⟩   | k ⟨c⟩ | q        |
-| **Fricative** | ɸ      | s≈x      | ɕ ⟨ś⟩   |       | χ ⟨h⟩    |
+| **Fricative** | ɸ      | s\~x     | ɕ ⟨ś⟩   |       | χ ⟨h⟩    |
 |     **Nasal** | m      |          | ɲ ⟨ń⟩   | ŋ ⟨n⟩ |          |
 |   **Lateral** |        | ɺ ⟨l⟩    | ʎ ⟨ĺ⟩   |       |          |
 | **Implosive** | ɓ̥ ⟨b⟩ |          | ʄ̊ ⟨d⟩  |       |          |
