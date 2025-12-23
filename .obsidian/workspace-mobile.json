@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pezen/Languages/Debazi language/Debazi orthography.md",
+                "file": "FE Lake of Mist/Items/Fire Emblem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Debazi orthography"
+              "title": "Fire Emblem"
             }
           }
         ]
@@ -230,35 +230,37 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7e1ebd0067cf7c17",
+  "active": "e27d4f7557c21e5d",
   "lastOpenFiles": [
-    "Pezen/Languages/Debazi language/Debazi phonology.md",
-    "Pezen/Languages/Debazi language/Debazi lexicon.md",
-    "Pezen/Languages/Matelian language/Matelian orthography.md",
-    "Pezen/Languages/Matelian language/Matelian phonology.md",
-    "Pezen/Languages/Matelian language/Matelian lexicon.md",
-    "Notes on dreams.md",
-    "Pezen/Languages/Matelian language/Matelian grammar.md",
-    "Pezen/Languages/Matelian language/Matelian.md",
-    "Pezen/Languages/Rokadong language/Rokadong.md",
-    "Pezen/Languages/Debazi language/Debazi.md",
-    "Drawing 2025-11-19 12.43.24.excalidraw.md",
-    "Pezen/Languages/Debazi language/Debazi orthography.md",
-    "Pezen/Places/Kairi Island.md",
-    "Pezen/Places/Shadar/States/Lindae.md",
-    "Pezen/Places/Quill Kingdom",
-    "Pezen/Places/Shadar/States/Daman.md",
-    "Pezen/Places/Shadar/Shadaric city-states.md",
-    "Pezen/Places/Shadar/Shadar.md",
-    "Pezen/Institutions/Shadaric political structures/Family of Daman.md",
-    "Pezen/Places/Debaz/Republic of Debaz.md",
-    "Pezen/Places/Debaz/Provinces of Debaz/East Makhēda.md",
-    "Pezen/Languages/High Karanesa language/High Karanesa phonology.md",
-    "Pezen/Languages/Nenevesian language/Nenevesian orthography.md",
-    "Pezen/Languages/Nenevesian language/Nenevesian phonology.md",
-    "Pezen/Languages/Debazi language/Debazi grammar.md",
+    "FE Lake of Mist/Items/Hoshi no Tama.md",
+    "FE Lake of Mist/Items/Fire Emblem.md",
+    "FE Lake of Mist/Characters/Seolyeong.md",
+    "FE Lake of Mist/Characters/Papillon.md",
+    "FE Lake of Mist/Characters/Mars.md",
+    "FE Lake of Mist/A note on Lake of Mist references.md",
+    "FE Lake of Mist/Places/Yverçonne.md",
+    "FE Lake of Mist/Places/Darralucia.md",
+    "FE Lake of Mist/Places/Argonia.md",
+    "FE Lake of Mist/Places/Coryucco.md",
+    "FE Lake of Mist/Places/Newbeglia.md",
+    "FE Lake of Mist/Places/Isola della Nebbia.md",
+    "FE Lake of Mist/Events/Part 3 of Lake of Mist.md",
+    "FE Lake of Mist/Events/Part 2 of Lake of Mist.md",
+    "FE Lake of Mist/Events/Part 1 of Lake of Mist.md",
+    "FE Lake of Mist/Events/Part 1/0d Bear Trap.md",
+    "FE Lake of Mist/Events/Part 1/0c The Titling.md",
+    "FE Lake of Mist/Events/Part 1/1a Breakthrough Long Shot.md",
+    "FE Lake of Mist/Events/Part 1/5a Palma of My Hand.md",
+    "FE Lake of Mist/Characters/Valon.md",
+    "FE Lake of Mist/Characters/Huyao.md",
+    "FE Lake of Mist/Characters/Renna.md",
+    "FE Lake of Mist/Characters/Lilina.md",
+    "FE Lake of Mist/Events/Part 1/0b Defense of Albacet.md",
+    "FE Lake of Mist/Events/Part 1/0a Sparring with Father.md",
     "FE Lake of Mist/Events/Part 1/13a Tears of Málaga.md",
-    "FE Lake of Mist/Events/Part 1/12a Siege of Granata.md",
+    "Assets/My art/Youmu Ref.webp",
+    "Assets/My art/IMG_5709.heic",
+    "Pezen/Places/Quill Kingdom",
     "National Mana League/Languages/Kardonian",
     "National Mana League/Languages",
     "Sonic Fallen Stars",
@@ -266,8 +268,6 @@
     "Valkyrie",
     "Anima",
     "National Mana League",
-    "Tachyon Force",
-    "FE Lake of Mist/Items",
-    "Assets/My art/Youmu Ref.png"
+    "Tachyon Force"
   ]
 }

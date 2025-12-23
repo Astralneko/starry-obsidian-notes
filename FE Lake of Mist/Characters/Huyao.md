@@ -1,4 +1,4 @@
-#fe-lake-of-mist #fe-lom-character
+#fe-lake-of-mist #fe-lom-character #fe-lom-playable
 ## Stats
 
 | Entry Chapter       | -   | [[0a Sparring with Father]]                          |
@@ -26,4 +26,4 @@ Personal Skill:
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 <!-- TBLFM: @>$4=sum(@I..@-1) -->
 ### Gameplay notes
-In Lake of Mist, mounted beastfolk must dismount before transforming, which also means they must spend an action after transforming to remount. As Huyao is a prepromoted mounted beastfolk unit, this is most apparent with him.
+In Lake of Mist, mounted beastfolk must dismount before transforming, which also means they must spend an action after the transformation ends to remount. As Huyao is a prepromoted mounted beastfolk unit, this is most apparent with him.

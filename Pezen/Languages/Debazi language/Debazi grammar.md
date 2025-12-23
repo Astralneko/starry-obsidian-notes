@@ -2,6 +2,7 @@
 ```table-of-contents
 ```
 Overall, Debazi is a polysynthetic, slightly fusional language with triconsonantal roots. Verbs are incredibly basic overall, noun marking aside, making it unique among Astaryuu conlangs - as they tend to have supremely fucked verbs.
+Interestingly, there is no true verb for "to be" - the best equivalent is the suffix *-llah*, which turns adjectives into stative verbs.
 ## Declensions
 Declensions apply to both nouns and verbs, and depend on the number of vowels in the root form of the word. Generally, conjugations will add vowels until a word has at least three of them.
 For all of the following, patterns are given such that C is a consonant and V is a vowel. In the basic declension charts, several other letters are used, with different meanings:
@@ -37,7 +38,7 @@ Compound words often have some of the first word's ending turned into /ʔ/. Usua
 ## Nouns
 Nouns conjugate for both number and case. Only singular and plural numbers, and nominative, accusative, genitive, dative, locative, and instrumental cases, have their own forms. However, Debazi makes heavy use of affixes that effectively apply other cases or numbers:
 - The prefix *des-* on the singular form of a noun makes it paucal instead of singular.
-- The prefix *t’å-* on the locative form of a noun makes it lative, while *īkh-* makes it ablative.
+- The prefix *t’å-* on the locative form of a noun makes it lative, while *cü-* makes it ablative.
 - The *suffix -yya* on a non-genitive noun makes it a construct - that is, it marks that the noun is owned by another. The possessor is the noun conjugated for the same case but without *-yya*.
 ### A-type conjugations
 | Declension A | Singular | Plural |

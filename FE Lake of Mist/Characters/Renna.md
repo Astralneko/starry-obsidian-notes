@@ -1,4 +1,4 @@
-#fe-lake-of-mist #fe-lom-character
+#fe-lake-of-mist #fe-lom-character #fe-lom-playable
 ## Stats
 
 | Entry Chapter       | -   | [[0b Defense of Albacet]] |

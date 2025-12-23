@@ -20,15 +20,16 @@ The light approximants /ɥ j/ and dark approximants /w ʕ/ are unique in that th
 |               ^ | **dark**     | fʷ\~ʍ  | sʷ       | xʷ\~ɸ\~f | χ        |
 | **Approximant** | **plain**    | ɥ      | j        | w        | (ʕ)      |
 |               ^ | **lateral**  |        | l        | ʟ        |          |
-|       **Nasal** | **short**    | m      | n        | ŋ        |          |
-|               ^ | **long**     | mː     | nː       | ŋː       |          |
+|       **Nasal** | **short**    | m      | n (ɲ)    | ŋ        |          |
+|               ^ | **long**     | mː     | nː (ɲː)  | ŋː       |          |
 |       **Trill** | **plain**    |        | r        |          |          |
 |               ^ | **light**    |        | ʒ        |          |          |
 |               ^ | **dark**     |        | (ɮˤ)     |          |          |
 ### Notes
 
 #### Dialectology
-In most dialects, /θ x/ merge when not plain, as shown above. However, in [[Amaril|Amarilian]] Debazi and some other eastern dialects, /θ/ does have light and dark versions: \[θʲ~θɹ θʷ~ɸɹ].
+In most dialects, /θ x/ merge when not plain, as shown above. However, in [[Amaril|Amarilian]] Debazi and some other eastern dialects, /θ/ does have light and dark versions: \[θʲ~θɹ θʷ~ɸɹ], written as ⟨ty tw⟩.
+In older and western dialects of Debazi, there is also a palatal nasal /ɲ ɲː/, which is light and written ⟨ń nń⟩. In most of Debazi, including younger speakers of those dialects, this has merged with the alveolar nasal of the same length, but the vowel remains altered.
 Likewise, in many dialects, including southern-to-western [[West Makhēda|Makhēdan]], [[Asōmdagli|Asōmdaglian]], and northern [[Eramēs|Eramesian]] Debazi, the alveolar stops and fricatives /ts dz s z/ palatalize when before a front vowel (namely /i e/).
 The implosive consonants are best described as "slack voiced", rather than fully voiced. 
 #### Marginal phonemes

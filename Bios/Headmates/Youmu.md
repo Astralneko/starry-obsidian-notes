@@ -10,7 +10,7 @@ Has been located in memory sea after last reset (21-28 Oct 2025): Yes
 - sources, if any: Youmu Konpaku (R2) (Touhou LostWord)
 - origin: [[Reimu]] calls her her shikigami, but she was not discovered until way later due to [[Reisen]] feeling under the weather
 ## Appearance
-![[Youmu Ref.png]]
+![[Youmu Ref.webp]]
 ## In more detail
 ### Preferences
 H

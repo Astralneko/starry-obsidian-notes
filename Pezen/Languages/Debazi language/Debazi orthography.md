@@ -2,24 +2,24 @@
 ## Romanization
 ### Consonants
 
-|                 |              | Labial  | Alveolar | Velar   | Guttural |
-| --------------- | :----------: | ------- | -------- | ------- | -------- |
-| **Plosive**     |  **plain**   | p       | t        | k       | q        |
-| ^               |  **voiced**  | b       | d        | g       |          |
-| ^               |  **light**   | py/ps   | c        | ky/kh/ḳ |          |
-| ^               | **l.voiced** | by/bz   | z        | gy/j    |          |
-| ^               |   **dark**   | pʼ      | tʼ       | kʼ      | ʼ        |
-| **Fricative**   |  **plain**   | f       | th s     | h       |          |
-| ^               |  **light**   | fy/v/f̣ | sy/sh    | hy/ch/ċ |          |
-| ^               |   **dark**   | fw/ff   | sw/ss/ṣ  | ph/ḥ    | x        |
-| **Approximant** |  **plain**   | yy/ẏ    | y        | w       | ‘        |
-| ^               | **lateral**  |         | l        | lw/ll   |          |
-| **Nasal**       |  **short**   | m       | n        | ng/ŋ    |          |
-| ^               |     long     | mm      | nn       | n(ŋ)    |          |
-| **Trill**       |  **plain**   |         | r        |         |          |
-| ^               |  **light**   |         | ry/rr    |         |          |
-| ^               |   **dark**   |         | r’       |         |          |
-| **Implosive**   |   **dark**   | b’      | d’       |         |          |
+|                 |              | Labial  | Alveolar   | Velar   | Guttural |
+| --------------- | :----------: | ------- | ---------- | ------- | -------- |
+| **Plosive**     |  **plain**   | p       | t          | k       | q        |
+| ^               |  **voiced**  | b       | d          | g       |          |
+| ^               |  **light**   | py/ps   | c          | ky/kh/ḳ |          |
+| ^               | **l.voiced** | by/bz   | z          | gy/j    |          |
+| ^               |   **dark**   | pʼ      | tʼ         | kʼ      | ʼ        |
+| **Fricative**   |  **plain**   | f       | th s       | h       |          |
+| ^               |  **light**   | fy/v/f̣ | ty sy/sh   | hy/ch/ċ |          |
+| ^               |   **dark**   | fw/ff   | tw sw/ss/ṣ | ph/ḥ    | x        |
+| **Approximant** |  **plain**   | yy/ẏ    | y          | w       | ‘        |
+| ^               | **lateral**  |         | l          | lw/ll   |          |
+| **Nasal**       |  **short**   | m       | n ń        | ng/ŋ    |          |
+| ^               |     long     | mm      | nn nń      | n(ŋ)    |          |
+| **Trill**       |  **plain**   |         | r          |         |          |
+| ^               |  **light**   |         | zy/zh      |         |          |
+| ^               |   **dark**   |         | r’         |         |          |
+| **Implosive**   |   **dark**   | b’      | d’         |         |          |
 For the non-sonorants in the above table that have two representations, use the second one in the coda. Using the second one in the onset is allowed, though. Astaryuu themself defaults to⟨ps bz kh⟩ intervocalically, but will use the ⟨y⟩ spelling if there is a consonant or a word boundary before them.
 For the velar nasal, ŋ is in parentheses because it can be replaced by either of the representations for short /ŋ/, or by h.
 For the sake of compatibility, digraphs are usually preferred over diacritics when it comes to consonants. However, as ⟨ċ ṣ ẏ ḥ ḳ ŋ⟩ have their own codepoints, they are more likely to be supported, especially ⟨ċ ŋ⟩ as they are in Latin Extended-A instead of Latin Extended Additional.

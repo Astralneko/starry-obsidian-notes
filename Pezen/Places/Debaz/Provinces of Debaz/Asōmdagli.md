@@ -1,5 +1,5 @@
 #debaz #spectradom #worldbuilding 
-**Asōmdagli** ([[Debazi]]: *Ałsōmdagli* \[aˈsomdagli]) is a province of the [[Republic of Debaz]]. It is west of [[West Makhēda]] and [[Layyani]].
+**Asōmdagli** ([[Debazi]]: *Asōmdagli* \[aˈsomdagli]) is a province of the [[Republic of Debaz]]. It is west of [[West Makhēda]] and [[Layyani]].
 ## Etymology
 "Asōmdagli" literally means "the nation of Asōmda." Since *‘agli* is still a word, but affixing rules have changed over the years, this etymology has caused some confusion in reading the name of the country. In the modern day, this would probably be rendered as \*Asomd’agli \[asomɗɒgli], as a final vowel is more likely to get elided in modern compound words.
 ## History
