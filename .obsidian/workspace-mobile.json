@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE Lake of Mist/Items/Fire Emblem.md",
+                "file": "Pezen/Places/Fennril/Fennril Federation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fire Emblem"
+              "title": "Fennril Federation"
             }
           }
         ]
@@ -232,8 +232,11 @@
   },
   "active": "e27d4f7557c21e5d",
   "lastOpenFiles": [
-    "FE Lake of Mist/Items/Hoshi no Tama.md",
+    "Pezen/Events/History of Pezen.md",
     "FE Lake of Mist/Items/Fire Emblem.md",
+    "Pezen/Places/Fennril/Fennril Federation.md",
+    "Pezen/Places/Fennril",
+    "FE Lake of Mist/Items/Hoshi no Tama.md",
     "FE Lake of Mist/Characters/Seolyeong.md",
     "FE Lake of Mist/Characters/Papillon.md",
     "FE Lake of Mist/Characters/Mars.md",
@@ -256,8 +259,6 @@
     "FE Lake of Mist/Characters/Renna.md",
     "FE Lake of Mist/Characters/Lilina.md",
     "FE Lake of Mist/Events/Part 1/0b Defense of Albacet.md",
-    "FE Lake of Mist/Events/Part 1/0a Sparring with Father.md",
-    "FE Lake of Mist/Events/Part 1/13a Tears of Málaga.md",
     "Assets/My art/Youmu Ref.webp",
     "Assets/My art/IMG_5709.heic",
     "Pezen/Places/Quill Kingdom",
@@ -267,7 +268,6 @@
     "Yokai City",
     "Valkyrie",
     "Anima",
-    "National Mana League",
-    "Tachyon Force"
+    "National Mana League"
   ]
 }
