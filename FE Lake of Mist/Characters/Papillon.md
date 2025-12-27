@@ -22,16 +22,16 @@ Personal Skill: Dodge Roll - On enemy phase, when targeted for an attack: if it 
 
 |            | -   | Base |  <  | Growth |
 | ---------- | --- |:----:|:---:|:------:|
-| Health     | -   |  18  | 21  |   85   |
-| Strength   | -   |  3   |  4  |   20   |
-| Defense    | -   |  14  | 15  |   30   |
-| Magic      | -   |  7   | 10  |  100   |
+| Health     | -   |  21  | 23  |   85   |
+| Strength   | -   |  4   |  5  |   20   |
+| Defense    | -   |  15  | 16  |   30   |
+| Magic      | -   |  10  | 13  |  100   |
 | Resistance | -   |  8   | 10  |   60   |
-| Dexterity  | -   |  5   |  7  |   60   |
-| Speed      | -   |  2   |  4  |   65   |
-| Luck       | -   |  9   | 10  |   35   |
-| Build      | -   |  3   |  3  |   10   |
-| Total      | -   |  69  | 84  |  465   |
+| Dexterity  | -   |  6   |  8  |   60   |
+| Speed      | -   |  4   |  6  |   65   |
+| Luck       | -   |  10  | 11  |   35   |
+| Build      | -   |  3   |  4  |   10   |
+| Total      | -   |  81  | 96  |  465   |
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 <!-- TBLFM: @>$4=sum(@I..@-1) -->
 <!-- TBLFM: @>$5=sum(@I..@-1) -->

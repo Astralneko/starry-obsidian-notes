@@ -14,16 +14,16 @@ Personal Skill:
 
 |            | -   | Base | Growth |
 | ---------- | --- |:----:|:------:|
-| Health     | -   |  23  |   50   |
-| Strength   | -   |  4   |   45   |
-| Defense    | -   |      |   30   |
-| Magic      | -   |  8   |   65   |
-| Resistance | -   |      |   30   |
-| Dexterity  | -   |      |   50   |
+| Health     | -   |  22  |   50   |
+| Strength   | -   |  5   |   50   |
+| Defense    | -   |  5   |   30   |
+| Magic      | -   |  7   |   65   |
+| Resistance | -   |  3   |   30   |
+| Dexterity  | -   |  5   |   50   |
 | Speed      | -   |  10  |   65   |
-| Luck       | -   |      |   50   |
+| Luck       | -   |  11  |   50   |
 | Build      | -   |  3   |   10   |
-| Total      | -   |  48  |  395   |
+| Total      | -   |  71  |  400   |
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 <!-- TBLFM: @>$4=sum(@I..@-1) -->
 ### Gameplay notes
