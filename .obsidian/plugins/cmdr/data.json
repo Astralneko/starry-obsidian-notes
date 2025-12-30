@@ -15,6 +15,12 @@
       "icon": "lucide-copy",
       "name": "Advanced Copy: Copy page",
       "mode": "any"
+    },
+    {
+      "id": "hyperlink-remover:remove-external-links-from-file",
+      "icon": "lucide-file-code-2",
+      "name": "Link Remover: Remove external links from file",
+      "mode": "any"
     }
   ],
   "leftRibbon": [],

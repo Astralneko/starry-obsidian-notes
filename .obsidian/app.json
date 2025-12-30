@@ -43,7 +43,7 @@
     "automatic-table-of-contents:insert-automatic-table-of-contents",
     "obsidian-icon-folder:iconize:set-icon-for-file",
     "editor:table-row-delete",
-    "editor:fold-all"
+    "links:editor-unlink-link"
   ],
   "alwaysUpdateLinks": true,
   "readableLineLength": true

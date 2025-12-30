@@ -1,0 +1,1 @@
+Reaca Mirai is the mother of [[Nephrite Constellation|Charon and Hatena Mirai]]. She works as a gardener and merchant in Condero. Originally, she and [[Osciu Mirai|her husband]] did this together, but he was drafted into the Rudafian Peacekeepers, aiding [[Inspoll]] in an armed conflict.

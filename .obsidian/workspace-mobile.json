@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nephrite Constellation.md",
+                "file": "Pezen/Characters/Reaca Mirai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nephrite Constellation"
+              "title": "Reaca Mirai"
             }
           }
         ],
@@ -155,7 +155,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "FE Lake of Mist/Characters/Renna.md",
+            "file": "Pezen/Languages/Liðakuin/Liðakuin phonology.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "FE Lake of Mist/Characters/Renna.md",
+            "file": "Pezen/Languages/Liðakuin/Liðakuin phonology.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -188,7 +188,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "FE Lake of Mist/Characters/Renna.md",
+            "file": "Pezen/Languages/Liðakuin/Liðakuin phonology.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -268,7 +268,7 @@
         }
       }
     ],
-    "currentTab": 5
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,9 +289,18 @@
   },
   "active": "d2d25806d23cc8ec",
   "lastOpenFiles": [
+    "Pezen/Characters/Osciu Mirai.md",
     "Pezen/Institutions/Shadaric political structures/Family of Daman.md",
-    "Nephrite Constellation.md",
+    "Pezen/Characters/Koerai Mirai.md",
+    "Pezen/Characters/Reaca Mirai.md",
+    "Pezen/Characters/Nephrite Constellation.md",
     "Rauratoshan EAS transcript.md",
+    "Pezen/Languages/Liðakuin/Liðakuin phonology.md",
+    "Idea for Azeria's TTRPG thingy.md",
+    "Pezen/Languages/Liðakuin/Liðakuin.md",
+    "Pezen/Languages/Rokadong/Rokadong phonology.md",
+    "Pezen/Languages/Rokadong/Rokadong.md",
+    "Pezen/Languages/Liðakuin",
     "Aether Incursion CCG/Rules of Outrealm Aether Incursion.md",
     "Aether Incursion CCG",
     "FE Lake of Mist/Characters/Renna.md",
@@ -303,28 +312,19 @@
     "Pezen/Institutions/Yukacan.md",
     "Pezen/Institutions/Yukacan/List of deities of Yukacan.md",
     "Pezen/Rokaselan calendar.md",
-    "Pezen/Languages/Rokadong language/Rokadong grammar.md",
+    "Pezen/Languages/Rokadong/Rokadong grammar.md",
     "Pezen/Institutions/Yukacan",
     "Pezen/Places/Fennril/Fennril Federation.md",
     "Pezen/Events/History of Pezen.md",
     "FE Lake of Mist/Items/Fire Emblem.md",
     "Pezen/Places/Fennril",
     "FE Lake of Mist/Items/Hoshi no Tama.md",
-    "FE Lake of Mist/A note on Lake of Mist references.md",
-    "FE Lake of Mist/Places/Yverçonne.md",
-    "FE Lake of Mist/Places/Darralucia.md",
-    "FE Lake of Mist/Places/Argonia.md",
-    "FE Lake of Mist/Places/Coryucco.md",
-    "FE Lake of Mist/Places/Newbeglia.md",
-    "FE Lake of Mist/Places/Isola della Nebbia.md",
-    "FE Lake of Mist/Events/Part 3 of Lake of Mist.md",
     "Assets/My art/Youmu Ref.webp",
     "Assets/My art/IMG_5709.heic",
     "Pezen/Places/Quill Kingdom",
     "National Mana League/Languages/Kardonian",
     "National Mana League/Languages",
     "Sonic Fallen Stars",
-    "Yokai City",
-    "Valkyrie"
+    "Yokai City"
   ]
 }
