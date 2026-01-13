@@ -1,0 +1,7 @@
+Throughout this notebook, I talk as if Fire Emblem: Lake of Mist were an actual entry. Fire Emblem games rarely change that much, but there are enough changes from game to game to be notable. So, here's some gameplay quirks that I like that, if I ever make a romhack or whatever, I would add.
+## Weapon durability
+I prefer if my weapons have limited durability. However, that would make weapons like the [[Hoshi no Tama]] too obviously broken. So instead, most weapons will have a "soft durability" - once broken, a unit will have to use a different one for the rest of the map, but in smithing shops accessible between chapters, you can repair broken weapons. Yeah that's right, we're going FE4 on this-
+## Weapon forging
+I do like the idea conceptually. However, it's already difficult enough to design a game around the equipment a player has in a game with permanent death. Adding weapon forging would make that a bit too ridiculous, and also risk the Fates Bronze Weapon problem even with durability half-present.
+## Reclassing
+I really hate the open reclassing of Engage. Even with 3H at least it feels like you earned the reclass. Fates had the best reclassing so we're going back to that - units will generally have two possible natural upgrades, but can side-grade into any class from a unit they have an A support or better with.

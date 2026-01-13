@@ -1,0 +1,1 @@
+**Estariel Mojito Kanata** is one of the main characters of *Drawn to AfterLife*.

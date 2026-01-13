@@ -1,0 +1,3 @@
+Imbuing is a magical process in Pezen where a spell is imbued into an object other than a swatch. Generally, without the use of a [[holy treasure]], imbued objects are weaker than swatches, but their magic is more durable.
+
+The ability to imbue magic into weaponry has resulted in allowing for the continued use of pre-modern weapons, even though modern technology would otherwise outstrip them. Honestly, one could probably compare this (and realistically, the entire magic system and technology of Pezen) to RWBY, and not be that far off.

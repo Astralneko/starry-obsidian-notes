@@ -69,16 +69,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pezen/Rokaselan calendar.md",
+                "file": "Pezen/Characters/Nephrite Constellation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rokaselan calendar"
+              "title": "Nephrite Constellation"
+            }
+          },
+          {
+            "id": "998f1c5e2359ce63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pezen/Characters/Estariel Mojito.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estariel Mojito"
+            }
+          },
+          {
+            "id": "274cb6e70e6a5bc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pezen/Characters/Nephrite Constellation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nephrite Constellation"
+            }
+          },
+          {
+            "id": "1e6847fc3f1d020e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pezen/Characters/Nephrite Constellation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nephrite Constellation"
+            }
+          },
+          {
+            "id": "95087f936327e3e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FE Lake of Mist/A note on Lake of Mist references.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A note on Lake of Mist references"
+            }
+          },
+          {
+            "id": "8a3ef794edccacbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FE Lake of Mist/On FELoM if it was a game.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "On FELoM if it was a game"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -155,7 +225,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Rauratoshan EAS transcript.md",
+            "file": "Pezen/Characters/Nephrite Constellation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -287,15 +357,24 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d2d25806d23cc8ec",
+  "active": "8a3ef794edccacbf",
   "lastOpenFiles": [
-    "Notes on dreams.md",
-    "Rauratoshan EAS transcript.md",
+    "FE Lake of Mist/A note on Lake of Mist references.md",
+    "Pezen/Characters/Flana Rénnjokuha.md",
+    "FE Lake of Mist/On FELoM if it was a game.md",
+    "Pezen/Characters/Nephrite Constellation.md",
+    "Pezen/Rokaselan calendar.md",
+    "Pezen/Imbuing.md",
+    "Pezen/Technology in Pezen.md",
+    "Pezen/Characters/Koerai Mirai.md",
     "Pezen/Characters/Reaca Mirai.md",
     "Pezen/Characters/Osciu Mirai.md",
+    "Pezen/Characters/Estariel Mojito.md",
+    "Pezen/Items/Eternal Jade Scarf.md",
     "Pezen/Institutions/Shadaric political structures/Family of Daman.md",
-    "Pezen/Characters/Koerai Mirai.md",
-    "Pezen/Characters/Nephrite Constellation.md",
+    "Pezen/Items",
+    "Notes on dreams.md",
+    "Rauratoshan EAS transcript.md",
     "Pezen/Languages/Liðakuin/Liðakuin phonology.md",
     "Idea for Azeria's TTRPG thingy.md",
     "Pezen/Languages/Liðakuin/Liðakuin.md",
@@ -309,22 +388,13 @@
     "FE Lake of Mist/Characters/Papillon.md",
     "FE Lake of Mist/Characters/Seolyeong.md",
     "FE Lake of Mist/Characters/Huyao.md",
-    "FE Lake of Mist/Characters/Mars.md",
-    "Pezen/Institutions/Yukacan.md",
-    "Pezen/Institutions/Yukacan/List of deities of Yukacan.md",
-    "Pezen/Rokaselan calendar.md",
-    "Pezen/Languages/Rokadong/Rokadong grammar.md",
     "Pezen/Institutions/Yukacan",
-    "Pezen/Places/Fennril/Fennril Federation.md",
-    "Pezen/Events/History of Pezen.md",
-    "FE Lake of Mist/Items/Fire Emblem.md",
     "Pezen/Places/Fennril",
     "Assets/My art/Youmu Ref.webp",
     "Assets/My art/IMG_5709.heic",
     "Pezen/Places/Quill Kingdom",
     "National Mana League/Languages/Kardonian",
     "National Mana League/Languages",
-    "Sonic Fallen Stars",
-    "Yokai City"
+    "Sonic Fallen Stars"
   ]
 }
