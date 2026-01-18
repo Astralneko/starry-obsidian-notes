@@ -33,8 +33,8 @@ Ibi taka vel puréba.
 
 **An airship covered in spell tags has been spotted heading north toward the coast of Rafi Island.**
 Un barco del aire, cubierto con etiquetas mágicas, ha sido visto, avanzando al norte, hacia la costa del Isla Rafi.
-`float-boat CONT-cover.DEVERB with swatch PV-spot-PST advance-CONT due north toward coast GEN Rafi-Island`
-Yataiweran anséni are suwaca kálápran, anpekatákron sudíng irikang, perka sheka to Rafiteláh.
+`float-boat CONT-cover.DEVERB with swatch PRF PV-spot-PST advance-CONT due north toward coast GEN Rafi-Island`
+Yataiweran anséni are suwaca nyuwa kálápran, anpekatákron sudíng irikang, perka sheka to Rafiteláh.
 
 **The ship bears official insignia of Rauratoshan, but has no record of registration.**
 El barco tiene el simbolo oficial de Rauratoxan, pero no está registrado.
