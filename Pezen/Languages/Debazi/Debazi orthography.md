@@ -7,9 +7,9 @@
 | **Plosive**     |  **plain**   | p       | t          | k       | q        |
 | ^               |  **voiced**  | b       | d          | g       |          |
 | ^               |  **light**   | py/ps   | c          | ky/kh/ḳ |          |
-| ^               | **l.voiced** | by/bz   | z          | gy/j    |          |
+| ^               | **l.voiced** | by/bz   | dy/dz      | gy/j    |          |
 | ^               |   **dark**   | pʼ      | tʼ         | kʼ      | ʼ        |
-| **Fricative**   |  **plain**   | f       | th s       | h       |          |
+| **Fricative**   |  **plain**   | f       | z s        | h       |          |
 | ^               |  **light**   | fy/v/f̣ | ty sy/sh   | hy/ch/ċ |          |
 | ^               |   **dark**   | fw/ff   | tw sw/ss/ṣ | ph/ḥ    | x        |
 | **Approximant** |  **plain**   | yy/ẏ    | y          | w       | ‘        |

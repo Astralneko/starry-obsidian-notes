@@ -4,7 +4,7 @@ Players are referred to as "Summoners" for the purposes of this document.
 1. Each summoner shuffles their deck and draws 7 cards.
 2. If either summoner does not have a card in their starting hand that can be played on turn 1, they can discard their hand, shuffle again, and draw 7 cards. This can be done up to twice.
 3. Select a summoner to go first by some metric. Since some game mechanics may require a d6 or two, feel free to use these to select. They then take their first turn. See "One Turn" section.
-4. On each summoner's first turn of the game, all effects which deal damage to player health do nothing.
+4. On each summoner's first turn of the game, all effects which lower player health do nothing. Raising player health is allowed, though.
 5. After the first summoner's turn, the second one gets to take a turn, and so on until an end state is reached. See "End States section."
 ## One Turn
 The following steps are taken in order during a summoner's turn:

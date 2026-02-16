@@ -4,7 +4,7 @@
 ## Consonants
 Matelian, like other Low Kanafan languages, is known for merging a lot of consonants. However, of them, Matelian has the lowest number, perhaps because they're in the opposite direction from the hearth of Low Kanafan compared to the rest of its family. Low Kanafan is centered in the eastern Inkwell Glacier area, but Matelian was pushed back from the Linnekarta Mountains and eventually into an exodus across central Quillan.
 
-Like in other Old Low Kanafan languages, the uvular stop became uvularization and then implosivity, but in Matelian and Citalian, the uvular trill became /q/ and the alveolar trill became /ɺ/, merging with the lateral /l/.
+Like in other Low Kanafan languages, the uvular stop became uvularization and then implosivity, but in Matelian and Citalian, the uvular trill became /q/ and the alveolar trill became /ɺ/, merging with the lateral /l/.
 ### Chart
 
 |               | Labial | Alveolar | Palatal | Velar | Guttural |

@@ -7,24 +7,24 @@ Dark plosives are glottalized, while dark fricatives are labialized; light plosi
 The light approximants /ɥ j/ and dark approximants /w ʕ/ are unique in that they lighten or darken the preceding vowel, rather than the succeeding one. Lateral approximants, though, are treated like non-approximants, and affect the succeeding vowel; /l/ is plain while /ʟ/ is dark.
 ### Chart
 
-|                 |              | Labial | Alveolar | Velar    | Guttural |
-| --------------: | ------------ | ------ | -------- | -------- | -------- |
-|        **Stop** | **plain**    | p      | t        | k        | q        |
-|               ^ | **voiced**   | b      | d        | g        |          |
-|               ^ | **light**    | pʲ\~ps | ts       | cç\~cɕ   |          |
-|               ^ | **l.voiced** | bʲ\~bz | dz       | ɟʝ       |          |
-|               ^ | **dark**     | pʼ     | tʼ       | kʼ       | (ʔ)      |
-|               ^ | **d.voiced** | ɓ      | ɗ        |          |          |
-|   **Fricative** | **plain**    | f      | θ s      | x        |          |
-|               ^ | **light**    | fʲ\~ɥ̊ | sʲ\~ʃ    | xʲ\~ç    |          |
-|               ^ | **dark**     | fʷ\~ʍ  | sʷ       | xʷ\~ɸ\~f | χ        |
-| **Approximant** | **plain**    | ɥ      | j        | w        | (ʕ)      |
-|               ^ | **lateral**  |        | l        | ʟ        |          |
-|       **Nasal** | **short**    | m      | n (ɲ)    | ŋ        |          |
-|               ^ | **long**     | mː     | nː (ɲː)  | ŋː       |          |
-|       **Trill** | **plain**    |        | r        |          |          |
-|               ^ | **light**    |        | ʒ        |          |          |
-|               ^ | **dark**     |        | (ɮˤ)     |          |          |
+|                 |              | Labial | Alveolar | Velar  | Guttural |
+| --------------: | ------------ | ------ | -------- | ------ | -------- |
+|        **Stop** | **plain**    | p      | t        | k      | q        |
+|               ^ | **voiced**   | b      | d        | g      |          |
+|               ^ | **light**    | pɥ̊/ps | ts       | cç/cɕ  |          |
+|               ^ | **l.voiced** | bɥ˔/bz | dz       | ɟʝ     |          |
+|               ^ | **dark**     | pʼ     | tʼ       | kʼ     | (ʔ)      |
+|               ^ | **d.voiced** | ɓ      | ɗ        |        |          |
+|   **Fricative** | **plain**    | f      | θ s      | x      |          |
+|               ^ | **light**    | fʲ/ɥ̊  | sʲ/ʃ     | xʲ/ç   |          |
+|               ^ | **dark**     | fʷ/ʍ   | sʷ       | xʷ/ɸ/f | χ        |
+| **Approximant** | **plain**    | ɥ      | j        | w      | (ʕ)      |
+|               ^ | **lateral**  |        | l        | ʟ      |          |
+|       **Nasal** | **short**    | m      | n (ɲ)    | ŋ      |          |
+|               ^ | **long**     | mː     | nː (ɲː)  | ŋː     |          |
+|       **Trill** | **plain**    |        | r        |        |          |
+|               ^ | **light**    |        | ʒ        |        |          |
+|               ^ | **dark**     |        | (ɮˤ)     |        |          |
 ### Notes
 
 #### Dialectology

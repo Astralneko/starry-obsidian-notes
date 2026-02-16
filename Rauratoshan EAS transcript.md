@@ -19,7 +19,7 @@ Máti: Zeta to Lezi laki Rafiteláh
 **This is a Code Black alert from the Emergency-Triggered Advisement System of Rauratoshan.**
 Esta es un aviso Código Negro por la Sistema de Aviso Causado por Emergencias en Rauratoxan.
 `DET.PROX COP alert GEN type black from advice system DAT emergency in Rauratoshan`
-Ibi vel máti van ruvim hai Húneshah Janjóta laki Yuranyan te Rauratoshan.
+Ibi vel máti to van ruvim hai Húneshah Janjóta laki Yuranyan te Rauratoshan.
 
 **ETAS will replace normal programming and repeat this message until further notice.**
 SACER despejará el programa normal y repetirá esta mensaje hasta el aviso actualizará.
@@ -44,7 +44,7 @@ Ibi weran ban gundarijang to Rauratoshan, ket takal ban sasura to duvajang.
 **The ship's cargo is likely explosive, based on reports from the Rauratoshan Office of the Frontier.**
 La carga del barco probablemente es explosiva, basado en los reportes del Oficina de la Frontera Rauratoxaña.
 `DET.PROX cargo GEN boat COP likely explosion-ADJ, tell-PST from report from Office GEN Frontier GEN Rauratoshan`
-Ibi nentaka to weran vel conanta nemitoskil, yatanuran hai fenyatang hai Fitrayan to Tanakkyan to Rauratoshan.
+Ibi nentaka to weran vel conanta nemitoskil, yatanuran hai fenyatang hai Fitraqan to Tanakkyan to Rauratoshan.
 
 **However, the ship refused to comply to a search.**
 Sin embargo, el barco se negó a cumplir con una busqueda.

@@ -17,7 +17,7 @@ Nanook the Destruction ascended to Aeonhood in a blaze of fury that destroyed TH
 
 Interestingly, Zandar One Kuwabara, creator of the Erudition, may also be from this planet, as his fragment Lygus asks to be taken there after the events of Amphoreus's main quest. He also asserts that the Destruction is the manifestation of entropy - by this logic, since all processes must globally increase entropy, everything is Destruction.
 ### Emanators of Destruction
-Lord Ravagers of the Destruction embody other paths, trying to turn them toward the Destruction. The Erudition is already equivalent to the Destruction, as its Lord Ravager (Irontomb) coincidentally proved that almost every other Path leads to Destruction, proving that every other Path can have a Lord Ravager.
+Lord Ravagers of the Destruction embody other paths, trying to turn them toward the Destruction. The Erudition is already equivalent to the Destruction, as its Lord Ravager (Irontomb) coincidentally proved that almost every other Path leads to Destruction, proving that every other Path can have a Lord Ravager. These will be discussed in their target Path's sections.
 
 Irontomb forced Nous to reset its eternal extrapolations and alone destroyed a significant portion of the known universe. \[NeiKos496] Khaslana, whilst still a non-physical line of code, broke into Path Space, fought fellow Lord Ravager Zephyro (without either party dying), and cut Nanook THEMSELF, drawing THEIR ichor. Emanators of the Destruction thus are proven to be powerful even in comparison to other Emanators. (Khaslana is not stated to be an Emanator, but it's generally held as true that only Emanators can do that kind of thing.)
 ## The Hunt
@@ -33,9 +33,9 @@ All things bear unanswered questions, and there is an answer to everything. Unde
 ### Nous
 Nous the Erudition was created by Zandar and caused the universe to become ultimately predictable - or did it? Herta's Solitary Waves Theory says otherwise. Then again, Nous provided the baseline equation...
 ### Emanators and other Paths
-The Erudition seems to be linked to almost every other path, but ESPECIALLY the Destruction, Trailblaze, and Finality.
+The Erudition seems to be linked to almost every other path, but ESPECIALLY the Destruction, Trailblaze, and Finality. The Destruction is no big surprise - Irontomb is the Lord Ravager of the Erudition, after all.
 
-Two of the three known Emanators of the Erudition created entire Aeons: Dr. Primitive created Device IX, and Zandar One Kuwabara created Nous THEMSELF. However, I'd argue that Zandar is ackshually an Emanator of the Destruction, or at least will become one now that Irontomb is dead, and it seems that one cannot be an Emanator of two Paths.
+Two of the three known Emanators of the Erudition created entire Aeons: Dr. Primitive created Device IX, and Zandar One Kuwabara created Nous THEMSELF. However, I'd argue that Zandar is ackshually an Emanator of the Destruction, or at least will become one now that Irontomb is dead, and it seems that one cannot be an *Emanator* of two Paths, although one can be a *strider* of two Paths.
 
 The extrapolations of δme-13 embody, as the name suggests, 13 of the 18 Paths, and 11 of them are directly determined by δme-13 to lead to Destruction, while the 12th and 13th ones, Remembrance and Trailblaze, fall to Destruction as a consequence, albeit not one δme-13 is allowed to acknowledge. In these extrapolations, δme-13 also created 12 simulated Emanators, who have been and will continue to be discussed in their respective sections.
 
@@ -49,17 +49,17 @@ The Harmony has two major groups I wish to talk about: the Family, and the pries
 #### The Family
 The Family act as a hivemind, and have among them at least four Emanators of Harmony: Aelenev, Beatriz, Constantina, and Dominicus. However, due to their naming convention, I suspect there are seven. These Emanators are not living beings, but beings that speak through Family members. For example, Dominicus speaks through Sunday in the main Penacony quest, which Sunday uses to his advantage to attempt to recreate Ena.
 #### Janusopolis
-The priesthood of Janusopolis is nominally associated with Oronyx the Time, also known as Cyrene, and thereby Fuli the Remembrance. However, the priesthood of Janusopolis also exhibit traits of Harmony, as noted by their only virtual Emanator, \[HapLotes405] Tribios. Upon taking on the powers of the namesake Titan Janus (pronounced like the original Latin), Tribios immediately shatters into a thousand fragments, which travel the world and ring the bells of the Flame-Chase.
+The priesthood of Janusopolis is nominally associated with Oronyx the Time, also known as Cyrene, and thereby Fuli the Remembrance. However, the priesthood of Janusopolis also exhibit traits of Harmony, as noted by their only virtual Emanator, \[HapLotes405] Tribios. Upon taking on the powers of the namesake Titan Janus (pronounced with a "y" sound), Tribios immediately shatters into a thousand fragments, which travel the world and ring the bells of the Flame-Chase.
 
 Like the Family, Tribios headmates- er, FRAGMENTS, sorry, my headcanon got away from me - share memories perfectly and can communicate telepathically with each other and see through each other's eyes. In fact, they exclusively use the pronoun "**we**" (in bold) to refer to themselves, which everyone else mimicks because the Chrysos Heirs are based.
 
 However, unlike what has been confirmed for the Family, Tribios fragments lose their power over time as they use it, and eventually their ego dies. When this is close to happening, the afflicted fragment gains amnesia barriers, slowly losing all memories they did not personally make, and eventually deteriorating into the form of a plush doll. However, the living fragments seem to remember the experiences of the fallen fragment, **including their death**. Tribbie has a playable nightmare sequence where the original's mother chants a horrific prophecy, while their childhood home is filled with all 997 fallen fragments - clearly a repressed memory that was unlocked by Trianne's oncoming ego death.
 
-And yet, ego death is precisely Xipe's preferred outcome: it subsumed Ena, killing THEIR spirit but maintaining THEIR body and power. This would obviously be Lygus's answer for how the Harmony is Destructive.
+And yet, ego death is precisely Xipe's preferred outcome: it subsumed Ena, killing THEIR spirit but maintaining THEIR body and power. This would obviously be Lygus's answer for how the Harmony is Destructive. Of course, 3.8 also revealed that the Stellarons are creations of Xipe, and Stellarons are destructive by nature.
 ## Nihility
 The ultimate fate of the multiverse is nothingness, and therefore, worthless. Action is meaningless; it is not worth worrying about your actions or inactions. When faced with nothingness, apathy and laziness is the only understandable outcome.
 ### Device IX
-This Path's Aeon, IX, was created by Dr. Primitive, an Emanator of the Erudition. However, it is even more apathetic than that origin suggests. Unlike its grandfather Nous, IX does not gaze at anyone. However, the Nihility envelops all, so even though IX does not gaze upon anyone, those who fall into the Nihility's umbra either are destroyed or, like Acheron, become Emanators of the Nihility.
+This Path's Aeon, IX, was created by Dr. Primitive, an Emanator of the Erudition. However, it is even more apathetic than that origin suggests. Unlike its grandfather Nous, IX does not gaze at anyone. However, the Nihility envelops all, so even though IX does not gaze upon anyone, those who fall into the Nihility's umbra either are destroyed or, like Acheron, become Emanators of the Nihility. Zephyro *might* be an Emanator of the Nihility, but he *is* a Lord Ravager, and at present we still do not know if someone can be an Emanator of multiple Paths - the assumption is no, but it could be possible, particularly for paths like the Nihility where IX doesn't give a fuck.
 
 The only Emanator of Nihility that isn't a Self-Annihilator like Acheron is the Path's virtual Emanator, \[ApoRia432] Helektra/Hysilens, who, as a member of a monstrous race, feels she cannot exist with non-monsters. However, as she witnessed the corruption of her own people by the black tide, she no longer has a place there either. In most Amphorean cycles, this means she ends up killing herself for Cerydra, for as Lygus's logs put it, life would sooner choose Destruction than succumb to the Nihility.
 ## Preservation
@@ -132,8 +132,10 @@ Seeing as Castorice was quite literally touch starved until meeting the Trailbla
 This seems to be the ultimate form of the Equilibrium at a glance, but as Lygus notes, the two halves of Thanatos are extremely divergent from the original, and while he seems to unreasonably leap toward calling that Destruction, seeing as the two halves of Thanatos begin to resent each other, are forced into conflict, and have to reconcile their differences for either to move forward (and Castorice to ascend to Titanhood), I'm inclined to agree, that forced equality is no equality, and thereby Destruction.
 ## Finality
 Death is the final event, which comes for all things, no matter how great. The future is already written. Only through the end of everything can a new beginning foster.
+### Terminus
+In 3.8, it is revealed that time flows backward for Terminus. This means that, ironically, Terminus can change the future, although it does so by changing the past. Terminus uses this ability to revive Firefly, who secretly died of Entropy Loss in 2.4.
 ### Followers
-The Stellaron Hunters follow the Finality through their prophet, Elio.
+The Stellaron Hunters follow the Finality through their prophet, Elio. Everyone thinks Elio is a black cat, even though 3.8 clearly explained that the black cat is actually an arm of Terminus.
 
 However, notably, Nous can also predict the future, so the Erudition in its purest form might also be part of the Finality.
 ## Order

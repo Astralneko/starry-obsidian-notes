@@ -82,17 +82,17 @@ For all C-type conjugations, a new vowel appears that is, if a capital letter in
 | Dative        | AXX      | AXi    |
 | Locative      | YXO      | YXO    |
 | Instrumental  | OXi      | OXE    |
-Declension C3 mirrors Declension C1, but with all e, i, j, u, w, E, O swapped with o, u, w, i, j, O, E.
+Declension C2 mirrors Declension C1, but with all e, i, j, u, w, E, O swapped with o, u, w, i, j, O, E.
 
-| Declension C2 | Singular | Plural |
-|---------------|----------|--------|
+| Declension C3 | Singular | Plural |
+| ------------- | -------- | ------ |
 | Nominative    | XVX      | XVi    |
 | Accusative    | XVV      | XVE    |
 | Genitive      | XVa      | XYe    |
 | Dative        | XAX      | XAi    |
 | Locative      | XYO      | XYO    |
 | Instrumental  | XOi      | XOE    |
-Declension C4 mirrors Declension C2, but with the same swapped letters as C3.
+Declension C4 mirrors Declension C3, but with the same swapped letters as C2.
 ## Verbs
 Verbs mark for person and tense, but the tenses are generally basic unless affixes are involved. However, verbs exhibit polypersonality: they mark for both the person of the subject and the object.
 ### Personal agreement
