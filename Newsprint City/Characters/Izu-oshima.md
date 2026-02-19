@@ -1,0 +1,2 @@
+#newsprint-city #splatoon-eternal-thunderstorm #sets-character #sets-chimera
+**Izu-oshima** is the ninth of the 26 NPA chimeras produced by the [[Bio-Assessment Survey Squad]]. Characterized as shy and averse to conflict, Izu-oshima is the one who called the Copper Splatoon to investigate the BASS.

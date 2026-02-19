@@ -1,5 +1,5 @@
 #splatoon-eternal-thunderstorm #newsprint-city 
-Each of the letters is named after the human names of islands, recovered from ORCA documentation by Newsprint City researchers. [[Grendel]] of the [[Bio-Assessment Survey Squad]] uses these in order to name the experiments the BASS creates.
+Each of the letters is named after the human names of islands, recovered from human domes' documentation by Newsprint City researchers. [[Grendel]] of the [[Bio-Assessment Survey Squad]] uses these in order to name the experiments the BASS creates.
 
 Amantani
 Bermuda

@@ -1,0 +1,2 @@
+#newsprint-city #sets-locations 
+The **Newsprint Highway** is the largest road in Newsprint City. It connects [[Sand Dollar Island]], western [[Splatling Island]], [[Jellyfish Island]], and the Newsprint mainland. 

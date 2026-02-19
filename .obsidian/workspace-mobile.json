@@ -281,7 +281,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Pezen/Languages/Matelian/Matelian phonology.md",
+            "file": "Newsprint City/Locations/Newsprint Highway.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -413,10 +413,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f497b7f165c18ca3",
+  "active": "a2bd11ab1751b920",
   "lastOpenFiles": [
-    "Newsprint City/NEPO Phonetic Alphabet.md",
+    "Newsprint City/Locations/Olympia Tower.md",
+    "Newsprint City/Locations/Newsprint Highway.md",
+    "Newsprint City/Locations/Newsprint City.md",
+    "Newsprint City/Locations/Rectangle Forest.md",
+    "Newsprint City/Locations/Prison Plains.md",
     "Newsprint City/Bio-Assessment Survey Squad.md",
+    "Newsprint City/Characters/Ayakashi.md",
+    "Torchlight Island.md",
+    "Newsprint City/Locations",
+    "Newsprint City/Characters/Izu-oshima.md",
+    "Newsprint City/Characters/Grendel.md",
+    "Newsprint City/NEPO Phonetic Alphabet.md",
     "Newsprint City/Characters",
     "DXRI.4067f (Protolang Event)/Nhwétwes Isles.md",
     "Newsprint City",
@@ -434,22 +444,13 @@
     "FE Lake of Mist/A note on Lake of Mist references.md",
     "Aether Incursion CCG/Rules of Outrealm Aether Incursion.md",
     "Analysis of other video games/HSR's Aeons and Paths.md",
-    "Pezen/Languages/Rokadong/Rokadong.md",
-    "Pezen/Languages/Debazi/Debazi lexicon.md",
-    "Pezen/Languages/Debazi/Debazi orthography.md",
-    "Pezen/Languages/Debazi/Debazi.md",
-    "Pezen/Languages/Shadaric/Linnerian.md",
-    "Pezen/Languages/Shadaric/Inspollian.md",
     "Pezen/Languages/Matelian",
-    "Republic of Karan.md",
-    "Pezen/Languages/Shadaric/Matelian grammar.md",
     "Pezen/Items",
     "Pezen/Languages/Liðakuin",
     "Aether Incursion CCG",
     "Pezen/Institutions/Yukacan",
     "Pezen/Places/Fennril",
     "Assets/My art/Youmu Ref.webp",
-    "Assets/My art/IMG_5709.heic",
-    "Pezen/Places/Quill Kingdom"
+    "Assets/My art/IMG_5709.heic"
   ]
 }

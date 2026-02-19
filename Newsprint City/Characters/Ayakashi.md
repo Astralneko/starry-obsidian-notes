@@ -1,0 +1,2 @@
+#newsprint-city #splatoon-eternal-thunderstorm #sets-character #sets-copper
+**Ayakashi**, also known as "Nine", is a rayling living in [[Newsprint City]]. Due to the new setting, Ayakashi is not a member of the Squidbeak Splatoon, but instead the [[Copper Splatoon]] - essentially, the cops of Newsprint City.

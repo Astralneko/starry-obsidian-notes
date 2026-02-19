@@ -1,0 +1,2 @@
+#newsprint-city #sets-locations
+**Rectangle Forest** is the remains of Central Park. Although between the Great Flood and the present, the park has expanded irregularly, it's still surprisingly rectangular, which the inkfish found peculiar.
