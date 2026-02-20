@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newsprint City/Bio-Assessment Survey Squad.md",
+                "file": "Newsprint City/Characters/Texas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bio-Assessment Survey Squad"
+              "title": "Texas"
             }
           }
         ],
@@ -413,14 +413,19 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a2bd11ab1751b920",
+  "active": "f497b7f165c18ca3",
   "lastOpenFiles": [
+    "Newsprint City/Characters/Mukashi.md",
+    "Newsprint City/Characters/Ashitaka.md",
+    "Newsprint City/Characters/Arizona.md",
+    "Newsprint City/Characters/Texas.md",
+    "Newsprint City/Characters/Aradaze.md",
+    "Newsprint City/Bio-Assessment Survey Squad.md",
     "Newsprint City/Locations/Olympia Tower.md",
     "Newsprint City/Locations/Newsprint Highway.md",
     "Newsprint City/Locations/Newsprint City.md",
     "Newsprint City/Locations/Rectangle Forest.md",
     "Newsprint City/Locations/Prison Plains.md",
-    "Newsprint City/Bio-Assessment Survey Squad.md",
     "Newsprint City/Characters/Ayakashi.md",
     "Torchlight Island.md",
     "Newsprint City/Locations",
@@ -439,11 +444,6 @@
     "Pezen/Languages/Debazi/Debazi phonology.md",
     "Pezen/Languages/Debazi/Debazi grammar.md",
     "Rokadong Nuclear Waste Warning.md",
-    "Pezen/Items/Mahosin.md",
-    "FE Lake of Mist/On FELoM if it was a game.md",
-    "FE Lake of Mist/A note on Lake of Mist references.md",
-    "Aether Incursion CCG/Rules of Outrealm Aether Incursion.md",
-    "Analysis of other video games/HSR's Aeons and Paths.md",
     "Pezen/Languages/Matelian",
     "Pezen/Items",
     "Pezen/Languages/Liðakuin",

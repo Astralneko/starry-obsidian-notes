@@ -1,1 +1,1 @@
-#newsprint-city #splatoon-eternal-thunderstorm #sets-character #sets-electric-ouroboros
+#newsprint-city #splatoon-eternal-thunderstorm #sets-character #sets-unite-gear 
