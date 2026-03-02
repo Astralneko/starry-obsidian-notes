@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pezen/Items/Debazi coffee.md",
+                "file": "Pezen/Institutions/Yukacan/List of deities of Yukacan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Debazi coffee"
+              "title": "List of deities of Yukacan"
             }
           }
         ],
@@ -281,7 +281,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Newsprint City/Locations/Newsprint Highway.md",
+            "file": "Pezen/Institutions/Yukacan/List of deities of Yukacan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -415,8 +415,10 @@
   },
   "active": "f497b7f165c18ca3",
   "lastOpenFiles": [
-    "Pezen/Items/Mahosin.md",
+    "Pezen/Institutions/Yukacan.md",
+    "Pezen/Languages/Debazi/Debazi grammar.md",
     "Pezen/Items/Debazi coffee.md",
+    "Pezen/Items/Mahosin.md",
     "Pezen/Items/Eternal Jade Scarf.md",
     "Newsprint City/Characters/Texas.md",
     "Newsprint City/Characters/Mukashi.md",
@@ -442,8 +444,6 @@
     "Rauratoshan EAS transcript.md",
     "Notes on dreams.md",
     "Idea for Azeria's TTRPG thingy.md",
-    "Pezen/Characters/Reaca Mirai.md",
-    "Pezen/Characters/Osciu Mirai.md",
     "Pezen/Languages/Matelian",
     "Pezen/Items",
     "Pezen/Languages/Liðakuin",
