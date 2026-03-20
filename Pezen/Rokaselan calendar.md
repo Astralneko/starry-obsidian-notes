@@ -20,6 +20,7 @@ The epoch of the Rokaselan calendar is 2436 years before the present of [[Drawn
 The modified Rokaselan calendar only differs from the original in the placement of leap years. The modified Rokaselan calendar uses the same leap years as the Gregorian calendar. This does not see use in Drawn to Afterlife, and its existence is not confirmed there. However, this modified Rokaselan calendar does see use in other properties that include the Rokaselan calendar.
 ### Divine
 The divine calendar is the earliest version of the Rokaselan calendar, said to be given to the kingdom by Selshan themselves. It uses a strict 360-day year, separating each 30-day month into five 6-day weeks. In Rokasela, it is expected that birth certificates and building deeds list the date of construction in the divine calendar.
+Modern weeks are 7 days long instead of 6; this is due to a "rest day" being added to the week.6
 ## List of month names
 
 | Name       | Month length  | Start time (Gregorian) | End time (Gregorian) |

@@ -22,6 +22,23 @@ All palatals occur as sequences of an adjacent sound + /j/. However, \[tɕ dʑ �
 | Open-mid   | -   | ɛ                      |      |         |      |      | ɔ   |
 | Open       | -   | æ                      |      | a aj    |      | ɑw   |     |
 | Diphthongs | -   | ju jo jɔ ja ɵj (ej ow) | <    | <       | <    | <    | <   |
+
+```vowel-chart
+layout formant
+add [iː]
+add [y]
+add [ʏɥ]
+add [u]
+add [ej]
+add [ø]
+add [ə]
+add [ɵ̞ɥ]
+add [ow]
+add [ɛ]
+add [ɔ]
+add [æ]
+add [ɑ]
+```
 ## Diaphonemes
 //ɵ ɯ ej ow// are considered diaphonemic, rather than regularly phonemic, in Liðakuin. In the latter two's case, while no known dialect appears to have all of /ej e ɛ/ and all of /ow o ɔ/, the exact results are heavily dialect-dependent. In the former two's case, in the standard dialect of Liðakuin these have merged with other phonemes /ə o/.
 

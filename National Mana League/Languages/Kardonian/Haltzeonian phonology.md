@@ -28,3 +28,7 @@
 | Close-mid | -   |   e   |    ə    |  o   |
 |  Open-mid | -   |   ɛ   |         |  ɔ   |
 |      Open | -   |       |    ɐ    |      |
+
+```vowel-chart
+i e ɛ ɐ ə ɔ o u
+```

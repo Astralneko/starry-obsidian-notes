@@ -1,0 +1,50 @@
+.vowel-chart-body {
+	position: relative;
+	--vowel-chart-background: var(--background-primary);
+	--vowel-chart-text: var(--text-normal);
+}
+
+.vowel-chart-svg {
+	fill: var(--vowel-chart-text);
+	stroke: var(--vowel-chart-text);
+	background-color: var(--vowel-chart-background);
+}
+
+.vowel-chart-text-float-container {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.vowel-chart-text.left {
+	transform: translate(-100%, -60%);
+}
+
+.vowel-chart-text.right {
+	transform: translate(0%, -60%);
+}
+
+.vowel-chart-text.middle {
+	transform: translate(-50%, -60%);
+}
+
+.vowel-chart-text {
+	position: absolute;
+	background: var(--vowel-chart-background);
+	color: var(--vowel-chart-text);
+
+	padding: 0px 4px;
+	border-radius: 6px;
+	user-select: none;
+	text-wrap-mode: nowrap;
+	line-height: 1em;
+}
+
+.vowel-chart-text-dot {
+	position: absolute;
+	display: block;
+	width: 6px;
+	height: 6px;
+	border-radius: 50%;
+	background-color: var(--vowel-chart-text);
+}
