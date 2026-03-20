@@ -9,7 +9,7 @@ Has been located in memory sea after last reset (21-28 Oct 2025): Yes
 - canon species: [[Avali]]
 - role: Lorekeeper
 - sources, if any: originally took on the appearance of Hu Tao from Genshin Impact, but seems not to be an introject
-- origin: Saw in a dream; any furthee origin is unknown
+- origin: Saw in a dream; any further origin is unknown
 ## Appearance
 will add image soon^TM^
 ## In more detail

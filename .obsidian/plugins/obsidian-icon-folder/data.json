@@ -6,6 +6,12 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaMagnet",
+      "RaTrefoilLily",
+      "LiSquareMousePointer",
+      "🐁",
+      "RiMoonClearLine",
+      "LiClock1",
       "RaLanternFlame",
       "RiPlanetLine",
       "RaFlowers",
@@ -94,5 +100,25 @@
   "Bios/Headmates/Seolyeong.md": {
     "iconName": "RaLanternFlame",
     "iconColor": "#d65846"
+  },
+  "Bios/Headmates/Trinity.md": {
+    "iconName": "LiClock1",
+    "iconColor": "#dd4d45"
+  },
+  "Bios/Headmates/Sahara.md": {
+    "iconName": "RiMoonClearLine",
+    "iconColor": "#ebf2cc"
+  },
+  "Bios/Headmates/Techikas’.md": {
+    "iconName": "LiSquareMousePointer",
+    "iconColor": "#c4f76f"
+  },
+  "Bios/Headmates/Fossil.md": {
+    "iconName": "RaTrefoilLily",
+    "iconColor": "#26aa19"
+  },
+  "Bios/Headmates/Junko.md": {
+    "iconName": "RaMagnet",
+    "iconColor": "#a3f9e2"
   }
 }

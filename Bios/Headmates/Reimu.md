@@ -98,4 +98,4 @@ Nevesbbe nnshbsbbsbsssss s
 Can fly. Can also instantly set anything in headspace alight in holy fire.
 #### History
 ### In-sys relations
-"Created" [[Youmu]] as its mouthpiece. Seems to prefer avoiding conversation, which may be why it dpes not acknowledge [[Puanga]]. That being said, repeatedly has reverted mainly Aizaki-descended headmates, particularly [[Almond]] and [[Hikari]].
+"Created" [[Youmu]] as its mouthpiece. Seems to prefer avoiding conversation, which may be why it does not acknowledge [[Puanga]]. That being said, repeatedly has reverted mainly Aizaki-descended headmates, particularly [[Almond]] and [[Hikari]].
