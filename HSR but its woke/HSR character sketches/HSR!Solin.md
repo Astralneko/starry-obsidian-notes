@@ -1,10 +1,11 @@
 #hsr-character
-Based on the Galaxy System headmate.
+Based on the Glitchrune character.
 # Summary
-**Reisen Inaba**
-Lightning/Path
+**Solin Leihinheim**
+Physical/Remembrance
 Archetype
-Faction: 
+Faction: ħdev-21 "Eureka"
+*Over even just a few centuries, long-life species' memories often blur together into an amalgamation, an approximation of what seems correct. Now, what about a living computer? Sure, its banks are larger, but memory is still finite for mortal beings.*
 # Basic mechanics
 Base Stats:
 ## Basic Attack
