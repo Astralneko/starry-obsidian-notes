@@ -1,11 +1,10 @@
 #hsr-character
-Based on the Glitchrune character.
 # Summary
-**Solin Leihinheim**
-Physical/Remembrance
+**Name**
+Type/Path
 Archetype
-Faction: Cosmos (cf. Ratio)
-*Over even just a few centuries, long-life species' memories often blur together into an amalgamation, an approximation of what seems correct. Now, what about a living computer? Sure, its banks are larger, but memory is still finite for mortal beings.*
+Faction:
+*Lore*
 # Basic mechanics
 Base Stats:
 ## Basic Attack
