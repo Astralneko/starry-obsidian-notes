@@ -1,0 +1,4 @@
+#valkyrie-world #valkyrie-nations 
+The **Sunbacked Crown of (Name)** is a nation in the Angel-wing Alliance, a northern empire consisting of the Crown and its vassal states. Sunbacked Crown natives are primarily sky-dwellers, but due to the growth of the alliance, other folks are a common occurrence.
+# History
+The Sunbacked Crown started as the Solar Crest of (Name). 180 years ago, they attacked the Norcrux in a decades-long war, which they won 150 years ago. Changing their title to Sunbacked Crown, they continued to grow, economic and military gains giving the Crown huge control over the politics of northern Valkyrie.

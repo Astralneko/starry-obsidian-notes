@@ -2,15 +2,15 @@
 ## Stats
 
 | Entry Chapter       | -   | [[0b Defense of Albacet]] |
-| ------------------- | --- | --------------------------- |
-| Starting Race/Class | -   | Kumiho Mage                 |
-| Starting Level      | -   | 1                           |
-| Gender/Age          | -   | 16, F                       |
-| Base Weapon Ranks   | -   | Daggers: C                  |
-| ^                   | -   | Tomes: C                    |
-| Base Supports       | -   | [[Huyao\|Huyao]]: C   |
-| ^                   | -   | [[Renna]]: 50 to C          |
-Personal Skill:
+| ------------------- | --- | ------------------------- |
+| Starting Race/Class | -   | Kumiho Rogue              |
+| Starting Level      | -   | 1                         |
+| Gender/Age          | -   | 16, F                     |
+| Base Weapon Ranks   | -   | Daggers: C                |
+| ^                   | -   | Tomes: C                  |
+| Base Supports       | -   | [[Huyao\|Huyao]]: C       |
+| ^                   | -   | [[Renna]]: 50 to C        |
+**Personal Skill**:
 
 |            | -   | Base | Growth |
 | ---------- | --- |:----:|:------:|

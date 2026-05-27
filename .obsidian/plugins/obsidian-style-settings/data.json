@@ -1,0 +1,9 @@
+{
+  "things-style@@active-line": true,
+  "encore-settings@@theme-dark": "encore-theme-dark-flexoki",
+  "encore-settings@@theme-light": "encore-theme-light",
+  "encore-settings@@colors": "encore-colors-colorful",
+  "encore-settings@@encore-translucency": false,
+  "encore-settings@@encore-mobile-oled-mode": true,
+  "encore-settings@@encore-bright-accent": false
+}

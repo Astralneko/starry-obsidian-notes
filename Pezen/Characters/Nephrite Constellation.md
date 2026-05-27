@@ -22,7 +22,7 @@ Charon typically doesn't leave Condero, where he can likely yell for guards if n
 Lova represents Fénon before their untimely death; Lova uses exclusively she/her pronouns, much as Fénon did when they were alive. These memories were locked away within Hatena, until Hatena's death resulted in fracturing the Nephrite Constellation even further.
 Lova is the most magic-oriented of the four, what with her resembling tropes of the magical girl genre; she only has a knife for non-magical combat.
 ## Léthe/Fénon
-After the restitching, Léthe resurfaces, as "that which was forgotten," intended to represent Fénon as if time did not freeze for them. However, Léthe presents as male, taking on a personality similar to early-chapter Charon, who was carrying his memories. Léthe holds the true memories, that Fénon existed, but thinks that which is dead should lay forgotten, and has blocked himself, and thus the others, from remembering.
+After the restitching, Léthe resurfaces, as "that which was forgotten," intended to represent Fénon as if time did not freeze for them. However, Léthe presents as male, taking on a personality similar to early-chapter Charon, who was carrying his memories. Léthe holds the true memories, that Fénon existed, but thinks that which is dead should lay forgotten, and has blocked himself, and thus the others, from remembering
 As a ranger, Léthe's proficiency is with a shotgun.
 # Trivia
 * Mirai is Japanese for "future". However, each of the members of the Nephrite Constellation has a notable name too:

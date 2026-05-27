@@ -9,7 +9,7 @@
 | Base Weapon Ranks   | -   | Bows: C                     |
 | Base Supports       | -   | [[Huyao\|Huyao]]: 20 to C   |
 | ^                   | -   | [[Renna]]: 50 to C          |
-Personal Skill:
+**Personal Skill**:
 
 |            | -   | Base | Growth |
 | ---------- | --- |:----:|:------:|

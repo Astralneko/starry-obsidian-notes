@@ -1,11 +1,11 @@
 {
-  "textFontFamily": "",
-  "interfaceFontFamily": "",
+  "textFontFamily": "Truth and Ideals",
+  "interfaceFontFamily": "Truth and Ideals",
   "enabledCssSnippets": [
-    "truth-and-unifont",
     "tags"
   ],
   "baseFontSize": 18,
-  "cssTheme": "Obsidianite",
-  "accentColor": ""
+  "cssTheme": "Encore",
+  "accentColor": "#cb5fde",
+  "monospaceFontFamily": "Unifont"
 }
