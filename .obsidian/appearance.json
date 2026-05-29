@@ -2,7 +2,8 @@
   "textFontFamily": "Truth and Ideals",
   "interfaceFontFamily": "Truth and Ideals",
   "enabledCssSnippets": [
-    "tags"
+    "tags",
+    "truth-and-unifont"
   ],
   "baseFontSize": 18,
   "cssTheme": "Encore",
