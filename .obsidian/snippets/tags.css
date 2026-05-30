@@ -32,3 +32,13 @@ span.cm-tag-quill-kingdom.cm-formatting-hashtag {
   background-color: #000;
   color: #fff;
 }
+
+a.tag[href*='#valkyrie'] {
+  background-color: #f9f;
+  color: #222;
+  font-weight: bold;
+}
+span.cm-tag-valkyrie-world:not(.cm-formatting-hashtag), span.cm-tag-valkyrie-nations:not(.cm-formatting-hashtag), span.cm-tag-valkyrie-species:not(.cm-formatting-hashtag) {
+  color: #f9f;
+  font-weight: bold;
+}

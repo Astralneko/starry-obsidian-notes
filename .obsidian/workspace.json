@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HSR but its woke/HSR character sketches/template.md",
+                "file": "Valkyrie/Nations of Valkyrie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "template"
+              "title": "Nations of Valkyrie"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 646.5
+    "width": 324
   },
   "right": {
     "id": "ba06c28363778e5c",
@@ -198,41 +198,41 @@
   },
   "active": "2c8be19302a9f753",
   "lastOpenFiles": [
+    "Valkyrie/Languages/Samvayan.md",
+    "Valkyrie/Languages/Samvayan/Phonology.md",
+    "Valkyrie/Nations of Valkyrie.md",
+    "Valkyrie/Species of Valkyrie.md",
+    "Valkyrie/Languages/Samvayan/Orthography.md",
+    "Valkyrie/Nations/Sunbacked Crown.md",
+    "Valkyrie/Æther.md",
+    "Valkyrie/Languages/Samvayan/Dictionary.md",
+    "Valkyrie/Languages/Samvayan/Grammar.md",
+    "Samvayan",
+    "Pezen/Languages/High Karanesa/High Karanesa phonology.md",
+    "Pezen/Languages/Debazi/Debazi phonology.md",
+    "Pezen/Languages/Nenevesian/Nenevesian phonology.md",
+    "Pezen/Languages/Rokadong/Rokadong phonology.md",
+    "Pezen/Languages/Rokadong/Rokadong.md",
+    "Pezen/Languages/Matelian/Matelian phonology.md",
+    "Pezen/Languages/Debazi/Debazi.md",
+    "HSR but its woke/HSR character sketches/template.md",
+    "Valkyrie/Languages/Samvayan",
+    "Valkyrie/Languages",
     "HSR but its woke/HSR character sketches/HSR!Solin.md",
     "Bios/Species/Technological/AI.md",
     "Bios/Species/Fantastic.md",
     "Bios/Headmates/Zephyr.md",
-    "HSR but its woke/HSR character sketches/template.md",
     "HSR but its woke/HSR character sketches/HSR!Reimu.md",
     "HSR but its woke/HSR character sketches/HSR!Youmu.md",
     "Bios/Headmates/Solin.md",
     "Bios/Headmates/Sparkle.md",
     "Bios/Headmates/Takara.md",
-    "Bios/Headmates/Hikari.md",
-    "Bios/Headmates/Hatena.md",
-    "Bios/Headmates/Ganymede.md",
-    "Bios/Headmates/Junko.md",
-    "Bios/Headmates/Jade.md",
-    "Bios/Headmates/Marzipan.md",
-    "Bios/Headmates/Kalia.md",
-    "Bios/Headmates/Fossil.md",
-    "Bios/Species/Fantastic/Mortal/Slime.md",
-    "Bios/Headmates/Puanga.md",
-    "Bios/Headmates/Paradox.md",
-    "Bios/Headmates/Nozomi.md",
-    "Bios/Headmates/Techikas’.md",
-    "Bios/Headmates/Sahara.md",
-    "Bios/Headmates/Youmu.md",
-    "Bios/Headmates/Reisen.md",
     "Pezen/Places/Fennril",
     "block.properties",
     "Pezen/Languages",
     "Pezen/Institutions/Shadaric political structures",
     "Pezen/Places/Shadar/Places",
     "Pezen/Places/Shadar/States",
-    "Pezen/Institutions",
-    "Pezen/Events",
-    "Pezen/Characters",
-    "Pezen/Places"
+    "Pezen/Institutions"
   ]
 }
