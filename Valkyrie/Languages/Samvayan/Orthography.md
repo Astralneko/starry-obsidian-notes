@@ -11,7 +11,7 @@ Here, nasalized approximants are actually given their own row, even though they 
 | Approximant | -   | v      | l      | r        | y       | w     |
 | Ãpprõxĩmãnt | -   | mv     | ns     | ṇz       | ńy      | ŋw    |
 ## Vowels
-The approximant vowels are in the same order as the approximant consonants. Approximant vowels will never be nasal by default, though obviously they can become nasalized by a following nasal. The letter ʌ can be removed in most circumstances; it is only important for transliteration.
+The approximant vowels are in the same order as the approximant consonants. Syllabic nasals are written as if they were a sequence of the syllabic approximant then n. The letter ʌ can be removed in most circumstances; it is only important for transliteration.
 
 |             | -   | Back close | Front mid | Back mid | Front close | Open |
 | ----------- | --- | ---------- | --------- | -------- | ----------- | ---- |
