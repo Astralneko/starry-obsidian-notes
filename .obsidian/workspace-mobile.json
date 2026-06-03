@@ -251,12 +251,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Valkyrie/Languages/Samvayan/Grammar.md",
+                "file": "Valkyrie/Nations of Valkyrie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grammar"
+              "title": "Nations of Valkyrie"
             }
           }
         ],
@@ -288,7 +288,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#karantank",
+            "query": "tag:#valkyrie-nations",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -472,14 +472,14 @@
   },
   "active": "8daa5b032337ee8b",
   "lastOpenFiles": [
-    "Valkyrie/Languages/Samvayan.md",
+    "Valkyrie/Nations/Sunbacked Crown.md",
+    "Valkyrie/Languages/Samvayan/Orthography.md",
+    "Valkyrie/Languages/Samvayan/Phonology.md",
     "Valkyrie/Languages/Samvayan/Dictionary.md",
+    "Valkyrie/Languages/Samvayan/Grammar.md",
+    "Valkyrie/Languages/Samvayan.md",
     "Valkyrie/Species of Valkyrie.md",
     "Valkyrie/Nations of Valkyrie.md",
-    "Valkyrie/Nations/Sunbacked Crown.md",
-    "Valkyrie/Languages/Samvayan/Phonology.md",
-    "Valkyrie/Languages/Samvayan/Grammar.md",
-    "Valkyrie/Languages/Samvayan/Orthography.md",
     "Glitchrune/Great War of the Worlds.md",
     "Glitchrune/Characters/Solin Leihinheim.md",
     "Glitchrune/Characters/Nacht Nullam.md",
