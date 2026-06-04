@@ -18,8 +18,8 @@
   "showAccentColor": true,
   "showDefaultColor": true,
   "showRemoveColor": true,
-  "lightModeHlOpacity": 0.4,
-  "darkModeHlOpacity": 0.5,
+  "lightModeHlOpacity": 0.6,
+  "darkModeHlOpacity": 0.7,
   "colorConfigs": [
     {
       "tag": "red",
