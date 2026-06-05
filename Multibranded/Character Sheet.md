@@ -1,3 +1,5 @@
+```table-of-contents
+```
 **Sirene Aidia**
 Race: Fairy *(Pixie)*
 Starting Combat Brands: Dragoon / Footsoldier
@@ -95,23 +97,23 @@ If you can be on the same space as a unit, you can also pass through the space t
 
 All larger units can only pass through tiles inhabited by Tiny units.
 ## Stats
-**Strength** (STR): Direct physical strength. Affects damage dealt with physical attacks.
+**Strength** (STR): Your physical strength, particularly when it comes to short bursts. 
 
-**Fortitude** (FRT): Allows you to persevere through physical hardships. Physical defense.
+**Fortitude** (FRT): Perseverance through physical hardships, and your endurance. Often related to how much you can reasonably carry.
 
-**Will** (WIL): Your ability to enact change on your surroundings. Affects damage dealt with magical attacks.
+**Will** (WIL): The strength of your focus, and your ability to wield magic. This also relates to your control over the metaphysical, and is often synonymous with luck.
 
-**Intuition** (INT): Allows you to figure things out and resist magical hardships. It relates to your knowledge about magical affairs. Magical Defense.
+**Intuition** (INT): Your ability to deduce truth and resist magical hardships. This also relates to your knowledge about magic and mystical affairs.
 
-**Ego**: Self-confidence and the ability to react well in social spaces. It relates to your ability to make even the worst arguments sound convincing, as well as your ability to manipulate others. Affects damage dealt with mental attacks.
+**Ego**: Self-confidence, assertiveness, and social graces. It relates to your ability to hold a strong presence in a room and persuade.
 
-**Mystique** (MYS): An air about you which renders you unique. It also relates to your knowledge of worldly affairs. Someone with a high mystique is knowledgeable, and capable of resisting effects which attempt to manipulate you. Mental defense.
+**Mystique** (MYS): A certain uniqueness which makes others take note of you, or your knowledge about social and political affairs.
 
-**Control** (CTR): Affects accuracy of ranged attacks. Your ability to control your own actions with a fine grain. 
+**Control** (CTR): Precision and accuracy in your actions, particularly details. Those with high control often have good handwriting.
 
-**Tempo** (TEM): Your reflexes and reaction time, as well as your ability to keep up with the flow of combat. Affects your Passive Dodge.
+**Tempo** (TEM): Reflexes, reaction time, and ability to track the flow of combat, or other fast situations. Those with high tempo can spot details even amongst fast-moving objects.
 
-**Accuracy**: How well you can hit enemies. The stat used varies based on the type of ability:
+**Accuracy**: How well you can hit enemies. The stat used varies based on the type of ability and is modified by equipment:
 - Ranged: Control
 - Melee (Physical): Strength
 - Melee (Magical): Will
