@@ -13,7 +13,7 @@ If Sakurayurei is on the field and has at least 1 HP, uses "Bifröst." Else, use
 "Gjallarbrú": Single. Deals damage equal to 50-80/100% of Youmu's DEF. If Sakurayurei is on the field, Sakurayurei leaves the field and the attack deals 200% more damage.
 "Bifröst": Blast. Deals damage equal to 80-130/175% of Youmu's DEF. Allies with "Lovesick" receive 1 stack of "Lovesick", up to a maximum of 10, and the timer on "Lovesick" is refreshed.
 ## Skill
-If Sakurayurei is not on the field, uses "Phantom Notification." Otherwise, uses "Lífþrasir".
+If Sakurayurei is not on the field, uses "Phantom Notification." Otherwise, if Sakurayurei has at least 1 HP, uses "Lífþrasir". The Skill cannot be used if neither of the above are true.
 Phantom Notification: Support. Summons Sakurayurei to the field with HP equal to Youmu's Max HP. The targeted ally receives one stack of "Lovesick", up to a maximum of 10, and the timer on "Lovesick" is refreshed.
 Lífþrasir: Single. Attacks an enemy for 40-80/100% of Youmu's DEF, as well as marking them with the debuff "Lan's Despair". (As this is legally a debuff, inflicting "Lan's Despair" can charge things like Acheron's Slashed Dreams.) Sakurayurei will target an enemy with "Lan's Despair" instead of the automatically chosen target on its next turn, and then clear "Lan's Despair". An enemy inflicted with "Lan's Despair" also takes Toughness Damage from Lightning damage even if they are not weak to Lightning.
 ## Talent
