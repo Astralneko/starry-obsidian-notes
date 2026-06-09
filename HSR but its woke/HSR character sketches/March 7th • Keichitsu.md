@@ -1,4 +1,5 @@
 #hsr-character
+See also [[March 7th, Living Record]].
 # Summary
 **Keichitsu**
 Ice/Elation
