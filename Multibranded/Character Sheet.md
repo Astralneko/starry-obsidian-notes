@@ -38,14 +38,20 @@ Unlocked skills should be marked in some way (bold, italic, etc)
 - **Momentum**: Unique Stat - Equal to 1/4 the distance moved last movement at base. See the Stats section for details.
 - **Batallion**: All allied characters, both player and non-player, within 40 feet, including yourself. Also referenced as a value, equal to the number of such characters.
 - **Invigorated**: Marked by Roaring Cheer; until the next ally turn, they cannot be Invigorated again.
+- **Double Speed**: Your Base Speed is twice as high as normal.
+- **Wall Run**: If you have 8 or more Momentum: All walls with an incline of no more than 90 degrees are considered floors. If your Momentum drops below the threshold or you lose this effect, you will immediately fall to the ground below the wall.
+- **Ceiling Run**: If you have 16 or more Momentum: All walls are considered floors. You may also move on the ceiling of tiles with no wall if you can reach them. While on the ceiling, you can only be attacked by ranged attacks unless the target is also on the ceiling or is able to fly. If your Momentum drops below the threshold or you lose this effect, you will immediately fall to the ground below the wall.
 ### Active
-**Lightspeed Strike** - Momentum Strike many foes, 4 Energy - Declare a path of 8+4M feet (where M = current **Momentum**), then rush down this path, attacking all enemies in the way for **Phys** damage equal to **Strike Power**.
-**Hermes's Gift** - Momentum Enhance self, 8 Energy - Gain Double Speed, Wall Run, and Ceiling Run. Next turn, spend 2 Energy to maintain the effect, or end the effect.
-**Sudden Stop Sunder** - Momentum Strike one foe at distance, All **Momentum** - Only usable if you have 4 or more **Momentum**. If you are moving, immediately stop and deal 1x **Strike Power** damage to one enemy using your active Weapon. Can be used either as melee or ranged, and gains an effect based on which is used:
+**Lightspeed Strike** - Momentum Strike many foes, 4 Energy - Declare a movement path of 8+4M feet (where M = current **Momentum**), then attack all enemies in the path for **Phys** damage equal to **Strike Power**. After using this skill, you are moved to the end of the path declared.
+
+**Hermes's Gift** - Momentum Enhance self, 8 Energy - Gain **Double Speed**, **Wall Run**, and **Ceiling Run**. Next turn, either spend 2 Energy to upkeep the skill, or end the skill, losing all of the above effects.
+
+**Sudden Stop Sunder** - Momentum Strike one foe at distance, All **Momentum** - Only usable if you have 4 or more **Momentum** and have moved towards the target enemy. If you are moving, immediately stop and deal 1x **Strike Power** damage to one enemy using your active Weapon. Can be used as a reaction to being knocked back more than 16 feet; when doing this, the Momentum used is zero but it is used as if the Knockback was converted to Momentum. Can be used either as melee or ranged, and gains an effect based on which is used:
 - *Melee*: Add n times Tempo to the Strike Power, where n is 1/8 of the Momentum expended, rounded down.
 - *Ranged*: The accuracy of the ranged attack is based on a combination of the Control + Momentum expended. The range is equal to 8\*n feet, where n is 1/4 the Momentum expended, rounded down.
 
 **Day's Drudgery, Dusk's Drinking** - Tactical Strike many foes, 8 Energy - Attack one enemy using equivalent standard attack of a chosen weapon, then **Batallion** members around you may strike any other enemy within 16 feet of the attacked enemy. They must strike enemies that have not been attacked yet, if there are any in range; if there are none, they may choose any enemy in range to attack. If **Batallion** is 12 or more, all strikes from this skill deal damage equal to the higher of your **Ego** and their **Strike Power**.
+
 **Roaring Cheer** - Word Enhance allies, 12 Energy - Can only be used if you took no other actions, other than movement, so far this turn. All other **Batallion** members are **Invigorated** if they are not already, causing them to immediately recover 4 Energy.
 ### Passive
 **Mystic Flight** - Can fly naturally. The conferred flight speed is equal to base speed.

@@ -1,13 +1,6 @@
 {
-  "pluginList": [
-    "MapleKarine/obsidian-vowel-chart"
-  ],
-  "pluginSubListFrozenVersion": [
-    {
-      "repo": "MapleKarine/obsidian-vowel-chart",
-      "version": "1.0.2"
-    }
-  ],
+  "pluginList": [],
+  "pluginSubListFrozenVersion": [],
   "themesList": [],
   "updateAtStartup": true,
   "updateThemesAtStartup": true,
