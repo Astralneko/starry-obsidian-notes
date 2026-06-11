@@ -16,4 +16,4 @@ The approximant vowels are in the same order as the approximant consonants. Syll
 |             | -   | Back close | Front mid | Back mid | Front close | Open |
 | ----------- | --- | ---------- | --------- | -------- | ----------- | ---- |
 | True        | -   | u          | e         | o        | i           | a    |
-| Approximant | -   | ʌv         | ʌl        | ʌr       | ^           | ʌw   |
+| Approximant | -   | ʌy         | ʌl        | ʌr       | ^           | ʌw   |
