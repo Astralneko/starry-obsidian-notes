@@ -1,3 +1,3 @@
 In "HSR but it's woke" Hysilens has more fishy traits, namely a tail made of water much like her core already is. This is based on a character model mod for Hysilens that I found that I think fits her very well. Plus, it makes her canon fishgirlsmell feel less like mere poor hygiene and more "she's a fish, of course she smells weird in air." (Though proper hygiene routines could probably still fix it.)
 
-As she is from the Era Bellica, she won't appear in the first cycle, which has already reached Era Halcyona.
+As she is from the [[Amphoreus Worldbuilding Alterations|Era Bellica]], she won't appear in the first cycle, which has already reached Era Alcyone.
