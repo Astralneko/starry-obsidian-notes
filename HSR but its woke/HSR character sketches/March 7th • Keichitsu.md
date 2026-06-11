@@ -7,7 +7,7 @@ Archetype
 Faction: Astral Express
 *Lore*
 # Basic mechanics
-Base Stats:
+Base Stats: HP 1081, ATK 586, DEF 512, SPD 105, Taunt 100, Energy 160
 ## Basic Attack
 
 ## Skill
