@@ -1,3 +1,5 @@
 #fe-lake-of-mist 
 ## Story
 The king of [[Darralucia]] decides to, as a counterattack, try and take over [[Marthelon]], sending [[Huyao]]'s troops in to do so. While they are only able to ransack part of the city, this includes rescuing many Darralucian and [[Coryucco|Coryuccan]] nationals, including [[Renna]] and (if not rescued in [[5a Palma of My Hand]]) [[Papillon]]. Of course, [[Argonia]] does NOT take kindly to this, and [[Emperor Fernan]] promises that Argonia will burn a path from Marthelon to [[Málaga]].
+
+Fernan immediately demands [[Mars]] hand him the Fire Emblem; he uses it to manipulate the heroes' minds; while Seolyeong manages to shake off the hallucinations, [[Papillon]] enters a crazed state, turning into the miniboss "Fallen Papillon". However, once Papillon is felled, she reverts to normal, and joins or rejoins the team, albeit at 1 HP until healed with either the medicine in her inventory or a nearby healer.

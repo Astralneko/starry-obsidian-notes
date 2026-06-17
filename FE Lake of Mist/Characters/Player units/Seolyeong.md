@@ -10,20 +10,20 @@
 | ^                   | -   | Tomes: C                  |
 | Base Supports       | -   | [[Huyao\|Huyao]]: C       |
 | ^                   | -   | [[Renna]]: 50 to C        |
-**Personal Skill**:
+**Personal Skill**: All Together - Seolyeong gives and receives twice as much Support bonuses.
 
 |            | -   | Base | Growth |
 | ---------- | --- |:----:|:------:|
 | Health     | -   |  22  |   50   |
-| Strength   | -   |  5   |   50   |
+| Strength   | -   |  5   |   60   |
 | Defense    | -   |  5   |   30   |
-| Magic      | -   |  7   |   65   |
+| Magic      | -   |  7   |   70   |
 | Resistance | -   |  3   |   30   |
 | Dexterity  | -   |  5   |   50   |
-| Speed      | -   |  10  |   65   |
-| Luck       | -   |  11  |   50   |
+| Speed      | -   |  8   |   65   |
+| Luck       | -   |  9   |   55   |
 | Build      | -   |  3   |   10   |
-| Total      | -   |  71  |  400   |
+| Total      | -   |  67  |  420   |
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 <!-- TBLFM: @>$4=sum(@I..@-1) -->
 ### Gameplay notes

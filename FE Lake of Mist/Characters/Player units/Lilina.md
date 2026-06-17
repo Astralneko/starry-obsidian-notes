@@ -12,16 +12,16 @@
 
 |            | -   | Base | Growth |
 | ---------- | --- |:----:|:------:|
-| Health     | -   |  22  |   50   |
-| Strength   | -   |  5   |   50   |
-| Defense    | -   |  5   |   30   |
-| Magic      | -   |  7   |   65   |
-| Resistance | -   |  3   |   30   |
-| Dexterity  | -   |  5   |   50   |
-| Speed      | -   |  10  |   65   |
-| Luck       | -   |  11  |   50   |
+| Health     | -   |  23  |   50   |
+| Strength   | -   |  6   |   25   |
+| Defense    | -   |  5   |   35   |
+| Magic      | -   |  8   |   75   |
+| Resistance | -   |  8   |   65   |
+| Dexterity  | -   |  7   |   55   |
+| Speed      | -   |  6   |   45   |
+| Luck       | -   |  4   |   40   |
 | Build      | -   |  3   |   10   |
-| Total      | -   |  71  |  400   |
+| Total      | -   |  70  |  400   |
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 <!-- TBLFM: @>$4=sum(@I..@-1) -->
 ### Gameplay notes

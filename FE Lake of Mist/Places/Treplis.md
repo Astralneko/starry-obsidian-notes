@@ -1,0 +1,3 @@
+The **Treplian Caliphate** is a kingdom south of [[Isola della Nebbia]] and between [[Coryucco]] and [[Newbeglia]].
+## Geography
+Treplis's borders are somewhat nebulous, as essentially to the west is some city-states and then Coryucco, while to the east is Newbeglia, but a sea of small oasis towns exists between them. On paper there are hard borders, but in practice, the Allaguja region's politicians broadly don't entirely care as long as free trade is respected between states. Regional affiliation is considered more important, as seen in [[Darralucia]]; the borders of Treplis are largely just "this region is part of Treplis so its territory is Treplian".

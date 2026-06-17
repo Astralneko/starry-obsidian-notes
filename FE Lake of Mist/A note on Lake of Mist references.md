@@ -11,3 +11,4 @@ The following is a list of unit references, along with if they are actually the 
 - [[Gullveig]]: Gullveig (FEH), *remembers FEH, though is from a timeline where the summoner lost*
 - [[Nifl]]: Nifl (FEH)
 - [[Papillon]]: Veyle (FE17), although the trope is well worn so you could also claim Lilith (FE14) fits the bill
+- [[Mars]]: Diamant (FE17X)

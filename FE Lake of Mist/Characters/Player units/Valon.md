@@ -8,20 +8,20 @@
 | Gender/Age          | -   | 18, M                         |
 | Base Weapon Ranks   | -   | Swords: C                     |
 | Base Supports       | -   | [[Lilina]]: C                 |
-**Personal Skill**:
+**Personal Skill**: Rising Star - When facing a foe with higher Str or Mag than Valon, Valon's Dex is doubled for that combat.
 
 |            | -   | Base | Growth |
 | ---------- | --- |:----:|:------:|
-| Health     | -   |  22  |   50   |
-| Strength   | -   |  5   |   50   |
+| Health     | -   |  25  |   65   |
+| Strength   | -   |  6   |   75   |
 | Defense    | -   |  5   |   30   |
-| Magic      | -   |  7   |   65   |
-| Resistance | -   |  3   |   30   |
-| Dexterity  | -   |  5   |   50   |
-| Speed      | -   |  10  |   65   |
-| Luck       | -   |  11  |   50   |
-| Build      | -   |  3   |   10   |
-| Total      | -   |  71  |  400   |
+| Magic      | -   |  4   |   40   |
+| Resistance | -   |  8   |   60   |
+| Dexterity  | -   |  6   |   55   |
+| Speed      | -   |  7   |   45   |
+| Luck       | -   |  4   |   20   |
+| Build      | -   |  5   |   10   |
+| Total      | -   |  70  |  400   |
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 <!-- TBLFM: @>$4=sum(@I..@-1) -->
 ### Gameplay notes

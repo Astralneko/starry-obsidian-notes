@@ -60,18 +60,20 @@ Tau-talah anasuron fensísa laki netasona to nata au!
 *You, and you alone, are holding hatred for my messenger!*
 
 **On account of that one (trifling) mina of silver which I owe you, you feel free to speak in such a way, while I have given to the palace on your behalf 1,080 pounds of copper, and Šumi-abum has likewise given 1,080 pounds of copper, apart from what we both have had written on a sealed tablet to be kept in the temple of Shamash.**
-`for that one-flat coin GEN silver which 1sg.FOR owe 2sg.FOR 2sg.FOR have claw~ DAT speak like this yet 1sg.FOR give-PST ACC palace in footpad GEN 2sg.FOR five thousand-thing pound GEN copper and Šumi-abum also give-PST five thousand-thing pound GEN copper, other_than that PV-write-PST DAT 1pl.EXCL on hidden tablet DAT keep LOC temple GEN Leshnet`
-Tah ibi atamis payang to firil zah nata culafir talah, tau ban tala-tala laki mayar jo ibi, mau nata nyukran pá gundaráskalí te 
+`for that one-flat coin GEN silver which 1sg.FOR owe 2sg.FOR 2sg.FOR have claw~ DAT speak like this yet 1sg.FOR give-PST ACC palace in footpad GEN 2sg.FOR five thousand-thing pound GEN copper and also Šumi-abum give-PST five thousand-thing pound GEN copper, outside thing PV-write-PST DAT 1pl.EXCL on hidden tablet DAT keep LOC temple GEN Leshnet`
+Tah ibi atamis payang to firil zah nata culafir talah, tau ban tala-tala laki mayar jo ibi, mau nata nyukran pá gundaráskalí, te valesta to talah, minárongkaca júnjata to kyado, ta taya Sumiabum nyukran minárongkaca júnjata to kyado, ne naka kásularan laki kinah no mattafa anséni laki wemar gun feryúkatan to Leshnet.
 
-*As for that singular silver coin which I owe you, you have the claws to speak like this, yet in your soles I gave the palace 1,080 pounds of copper, and Šumi-abum also gave 1,080 pounds of copper, other than what's been written for us on a private tablet to keep at the temple to Leshnet.*
+*As for that singular silver coin which I owe you, you have the claws to speak like this, yet in your soles I gave the palace 1,080 pounds of copper, and Šumi-abum also gave 1,080 pounds of copper, other than the thing that's been written for us on a private tablet to keep at the temple to Leshnet.*
 
 **How have you treated me for that copper?**
-`2sg.PST treat how ACC 1sg.FOR DAT that copper QP`
+`2sg.FOR treat-PST how ACC 1sg.FOR DAT that copper QP`
+Talah mikáran dakke pá nata laki ibi kyado sho?
 
 *How'd you treat me for this copper?*
 
 **You have withheld my money bag from me in enemy territory; it is now up to you to restore (my money) to me in full.**
 `2sg.FOR away-hold-PST bag GEN money GEN 1sg.FOR in land GEN enemy now 2sg.FOR should restore-IMP all that DAT 1sg.FOR`
+Talah fílasur ferayan to payang to nata te tanah to ávanrash; ashofa talah nulá faiténakatenh
 
 *You withheld my money bag in an enemy's land; now you ought to restore all of it to me.*
 
