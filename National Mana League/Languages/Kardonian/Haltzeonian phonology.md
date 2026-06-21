@@ -21,14 +21,10 @@
 
 ## Vowels
 
-
 |           | -   | Front | Central | Back |
 | --------: | --- | :---: | :-----: | :--: |
 |     Close | -   |   i   |         |  u   |
 | Close-mid | -   |   e   |    ə    |  o   |
 |  Open-mid | -   |   ɛ   |         |  ɔ   |
 |      Open | -   |       |    ɐ    |      |
-
-```vowel-chart
-i e ɛ ɐ ə ɔ o u
-```
+In Haltzeonian, all vowels can technically be nasalized. However, nasalized /ɛ ə ɔ/ has the same pronunciation as nasalized /e ɐ o/. Regardless, these vowels come primarily from historic coda /ŋ/, though high vowels /i e/ nasalize when followed by /ɲ/.
