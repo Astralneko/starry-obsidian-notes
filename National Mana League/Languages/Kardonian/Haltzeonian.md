@@ -3,7 +3,7 @@ Modern Haltzeonian is one of many languages descended from Industrial Haltzeonia
 ## Phonology
 See [[Haltzeonian phonology]] and [[Dialects of Haltzeonian]] for more details.
 ## Orthography
-See [[Haltzeonian orthography]] for more details.
+See [[Kardonian orthography]] for more details.
 ## Grammar
 See [[Haltzeonian grammar]] for an overview.
 ## Lexicon
