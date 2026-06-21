@@ -1,8 +1,10 @@
 **Mahosin** is the basis for most magic in the world of Pezen. It is a protein that many, but not all, living beings across the world of Pezen possess.
 # Mechanics
 There are eight "varieties" or "flavors" of mahosin: red, yellow, green, cyan, blue, magenta, black, and white. The first six flavors are associated with the core elements of Pezeni magic, while the other two can suppress and enhance the effects of the other flavors.
-All varieties of mahosin have an unknown element which is able to interact with the so-called [[Imaginary Plane]].
-The most common source of mahosin for spellcraft is plants that produce it, which are crushed into dyes and applied to rough cards - such that the crafted spell can be activated with a flick. Such cards are [[Swatch|swatches]]. 
+
+All varieties of mahosin have an unknown element which is able to interact with the so-called [[Imaginary Plane]]. This element is, of course, also found inorganically. Laterally-active inorganic matter is usually called [[Denzinite|denzinite]] or a variant thereof, but the exact thing that causes connection to the Imaginary Plane is currently unknown, as Pezen generally hasn't developed nuclear physics.
+
+The most common source of mahosin for spellcraft is plants that produce it, which are crushed into dyes and applied to rough cards - such that the crafted spell can be activated with a flick. Such cards are [[Swatch|swatches]].
 ## Flavors
 Red magic is associated with fire and warmth.
 Yellow magic is associated with earth, rock, and metal.
