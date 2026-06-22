@@ -47,6 +47,6 @@ Adjectives and adverbs are not distinct in Haltzeonian; the same word can be app
 Kardonian languages are almost always SOV word order, and Haltzeonian is no different. However, in Haltzeonian, in interrogative sentences, the verb moves to the front of the word, making these sentences VSO. 
 
 **Declarative**: "You threw away the papers."
-	Nel hímionchil caelémik.
+	Nel hímioncil caelémik.
 **Interrogative**:  "Did you throw away the papers?"
-	Caelémik nel hímionchil?
+	Caelémik nel hímioncil?
