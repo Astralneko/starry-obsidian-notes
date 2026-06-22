@@ -10,7 +10,7 @@ Noun declinations are generally a single suffix, as follows:
 | Possessive | -ma      | -meon     | -mbil    |
 | Dative     | -t’an    | -t’eon    | -nt’il   |
 | Lative     | -dao     | -zaolyeon | -zaonil  |
-| Locative   | -zeng    | -zenheon  | -zenggil |
+| Locative   | -zẽ      | -zenheon  | -zẽgil   |
 | Ablative   | -paet    | -paeseon  | -paensil |
 (n) metathesizes with a final non-sonorant.
 

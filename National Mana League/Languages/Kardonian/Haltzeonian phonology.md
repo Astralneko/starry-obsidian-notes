@@ -28,3 +28,19 @@
 |  Open-mid | -   |   ɛ   |         |  ɔ   |
 |      Open | -   |       |    ɐ    |      |
 In Haltzeonian, all vowels can technically be nasalized. However, nasalized /ɛ ə ɔ/ has the same pronunciation as nasalized /e ɐ o/. Regardless, these vowels come primarily from historic coda /ŋ/, though high vowels /i e/ nasalize when followed by /ɲ/.
+## Vowel harmony
+The vowels of Haltzeonian can be changed as follows:
+
+| standard   | fronted         | backed          |
+|------------|-----------------|-----------------|
+| i [i]      | ---             | ui [ɯ]          |
+| u [u]      | iu [y]          | ---             |
+| e ĩ [e ĩ]  | ---             | eo uĩ [ə ɯ̃]    |
+| o ũ [o ũ]  | eo iũ [ə ỹ]     | ---             |
+| ae ẽ [ɛ ẽ] | ye yẽ [jɛ j̃ɛ̃] | ue uẽ [ø ø̃]    |
+| eo [ə]     | yeo/yae [ɛ]     | weo/wao [ɔ]     |
+| ao õ [ɔ õ] | io iõ [ʌ ʌ̃]    | wo wõ [wɑ w̃ɑ̃] |
+| a ã [ɐ ɐ̃] | ---             | ---             |
+Every vowel after the stressed one follows the same backness position. If the first vowel in the word is a stressed /i e jV/, then the entire word is fronted. If the first vowel in the word is a stressed /u o wV/, then the entire word is backed. If there is not initial stress, then all syllables before the stressed one are standard.
+
+/ɛ ə ɔ ɐ/ are neutral in the sense that they do not trigger harmonization. However, they do trigger harmonization if /jV wV/ are found. An on-glide of the opposite harmony becomes [ɥ], e.g. míkwo [ˈmikɥɑ].
