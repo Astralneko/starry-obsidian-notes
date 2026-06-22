@@ -11,14 +11,12 @@
             "id": "2c8be19302a9f753",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excel-pro-view",
               "state": {
-                "file": "National Mana League/Languages/Kardonian/Kardonian orthography.md",
-                "mode": "source",
-                "source": false
+                "file": "National Mana League/Languages/Kardonian/Haltzeonian lexicon.md"
               },
               "icon": "lucide-file",
-              "title": "Kardonian orthography"
+              "title": "Haltzeonian lexicon"
             }
           }
         ]
@@ -193,16 +191,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-importer:Open Importer": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "sheet-plus:Create excel file": false
     }
   },
   "active": "2c8be19302a9f753",
   "lastOpenFiles": [
-    "National Mana League/Languages/Kardonian/Haltzeonian phonology.md",
-    "National Mana League/Languages/Kardonian/Haltzeonian lexicon.md",
     "National Mana League/Languages/Kardonian/Haltzeonian grammar.md",
-    "National Mana League/Languages/Kardonian/Haltzeonian.md",
+    "National Mana League/Languages/Kardonian/Haltzeonian lexicon.md",
+    "National Mana League/Languages/Kardonian/Untitled.md",
     "National Mana League/Languages/Kardonian/Kardonian orthography.md",
+    "National Mana League/Languages/Kardonian/Haltzeonian phonology.md",
+    "National Mana League/Languages/Kardonian/Haltzeonian.md",
     "Pezen/Languages/Debazi/Debazi phonology.md",
     "Pezen/Languages/Debazi/Debazi grammar.md",
     "Pezen/Languages/Debazi/Debazi lexicon.md",
@@ -222,8 +222,6 @@
     "HSR but its woke/HSR character sketches/template.md",
     "HSR but its woke/HSR character sketches/HSR!Reimu.md",
     "HSR but its woke/Character Edits/Hysilens, Wave-Strumming Knight.md",
-    "Multibranded/Idea for Azeria's TTRPG thingy.md",
-    "Multibranded/Character Sheet.md",
     "Samvayan",
     "Valkyrie/Languages/Samvayan",
     "Valkyrie/Languages",
