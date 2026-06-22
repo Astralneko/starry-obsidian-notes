@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "National Mana League/Languages/Kardonian/Haltzeonian lexicon.md",
+                "file": "National Mana League/Languages/Kardonian/Kardonian orthography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Haltzeonian lexicon"
+              "title": "Kardonian orthography"
             }
           }
         ]
@@ -197,13 +197,12 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "8427eae453013636",
+  "active": "2c8be19302a9f753",
   "lastOpenFiles": [
     "National Mana League/Languages/Kardonian/Haltzeonian lexicon.md",
-    "National Mana League/Languages/Kardonian/Haltzeonian lexicon.md",
-    "National Mana League/Languages/Kardonian/Haltzeonian grammar.md",
-    "National Mana League/Languages/Kardonian/Kardonian orthography.md",
     "National Mana League/Languages/Kardonian/Haltzeonian phonology.md",
+    "National Mana League/Languages/Kardonian/Kardonian orthography.md",
+    "National Mana League/Languages/Kardonian/Haltzeonian grammar.md",
     "National Mana League/Languages/Kardonian/Haltzeonian.md",
     "Pezen/Languages/Debazi/Debazi phonology.md",
     "Pezen/Languages/Debazi/Debazi grammar.md",

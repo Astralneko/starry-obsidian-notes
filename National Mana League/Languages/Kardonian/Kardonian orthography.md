@@ -1,6 +1,9 @@
 Kardonian languages are typically written in the **Kardonian Interastral Standard Alphabet**. The KISA is an alphabet of the Haltzeonian family. The script has been in use for several centuries, being created in the 41st century of Kardonian history and officially adopted a few decades later (approximately 1500 years prior to the present). Notably, this is *long before* the Kardonian languages split.
 
-It is the script used for every Kardonian language. Some of these letters are used to represent various phonemes, owing to historic sound changes. For example, in [[Haltzeonian]], the last four vowel letters <   > don't have phonemes associated with them, but in particular <>, which was used for /ɨ/, is used on occasion.
+It is the script used for every Kardonian language.
+
+# Letters
+Some of these letters are used to represent various phonemes, owing to historic sound changes. For example, in [[Haltzeonian]], the last four vowel letters <   > don't have phonemes associated with them, but in particular <>, which was used for /ɨ/, is used on occasion.
 
 Nasal vowels are consistently written as clusters of an oral vowel's letter + ng, like <>.
 
@@ -74,3 +77,12 @@ Geminated consonants use a line over the vowel. In Haltzeonian, /ð/ also uses t
 | ʌ           |           |                     | io           |
 | ø           |           |                     | ue           |
 Note that in the romanization, the cluster /sj/ is written \<sh> rather than \<sy>. Similar applies to any other /Lj/ where L is an alveolar consonant in the other languages.
+
+# Numerals
+The KISA does not have unique numerals. Instead, seventeen letters of the alphabet are used:                 . Kardonian languages also count in octal, because most Kardonians have eight fingers.
+
+Numbers start with a number sign , though units will replace this sign. The letters mean, in order, the whole numbers 0 through 16. Numerals are written in pairs, and the numbers 9-16, though not technically required, are used to reduce the size of the number. Other than 0, which uses the first letter of the word *lhã*, these are also the first letters of the alphabet.
+
+For numbers 4096 and above, an interpunct is placed before the clump, then the number of 4096^n is written for each clump.
+
+For an example that combines all of these, 9000, which in base 8 is 21450, is written as .
