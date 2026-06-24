@@ -1,3 +1,4 @@
+#conlang #kardonian-empire #national-mana-league #haltzeonian #worldbuilding 
 Kardonian languages are typically written in the **Kardonian Interastral Standard Alphabet**. The KISA is an alphabet of the Haltzeonian family. The script has been in use for several centuries, being created in the 41st century of Kardonian history and officially adopted a few decades later (approximately 1500 years prior to the present). Notably, this is *long before* the Kardonian languages split.
 
 It is the script used for every Kardonian language.

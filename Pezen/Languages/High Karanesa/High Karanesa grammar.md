@@ -1,4 +1,4 @@
-#conlang #debaz #spectradom #debazi #worldbuilding 
+#conlang #high-karanesa  #spectradom #karantank #worldbuilding 
 ```table-of-contents
 ```
 Overall, Debazi is a polysynthetic, slightly fusional language with triconsonantal roots. Verbs are incredibly basic overall, noun marking aside, making it unique among Astaryuu conlangs - as they tend to have supremely fucked verbs.

@@ -1,8 +1,8 @@
 #conlang #quill-kingdom #spectradom #rokadong #worldbuilding 
 ```toc
 ```
-## Consonants
-### Chart
+# Consonants
+## Chart
 
 |                                                                                              | [Labial](https://en.wikipedia.org/wiki/Labial_consonant "w:Labial consonant")                          | <                                                                                                | [alveolar](https://en.wikipedia.org/wiki/Alveolar_consonant "w:Alveolar consonant")            | <                                                                                                              | [Post-  <br>alveolar](https://en.wikipedia.org/wiki/Postalveolar_consonant "w:Postalveolar consonant")/  <br>[palatal](https://en.wikipedia.org/wiki/Palatal_consonant "w:Palatal consonant") | <                                                                                                          | [Velar](https://en.wikipedia.org/wiki/Velar_consonant "w:Velar consonant")       | <                                                                                                  | [Uvular](https://en.wikipedia.org/wiki/Uvular_consonant "w:Uvular consonant") | <                                                                                | [Glottal](https://en.wikipedia.org/wiki/Glottal_consonant "w:Glottal consonant")               | <                                                                                          |
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -14,7 +14,7 @@
 | [Trill](https://en.wikipedia.org/wiki/Trill_consonant "w:Trill consonant")                   |                                                                                                        | <                                                                                                |                                                                                                | ([r](https://en.wikipedia.org/wiki/Voiced_alveolar_trill "w:Voiced alveolar trill"))                           |                                                                                                                                                                                               | <                                                                                                          |                                                                                  | <                                                                                                  |                                                                               | ([ʀ](https://en.wikipedia.org/wiki/Voiced_uvular_trill "w:Voiced uvular trill")) |                                                                                                | ([ʢ̠ᵐ](https://en.wikipedia.org/wiki/Voiced_epiglottal_trill "w:Voiced epiglottal trill")) |
 | [Tap](https://en.wikipedia.org/wiki/Flap_consonant "w:Flap consonant")                       |                                                                                                        | <                                                                                                |                                                                                                | [ɾ](https://en.wikipedia.org/wiki/Voiced_alveolar_tap "w:Voiced alveolar tap")                                 |                                                                                                                                                                                               | <                                                                                                          |                                                                                  | <                                                                                                  |                                                                               | <                                                                                |                                                                                                | <                                                                                          |
 
-### Notes
+## Notes
 - /ɾ/ is a highly variable sound, with exact realization depending on dialect and surroundings:
     - \[r], the "long r", is usually found morpheme-initially as well as in clusters of /ɾ l/.
     - \[ɹ], the "vowel r", is found morpheme-finally in some dialects.
@@ -25,9 +25,9 @@
 - /s, z, (t)ʃ, dʒ/ palatalize to \[ʃ~ɕ, ʒ~ʑ, (t)ɕ, dʑ] before /i, j/, though in some dialects this is rarer for /s, z/.
 - In Pahang Rokadong and Oceanic Rokadong dialects, \[s, z] may vary with non-sibilant equivalents \[θ, ð], especially morpheme-finally. The latter used to be phonemic, but merged with the former, now only appearing as an allophone of it. These dialects are described as "tékuhasa" ("all S"). In Continental Rokadong dialects, assibilation of /θ/ is complete, and only \[s, z] remain.
 
-## Vowels
+# Vowels
 
-### Chart
+## Chart
 
 |                                                                          | [Front](https://en.wikipedia.org/wiki/Front_vowel "w:Front vowel")                                        | [Central](https://en.wikipedia.org/wiki/Central_vowel "w:Central vowel")                        | [Back](https://en.wikipedia.org/wiki/Back_vowel "w:Back vowel")                                     |
 | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -35,17 +35,17 @@
 | [Mid](https://en.wikipedia.org/wiki/Close-mid_vowel "w:Close-mid vowel") | [e eː](https://en.wikipedia.org/wiki/Close-mid_front_unrounded_vowel "w:Close-mid front unrounded vowel") | ([ə](https://en.wikipedia.org/wiki/Mid_central_vowel "w:Mid central vowel"))                    | [o oː](https://en.wikipedia.org/wiki/Close-mid_back_rounded_vowel "w:Close-mid back rounded vowel") |
 | [Open](https://en.wikipedia.org/wiki/Open_vowel "w:Open vowel")          |                                                                                                           | [a aː](https://en.wikipedia.org/wiki/Open_front_unrounded_vowel "w:Open front unrounded vowel") |                                                                                                     |
 
-### Notes
+## Notes
 
 - /e, o/ may be realized as \[e̞, o̞].
 - /i, u, e, o/ may be opened if its syllable is closed, to any of \[i~ɪ~e~ɛ, u~ʊ~o~ɔ, e~ɛ, o~ɔ] respectively, though this is substantially more common for /i, u/ than for /e, o/.
 - Morpheme-final short /a/ becomes \[ə] in most dialects, but some perform this change on all unstressed short /a/.
 
-## Prosody
+# Prosody
 
 Rokadong is generally described as mora-timed, with short vowels and coda sonorants each providing one mora to the syllable, and long vowels and diphthongs providing two moras. However, timing may sway toward syllable-timing in certain dialects and speaking styles. Particularly for Sanenyandoka, the dialect most well-known for syllable timing, this phenomenon is known as "raisendoka" (literally "gun speech").
 
-## Stress and pitch
+# Stress and pitch
 
 Rokadong is a dynamic-accent language. Accented syllables are generally longer and pitched up compared to unaccented syllables, though in some dialects, pitch and length are affected, rather than pitch and volume. Accent is phonemic in Rokadong.
 

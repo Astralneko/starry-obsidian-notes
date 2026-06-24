@@ -4,7 +4,10 @@
   "enabledCssSnippets": [
     "tags",
     "truth-and-unifont",
-    "ling-tags"
+    "ling-tags",
+    "linegaps",
+    "hashtags",
+    "custom-styles"
   ],
   "baseFontSize": 18,
   "cssTheme": "Encore",

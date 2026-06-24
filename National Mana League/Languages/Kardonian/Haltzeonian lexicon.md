@@ -1,3 +1,4 @@
+#conlang #kardonian-empire #national-mana-league #haltzeonian #worldbuilding 
 
 | word       | english definition | part of speech | native script | ipa        | dialect | etymology | notes                                                                              | source language |
 | ---------- | ------------------ | -------------- | ------------- | ---------- | ------- | --------- | ---------------------------------------------------------------------------------- | --------------- |

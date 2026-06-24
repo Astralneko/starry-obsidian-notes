@@ -1,10 +1,10 @@
-#conlang #debaz #spectradom #debazi #worldbuilding 
+#conlang #spectradom #worldbuilding #republic-of-karan
 High Karanesa is the official language of the [[Republic of Karan]]. A lot of this information is on the wiki, but information can be written and messed around with here, before going onto the wiki.
-## Phonology
+# Phonology
 See [[High Karanesa phonology]] and [[Dialects of High Karanesa]] for more details.
-## Orthography
+# Orthography
 See [[High Karanesa orthography]] for more details.
-## Grammar
+# Grammar
 See [[High Karanesa grammar]] for more details.
-## Lexicon
+# Lexicon
 See [[High Karanesa lexicon]] for more details.

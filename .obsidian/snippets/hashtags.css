@@ -33,6 +33,19 @@ span.cm-tag-quill-kingdom.cm-formatting-hashtag {
   color: #fff;
 }
 
+a.tag[href*='#kardonian'] {
+  background-image: linear-gradient(to right, #c48, #c48, #e7b, #fff);
+  color: #000;
+}
+span.cm-tag-kardonian-empire:not(.cm-formatting-hashtag) {
+  background-image: linear-gradient(to right, #a26, #c48, #ccc);
+  color: #fff;
+}
+span.cm-tag-kardonian-empire.cm-formatting-hashtag {
+  background-color: #a26;
+  color: #fff;
+}
+
 a.tag[href*='#valkyrie'] {
   background-color: #f9f;
   color: #222;

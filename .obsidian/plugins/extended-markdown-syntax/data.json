@@ -4,7 +4,7 @@
   "superscript": 3,
   "subscript": 3,
   "customHighlight": 3,
-  "customSpan": 0,
+  "customSpan": 3,
   "fencedDiv": 0,
   "tidyFormatting": true,
   "openTagMenuAfterFormat": true,
@@ -74,8 +74,18 @@
   "showRemoveSpanTag": true,
   "predefinedSpanTag": [
     {
-      "name": "Tag 1",
-      "tag": "tag-1",
+      "name": "Small Capitals",
+      "tag": "sc",
+      "showInMenu": true
+    },
+    {
+      "name": "Small",
+      "tag": "small",
+      "showInMenu": true
+    },
+    {
+      "name": "Large",
+      "tag": "large",
       "showInMenu": true
     }
   ],

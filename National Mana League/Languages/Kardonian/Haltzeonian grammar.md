@@ -1,3 +1,4 @@
+#conlang #kardonian-empire #national-mana-league #haltzeonian #worldbuilding 
 Haltzeonian is somewhere between agglutinative and fusional.
 # Nouns
 Noun declinations are generally a single suffix, as follows:
@@ -48,7 +49,6 @@ Kardonian languages are almost always SOV word order, and Haltzeonian is no diff
 
 ```gloss
 \ex   
-\set exstyle kardon
 \gla Nel hímioncil caelékamik.
 \glb 2sg^[NOM^] paper-ACC throw-IND-PST
 \ft You threw away the papers.

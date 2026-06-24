@@ -1,10 +1,10 @@
-#conlang #nenevesian #spectradom  #worldbuilding 
+#conlang #nenevesian #spectradom  #worldbuilding #karantank #quill-kingdom
 Nenevesian is a minority language of the [[Republic of Karan]] and [[Quill Kingdom]]. A lot of this information is on the wiki, but information can be written and messed around with here, before going onto the wiki.
-## Phonology
+# Phonology
 See [[Nenevesian phonology]] and [[Dialects of Nenevesian]] for more details.
-## Orthography
+# Orthography
 See [[Nenevesian orthography]] for more details.
-## Grammar
+# Grammar
 See [[Nenevesian grammar]] for more details.
-## Lexicon
+# Lexicon
 See [[Nenevesian lexicon]] for more details.
