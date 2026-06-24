@@ -1,0 +1,124 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RaMagnet",
+      "RaTrefoilLily",
+      "LiSquareMousePointer",
+      "🐁",
+      "RiMoonClearLine",
+      "LiClock1",
+      "RaLanternFlame",
+      "RiPlanetLine",
+      "RaFlowers",
+      "RiZzzFill",
+      "LiSparkles",
+      "FabFly"
+    ],
+    "recentlyUsedIconsSize": 12,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "custom",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "-Bios/Headmates/Aster.md": {
+    "iconName": "FasMeteor",
+    "iconColor": "#d357f3"
+  },
+  "-Bios/Headmates/Almond.md": {
+    "iconName": "FabFly",
+    "iconColor": "#cfb698"
+  },
+  "-Bios/Headmates/Estariel.md": {
+    "iconName": "RiBrushLine",
+    "iconColor": "#23ffea"
+  },
+  "-Bios/Headmates/Hikari.md": {
+    "iconName": "RaLightningBolt",
+    "iconColor": "#0088ff"
+  },
+  "-Bios/Headmates/Junko.md": {
+    "iconName": "RaMagnet",
+    "iconColor": "#a3f9e2"
+  },
+  "-Bios/Headmates/Kalia.md": {
+    "iconName": "RaFireballSword",
+    "iconColor": "#330000"
+  },
+  "-Bios/Headmates/Marzipan.md": {
+    "iconName": "LiCandy",
+    "iconColor": "#cf4064"
+  },
+  "-Bios/Headmates/Fossil.md": {
+    "iconName": "RaTrefoilLily",
+    "iconColor": "#26aa19"
+  },
+  "-Bios/Headmates/Puanga.md": {
+    "iconName": "RaFlowers",
+    "iconColor": "#cd62a3"
+  },
+  "-Bios/Headmates/Reimu.md": {
+    "iconName": "FasCross",
+    "iconColor": "#1b0ccb"
+  },
+  "-Bios/Headmates/Reisen.md": {
+    "iconName": "RaBullets",
+    "iconColor": "#3a87fe"
+  },
+  "-Bios/Headmates/Seolyeong.md": {
+    "iconName": "RaLanternFlame",
+    "iconColor": "#d65846"
+  },
+  "-Bios/Headmates/Solin.md": {
+    "iconName": "RaCrystals",
+    "iconColor": "#707070"
+  },
+  "-Bios/Headmates/Takara.md": {
+    "iconName": "RiZzzFill",
+    "iconColor": "#8f9486"
+  },
+  "-Bios/Headmates/Sahara.md": {
+    "iconName": "RiMoonClearLine",
+    "iconColor": "#ebf2cc"
+  },
+  "-Bios/Headmates/Techikas’.md": {
+    "iconName": "LiSquareMousePointer",
+    "iconColor": "#c4f76f"
+  },
+  "-Bios/Headmates/Sparkle.md": {
+    "iconName": "LiSparkles",
+    "iconColor": "#dd0000"
+  },
+  "-Bios/Headmates/Youmu.md": {
+    "iconName": "RaCandleFire",
+    "iconColor": "#ffffff"
+  },
+  "-Bios/Headmates/Yankee.md": {
+    "iconName": "RiPlanetLine",
+    "iconColor": "#d4078c"
+  },
+  "-Bios/Headmates/Trinity.md": {
+    "iconName": "LiClock1",
+    "iconColor": "#dd4d45"
+  }
+}

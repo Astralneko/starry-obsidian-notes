@@ -1,0 +1,16 @@
+{
+  "textFontFamily": "Truth and Ideals",
+  "interfaceFontFamily": "Truth and Ideals",
+  "enabledCssSnippets": [
+    "tags",
+    "truth-and-unifont",
+    "ling-tags",
+    "linegaps",
+    "hashtags",
+    "custom-styles"
+  ],
+  "baseFontSize": 18,
+  "cssTheme": "Encore",
+  "accentColor": "#cb5fde",
+  "monospaceFontFamily": "Unifont"
+}

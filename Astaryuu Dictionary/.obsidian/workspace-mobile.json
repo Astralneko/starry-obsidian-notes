@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "National Mana League/Languages/Kardonian/Haltzeonian grammar.md",
-                "mode": "preview",
+                "file": "-Dictionary/minar.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Haltzeonian grammar"
+              "title": "minar"
             }
           }
         ]
@@ -233,6 +233,11 @@
   },
   "active": "8daa5b032337ee8b",
   "lastOpenFiles": [
+    "-Templates/roka-word.md",
+    "-Dictionary/minar.md",
+    "National Mana League/Languages/Kardonian/Haltzeonian grammar.md",
+    "-Templates",
+    "-Dictionary",
     "National Mana League/Languages/Kardonian/Haltzeonian lexicon.md",
     "Glitchrune/Locations/Sapphire Bay.md",
     "Glitchrune/Locations/Ruby Delta.md",
@@ -246,7 +251,6 @@
     "Glitchrune/Ancient heroes of Deltaverse.md",
     "Glitchrune/Locations",
     "Glitchrune/Characters/Solin Leihinheim.md",
-    "National Mana League/Languages/Kardonian/Haltzeonian grammar.md",
     "National Mana League/Languages/Kardonian/Haltzeonian phonology.md",
     "HSR but its woke/HSR character sketches/March 7th • Keichitsu.md",
     "FE Lake of Mist/Events/Part 1/8a Inciting Incident.md",
@@ -258,8 +262,6 @@
     "Pezen/Imaginary Plane.md",
     "Pezen/Imbuing.md",
     "Pezen/Items/Mahosin.md",
-    "Pezen/Items/Denzinite.md",
-    "FE Lake of Mist/Items/Fire Emblem.md",
     "FE Lake of Mist/Characters/Enemy units",
     "Translations",
     "Samvayan",
@@ -267,8 +269,6 @@
     "HSR but its woke/Expanding Amphoreus",
     "HSR but it's woke",
     "Multibranded",
-    "Valkyrie/Characters",
-    "Valkyrie/Species",
     "Assets/My art/Youmu Ref.webp"
   ]
 }

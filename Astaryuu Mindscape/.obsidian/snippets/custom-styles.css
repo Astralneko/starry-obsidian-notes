@@ -1,0 +1,12 @@
+body {
+	--p-spacing: 0.3rem;
+}
+.sc {
+	font-variant:small-caps; font-variant-numeric: oldstyle-nums;
+}
+.large {
+	font-size: 1.133em;
+}
+.small {
+	font-size: 0.833em;
+}
