@@ -3,7 +3,8 @@
   "interfaceFontFamily": "Truth and Ideals",
   "enabledCssSnippets": [
     "tags",
-    "truth-and-unifont"
+    "truth-and-unifont",
+    "ling-tags"
   ],
   "baseFontSize": 18,
   "cssTheme": "Encore",
