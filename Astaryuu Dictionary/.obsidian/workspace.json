@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3c273a6c668ee696",
+        "id": "76252c197287833c",
         "type": "tabs",
         "children": [
           {
-            "id": "1333ac9919b8b093",
+            "id": "1140323681b744ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pezen/Languages/Nenevesian.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Nenevesian"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324
+    "width": 323
   },
   "right": {
     "id": "ba06c28363778e5c",
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pezen/Institutions/Shadaric political structures/Family of Daman.md",
+                "file": "Full dictionaries/Rokadong lexicon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Family of Daman"
+              "title": "Backlinks for Rokadong lexicon"
             }
           },
           {
@@ -157,8 +153,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
             }
           },
           {
@@ -167,11 +163,32 @@
             "state": {
               "type": "juggl_style",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "9b1b0834fdd0a7b4",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "a6d8ab1cd91ff5a3",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
               "icon": "ag-style",
               "title": "Juggl style"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -180,7 +197,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -193,38 +209,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-importer:Open Importer": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1333ac9919b8b093",
+  "active": "8427eae453013636",
   "lastOpenFiles": [
-    "Pezen/Languages/Nenevesian/Nenevesian phonology.md",
-    "Pezen/Languages/Nenevesian/Nenevesian orthography.md",
-    "Pezen/Languages/Nenevesian/Nenevesian lexicon.md",
-    "Pezen/Languages/Nenevesian/Nenevesian grammar.md",
-    "Pezen/Languages/High Karanesa/High Karanesa grammar.md",
-    "Pezen/Languages/High Karanesa/High Karanesa orthography.md",
-    "Pezen/Languages/High Karanesa/High Karanesa lexicon.md",
-    "2026-06-24.md",
-    "Pezen/Languages/Debazi/Debazi orthography.md",
-    "Pezen/Languages/Debazi/Debazi phonology.md",
-    "Pezen/Languages/Debazi/Debazi lexicon.md",
-    "Pezen/Languages/Debazi/Debazi grammar.md",
-    "Pezen/Languages/Liðakuin/Liðakuin lexicon.md",
-    "Pezen/Languages/Liðakuin/Liðakuin grammar.md",
-    "Pezen/Languages/Liðakuin/Liðakuin orthography.md",
-    "Pezen/Languages/Liðakuin/Liðakuin phonology.md",
-    "Pezen/Languages/Kairitelan/Kairitelan grammar.md",
-    "Pezen/Languages/Kairitelan/Kairitelan lexicon.md",
-    "Pezen/Languages/Kairitelan/Kairitelan orthography.md",
-    "Pezen/Languages/Kairitelan/Kairitelan phonology.md",
-    "Pezen/Languages/Liðakuin.md",
-    "Pezen/Languages/Rokadong/Rokadong lexicon.md",
+    "-Templates/Haltzeonian verb.md",
+    "Full dictionaries/Debazi lexicon.md",
+    "broken links output.md",
+    "-an.md",
+    "shadena.md",
+    "zú.md",
+    "zerav.md",
+    "zenyaci.md",
+    "zenaz.md",
+    "zena.md",
+    "zehan.md",
+    "zeda.md",
+    "tauyaci.md",
+    "tau tékuha.md",
+    "tau.md",
+    "talah tékuha.md",
+    "talah.md",
+    "ryu.md",
+    "luvi.md",
+    "lunu.md",
+    "ludi.md",
+    "kantunya.md",
+    "javital.md",
+    "maurati.md",
+    "mau.md",
+    "vai.md",
     "-Dictionary",
-    "Pezen/Languages/Rokadong/Rokadong grammar.md",
-    "Pezen/Languages/Rokadong/Dialects of Rokadong.md",
-    "Pezen/Languages/Rokadong.md",
-    "Pezen/Languages/Nenevesian.md",
     "Pezen/Languages/Kairitelan",
     "Pezen/Languages/Kairitelan",
     "Samvayan",
