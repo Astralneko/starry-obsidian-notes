@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Templates/Related words/Derived.md",
+                "file": "Conlang words/-fa.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Derived"
+              "title": "-fa"
             }
           }
         ],
@@ -215,12 +215,32 @@
         "state": {
           "type": "juggl_nodes",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "juggl_nodes"
+        }
+      },
+      {
+        "id": "ea4eab890dfaec79",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_style",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "juggl_style"
+        }
+      },
+      {
+        "id": "241ff499ceaaa645",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_nodes",
+          "state": {},
           "icon": "ag-node-list",
           "title": "Juggl nodes"
         }
       },
       {
-        "id": "ea4eab890dfaec79",
+        "id": "34d0985eea9dcbbe",
         "type": "leaf",
         "state": {
           "type": "juggl_style",
@@ -234,29 +254,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "juggl:Juggl global graph": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-importer:Open Importer": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "juggl:Juggl global graph": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-importer:Open Importer": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "055464e7b7495e9e",
   "lastOpenFiles": [
-    "Conlang words/ácenar.md",
+    "Conlang words/-can.md",
+    "Full dictionaries/Rokadong lexicon.md",
     "-Templates/Related words/Derived.md",
+    "Conlang words/ácenar.md",
     "-Templates/Related words/Synonyms.md",
     "-Templates/Related words/Antonyms.md",
     "-Templates/Related words",
-    "Conlang words/-can.md",
     "Conlang words/-eŋe.md",
     "Conlang words/-fa.md",
     "Conlang words/-an.md",
@@ -277,7 +298,6 @@
     "Conlang words/darkr.md",
     "Conlang words/ludi.md",
     "Conlang words/lulu.md",
-    "Conlang words/minggung.md",
     "Full dictionaries",
     "-Templates"
   ]
