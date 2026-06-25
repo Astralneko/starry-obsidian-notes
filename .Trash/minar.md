@@ -1,18 +1,4 @@
----
-tags:
-  - dictionary
-  - rokadong-word
-  - rokadong-verb
----
-# Rokadong
-## Pronunciation
-(*Pahang*) IPA: [example]
-
-## {{pos}}
-!!{large}**word** • _{{title}}_!!
-### Origin
-
-### Definition
+ion
 {{definition}}
 ```gloss
 \ex (Sentence)
@@ -23,8 +9,7 @@ tags:
 ### Conjugation
 |        | -   | Conjugation of minar | <               | <                | <                | <                | <                   |
 | ------ | --- | -------------------- | --------------- | ---------------- | ---------------- | ---------------- | ------------------- |
-| Tense  | -   | **!!{sc}rem.pst!!**  | **!!{sc}pst!!** | **!!{sc}pre!!**  | <                | **!!{sc}fut!!**  | **!!{sc}rem.fut!!** |
-|        | -   | minarkapan           | minaran         | minar            | <                | minarlin         | minarkedin          |
+| Tense  | -   | **!!{sc}rem.pst!!**  | **!!{sc}pst!!** | **!!{sc}pre!!**  | <                | **!!{sc}fut!!**  | **!!{sc}rem.fut!!*       | -   | minarkapan           | minaran         | minar            | <                | minarlin         | minarkedin          |
 | Aspect | -   | **!!{sc}prf!!**      | **!!{sc}hab!!** | **!!{sc}caus!!** | **!!{sc}cont!!** | **!!{sc}sem!!**  | **!!{sc}nvol!!**    |
 |        | -   | minar                | bélminar        | tenaminar        | anminaron        | ínminaras        | dahminaron          |
 | Mood   | -   | **!!{sc}imp!!**      | <               | **!!{sc}hyp!!**  | <                | **!!{sc}cond!!** | <                   |

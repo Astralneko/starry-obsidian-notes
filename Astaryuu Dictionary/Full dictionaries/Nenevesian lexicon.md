@@ -1,4 +1,4 @@
-#conlang #spectradom #nenevesian #worldbuilding  #karantank #quill-kingdom
+#conlang #spectradom #Nenevesian 
 
 | word  | english definition | part of speech | class | ipa    | etymology                                                          | notes | sample | source language |
 |-------|--------------------|----------------|-------|--------|--------------------------------------------------------------------|-------|--------|-----------------|

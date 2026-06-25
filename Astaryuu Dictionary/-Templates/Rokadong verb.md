@@ -1,5 +1,5 @@
 #Rokadong #Rokadong-word #Rokadong-verb
-#conlang
+#conlang 
 ```table-of-contents
 ```
 # Rokadong
@@ -7,11 +7,11 @@
 (*Pahang*) IPA: [example]
 
 ## Verb
-!!{large}**** • _minar_!!
+!!{large}**word** • _{{title}}_!!
 ### Origin
 
 ### Definition
-1. to feel
+1. Definition
 ```gloss
 \ex (Sentence)
 \gla (sentence-translit)
@@ -19,16 +19,16 @@
 \ft (sentence-def)
 ```
 ### Conjugation
-|        | -   | Conjugation of minar | <               | <                | <                | <                | <                   |
+|        | -   | Conjugation of {{title}} | <               | <                | <                | <                | <                   |
 | ------ | --- | ------------------------ | --------------- | ---------------- | ---------------- | ---------------- | ------------------- |
 | Tense  | -   | **!!{sc}rem.pst!!**      | **!!{sc}pst!!** | **!!{sc}pre!!**  | <                | **!!{sc}fut!!**  | **!!{sc}rem.fut!!** |
-|        | -   | minarkapan           | minaran     | minar        | <                | minarlin     | minarkedin      |
+|        | -   | {{title}}kapan           | {{title}}an     | {{title}}        | <                | {{title}}lin     | {{title}}kedin      |
 | Aspect | -   | **!!{sc}prf!!**          | **!!{sc}hab!!** | **!!{sc}caus!!** | **!!{sc}cont!!** | **!!{sc}sem!!**  | **!!{sc}nvol!!**    |
-|        | -   | minar                | bélminar    | tenaminar    | anminaron    | ínminaras    | dahminaron      |
+|        | -   | {{title}}                | bél{{title}}    | tena{{title}}    | an{{title}}on    | ín{{title}}as    | dah{{title}}on      |
 | Mood   | -   | **!!{sc}imp!!**          | <               | **!!{sc}hyp!!**  | <                | **!!{sc}cond!!** | <                   |
-|        | -   | minarten             | <               | minarkedin   | <                | minarda      | <                   |
+|        | -   | {{title}}ten             | <               | {{title}}kedin   | <                | {{title}}da      | <                   |
 | Topic  | -   | **!!{sc}av!!**           | <               | <                | **!!{sc}pv!!**   | <                | <                   |
-|        | -   | manminar             | <               | <                | káminar      | <                | <                   |
+|        | -   | man{{title}}             | <               | <                | ká{{title}}      | <                | <                   |
 ## Usage notes
 
 ## Related terms

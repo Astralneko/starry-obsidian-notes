@@ -42,8 +42,9 @@
     "table-editor-obsidian:move-row-up",
     "table-editor-obsidian:move-row-down",
     "table-editor-obsidian:evaluate-formulas",
-    "automatic-table-of-contents:insert-automatic-table-of-contents",
+    "insert-template",
     "obsidian-icon-folder:iconize:set-icon-for-file",
+    "automatic-table-of-contents:insert-automatic-table-of-contents",
     "links:editor-unlink-link"
   ],
   "alwaysUpdateLinks": true,

@@ -1,37 +1,122 @@
 {
   "main": {
-    "id": "ec6f153743282700",
+    "id": "24a852bbd3bc7bd8",
     "type": "split",
     "children": [
       {
-        "id": "69522c701e3447e0",
+        "id": "403f49f58ad7729b",
         "type": "tabs",
         "children": [
           {
-            "id": "8daa5b032337ee8b",
+            "id": "be613e06bf7d72e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Dictionary/minar.md",
+                "file": "-Templates/Haltzeonian.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
+              "title": "Haltzeonian"
+            }
+          },
+          {
+            "id": "22fd4ef3c88049c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-Templates/Rokadong.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Rokadong"
+            }
+          },
+          {
+            "id": "2352b4f5bf4e2a19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "minar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
               "title": "minar"
             }
+          },
+          {
+            "id": "7056d9a78b3670b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-Templates/Kairitelan.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Kairitelan"
+            }
+          },
+          {
+            "id": "e374d0f3b5ec049d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-Templates/Liðakuin noun f1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Liðakuin noun f1"
+            }
+          },
+          {
+            "id": "055464e7b7495e9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Full dictionaries/Kairitelan lexicon.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Kairitelan lexicon"
+            }
+          },
+          {
+            "id": "00f8c5df1816e8b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Full dictionaries/Rokadong lexicon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rokadong lexicon"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "129961b61f863673",
+    "id": "f494fb3a31a23c7b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "a2bd11ab1751b920",
+        "id": "dc8b0f5346d0c311",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,12 +129,12 @@
         }
       },
       {
-        "id": "be1324cbbfb029e7",
+        "id": "9030fa5e4a25333d",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#valkyrie-nations",
+            "query": "tag:#conlang",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -61,7 +146,7 @@
         }
       },
       {
-        "id": "cd4e8b4053a057d8",
+        "id": "c64fd94d02576146",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +161,21 @@
         }
       },
       {
-        "id": "601ed6813a63d0eb",
+        "id": "10ca9bd734f8e77a",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-ghost",
+          "title": "all-properties"
+        }
+      },
+      {
+        "id": "a4c158da38ca4b9d",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -89,18 +188,18 @@
     "currentTab": 0
   },
   "right": {
-    "id": "657fea02d2420851",
+    "id": "9110a9a670ed32aa",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "51e108224b9d64f8",
+        "id": "c72491abde6566d5",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Multibranded/Character Sheet.md",
-            "collapseAll": true,
-            "extraContext": true,
+            "file": "Full dictionaries/Rokadong lexicon.md",
+            "collapseAll": false,
+            "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
@@ -112,26 +211,24 @@
         }
       },
       {
-        "id": "c22877468986f5ae",
+        "id": "90d9daa08b98ad10",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Pezen/Characters/Estariel Mojito.md",
             "linksCollapsed": false,
-            "unlinkedCollapsed": false
+            "unlinkedCollapsed": true
           },
           "icon": "links-going-out",
           "title": "Outgoing links"
         }
       },
       {
-        "id": "79f1703bca260970",
+        "id": "471327c066f18834",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Pezen/Languages/Liðakuin/Liðakuin phonology.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -141,57 +238,7 @@
         }
       },
       {
-        "id": "968e44bb9746ff33",
-        "type": "leaf",
-        "state": {
-          "type": "juggl_nodes",
-          "state": {},
-          "icon": "lucide-ghost",
-          "title": "juggl_nodes"
-        }
-      },
-      {
-        "id": "327625a13a7feffd",
-        "type": "leaf",
-        "state": {
-          "type": "juggl_style",
-          "state": {},
-          "icon": "lucide-ghost",
-          "title": "juggl_style"
-        }
-      },
-      {
-        "id": "7e1ebd0067cf7c17",
-        "type": "leaf",
-        "state": {
-          "type": "advanced-tables-toolbar",
-          "state": {},
-          "icon": "spreadsheet",
-          "title": "Advanced Tables"
-        }
-      },
-      {
-        "id": "4bd9ccf5f02af0a1",
-        "type": "leaf",
-        "state": {
-          "type": "juggl_nodes",
-          "state": {},
-          "icon": "lucide-ghost",
-          "title": "juggl_nodes"
-        }
-      },
-      {
-        "id": "bd9cdb1def414ce6",
-        "type": "leaf",
-        "state": {
-          "type": "juggl_style",
-          "state": {},
-          "icon": "ag-style",
-          "title": "Juggl style"
-        }
-      },
-      {
-        "id": "8bde48913bed5c20",
+        "id": "399c1afa97120fb4",
         "type": "leaf",
         "state": {
           "type": "juggl_nodes",
@@ -201,7 +248,7 @@
         }
       },
       {
-        "id": "18c0c51c8bd8b43a",
+        "id": "ea4eab890dfaec79",
         "type": "leaf",
         "state": {
           "type": "juggl_style",
@@ -211,64 +258,53 @@
         }
       }
     ],
-    "currentTab": 5
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "juggl:Juggl global graph": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-importer:Open Importer": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "juggl:Juggl global graph": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian42-brat:BRAT": false
+      "bases:Create new base": false
     }
   },
-  "active": "8daa5b032337ee8b",
+  "active": "00f8c5df1816e8b1",
   "lastOpenFiles": [
-    "-Templates/roka-word.md",
-    "-Dictionary/minar.md",
-    "National Mana League/Languages/Kardonian/Haltzeonian grammar.md",
-    "-Templates",
-    "-Dictionary",
-    "National Mana League/Languages/Kardonian/Haltzeonian lexicon.md",
-    "Glitchrune/Locations/Sapphire Bay.md",
-    "Glitchrune/Locations/Ruby Delta.md",
-    "Glitchrune/Locations/Quartz Sea.md",
-    "Glitchrune/Locations/Onyx City.md",
-    "Glitchrune/Locations/Jade Frontier.md",
-    "Glitchrune/Locations/Amethyst Fields.md",
-    "Glitchrune/Locations/Albite Mountain.md",
-    "Glitchrune/Characters/Nacht Nullam.md",
-    "Glitchrune/Characters/Medina Gutierrez.md",
-    "Glitchrune/Ancient heroes of Deltaverse.md",
-    "Glitchrune/Locations",
-    "Glitchrune/Characters/Solin Leihinheim.md",
-    "National Mana League/Languages/Kardonian/Haltzeonian phonology.md",
-    "HSR but its woke/HSR character sketches/March 7th • Keichitsu.md",
-    "FE Lake of Mist/Events/Part 1/8a Inciting Incident.md",
-    "National Mana League/Languages/Kardonian/Haltzeonian.md",
-    "National Mana League/Languages/Kardonian/Kardonian orthography.md",
-    "HSR but its woke/HSR character sketches/HSR!Sahara.md",
-    "HSR but its woke/HSR character sketches/template.md",
-    "HSR but its woke/HSR character sketches/HSR!Solin.md",
-    "Pezen/Imaginary Plane.md",
-    "Pezen/Imbuing.md",
-    "Pezen/Items/Mahosin.md",
-    "FE Lake of Mist/Characters/Enemy units",
-    "Translations",
-    "Samvayan",
-    "HSR but its woke/Character Edits",
-    "HSR but its woke/Expanding Amphoreus",
-    "HSR but it's woke",
-    "Multibranded",
-    "Assets/My art/Youmu Ref.webp"
+    "Full dictionaries/Lunarian lexicon.md",
+    "Full dictionaries/Liðakuin lexicon.md",
+    "Full dictionaries/Rokadong lexicon.md",
+    "nel.md",
+    "minar.md",
+    "lukar.md",
+    "darkr.md",
+    "-Templates/Lunarian.md",
+    "-Templates/Liðakuin weak verb.md",
+    "-Templates/Rokadong nonverb.md",
+    "-Templates/Rokadong verb.md",
+    "-Templates/Nenevesian nonverb.md",
+    "-Templates/Nenevesian verb.md",
+    "-Templates/Liðakuin strong verb.md",
+    "-Templates/Liðakuin noun n1.md",
+    "-Templates/Liðakuin noun m1.md",
+    "-Templates/Liðakuin noun f1.md",
+    "-Templates/Kairitelan verb.md",
+    "-Templates/Kairitelan nonverb.md",
+    "-Templates/Haltzeonian verb.md",
+    "Full dictionaries/Debazi lexicon.md",
+    "Full dictionaries/Kairitelan lexicon.md",
+    "Full dictionaries/Haltzeonian lexicon.md",
+    "Full dictionaries/Nenevesian lexicon.md",
+    "Full dictionaries",
+    "-Templates"
   ]
 }

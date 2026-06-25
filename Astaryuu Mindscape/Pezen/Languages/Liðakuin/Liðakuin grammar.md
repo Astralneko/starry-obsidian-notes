@@ -15,4 +15,78 @@ Nouns also decline for one of four cases: nominative, genitive, accusative, and 
 
 There is arguably a fifth case, the possessive, formed as the "genitive definite" case. However, unlike the other definite forms, the definite affix is placed _before_ the genitive ending, as if an accusative definite noun was conjugated into the genitive. Since _-nn_ is always the ending, this results in possessors always ending in _-nna(s)_. Middle Liðakuin had attested a true genitive definite _-jann_, but this has been lost in modern Liðakuin, perhaps due to mirroring the expected form of the accusative plural definite for some nouns. Instead, genitive nouns simply cannot be definite unless they are possessors, and cannot be indefinite if they are.
 ## Verbs
+There are two types of verb: strong verb and weak verb. Strong verbs change the ending of the verb in the past tense, while weak verbs add an entire new ending.
+
+| strong e/o  | Present | Past    | Passive   |
+| ----------- | ------- | ------- | --------- |
+| indicative  | e/o     | o/e     | ewa/owa   |
+| subjunctive | ema/oma | ora/era | eran/oran |
+| imperative  | eþ/oþ   | --      | --        |
+| participle  | end/ond | on/en   | --        |
+
+| strong é/ó  | Present | Past    | Passive   |
+| ----------- | ------- | ------- | --------- |
+| indicative  | é/ó     | ó/é     | éwa/ówa   |
+| subjunctive | éma/óma | óra/éra | éran/óran |
+| imperative  | ei/ou   | --      | --        |
+| participle  | énd/ónd | ón/én   | --        |
+
+| strong í/ú  | Present | Past    | Passive   |
+| ----------- | ------- | ------- | --------- |
+| indicative  | í/ú     | ú/í     | íwa/úwa   |
+| subjunctive | íma/úma | úra/íra | íran/úran |
+| imperative  | aí/aú   | --      | --        |
+| participle  | índ/únd | ún/ín   | --        |
+
+| strong a/á  | Present | Past    | Passive   |
+| ----------- | ------- | ------- | --------- |
+| indicative  | a/á     | á/a     | ava/áva   |
+| subjunctive | ama/áma | ára/ara | aran/áran |
+| imperative  | ats/áts | --      | --        |
+| participle  | and/ánd | án/an   | --        |
+
+| strong ai/au | Present   | Past    | Passive   |
+| ------------ | --------- | ------- | --------- |
+| indicative   | ai/au     | í/ú     | íwa/úwa   |
+| subjunctive  | aima/auma | íra/úra | íran/úran |
+| imperative   | aiþ/auþ   | --      | --        |
+| participle   | aind/aund | ín/ún   | --        |
+in forms other than present indicative, these merge with í/ú
+
+| weak e/o/é/ó | Present | Past  | Passive |
+| ------------ | ------- | ----- | ------- |
+| indicative   | V       | Vtu   | Vwa     |
+| subjunctive  | Vma     | Vdjun | Vwar    |
+| imperative   | Vþ      | --    | --      |
+| participle   | Vnd     | Vþ    | --      |
+
+| weak í/ú    | Present | Past  | Passive |
+| ----------- | ------- | ----- | ------- |
+| indicative  | V       | Vtu   | Vwa     |
+| subjunctive | Vma     | Vdjun | Vwar    |
+| imperative  | aV      | --    | --      |
+| participle  | Vnd     | Vþ    | --      |
+
+| weak a/á/u  | Present | Past  | Passive |
+| ----------- | ------- | ----- | ------- |
+| indicative  | V       | Vtu   | Vwa     |
+| subjunctive | Vma     | Vdjun | Vwar    |
+| imperative  | Vts     | --    | --      |
+| participle  | Vnd     | Vþ    | --      |
+
+| weak u      | Present | Past  | Passive |
+| ----------- | ------- | ----- | ------- |
+| indicative  | V       | Vtu   | Vwa     |
+| subjunctive | Vma     | Vdjun | Vwar    |
+| imperative  | Vts     | --    | --      |
+| participle  | Vnd     | Vþ    | --      |
+these become -a in the past indicative only 
+
+| weak ai/au  | Present | Past  | Passive |
+| ----------- | ------- | ----- | ------- |
+| indicative  | V       | Vtu   | Vwa     |
+| subjunctive | Vma     | Vdjun | Vwar    |
+| imperative  | Vþ      | --    | --      |
+| participle  | Vnd     | Vþ    | --      |
+in forms other than present indicative, these merge with í/ú
 # Syntax
