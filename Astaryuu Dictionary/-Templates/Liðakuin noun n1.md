@@ -1,10 +1,10 @@
-#Liðakuin #Liðakuin-word #Liðakuin-noun #Liðakuin-neuter
+#Liðakuin #Liðakuin-word #Liðakuin-noun #Liðakuin-neuter #Liðakuin-declension-1
 #conlang 
 ```table-of-contents
 ```
 # Liðakuin
 ## Pronunciation
-(*Pahang*) IPA: [example]
+(*Infernal*) IPA: [example]
 
 ## Noun
 !!{large}**word** • _{{title}}_!!

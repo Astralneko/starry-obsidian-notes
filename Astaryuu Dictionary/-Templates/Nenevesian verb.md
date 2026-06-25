@@ -4,7 +4,7 @@
 ```
 # Nenevesian
 ## Pronunciation
-(*Pahang*) IPA: [example]
+(*Karentahnan*) IPA: [example]
 
 ## Verb
 !!{large}**word** • _{{title}}_!!

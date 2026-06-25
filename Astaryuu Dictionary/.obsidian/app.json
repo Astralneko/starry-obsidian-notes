@@ -48,7 +48,7 @@
     "links:editor-unlink-link"
   ],
   "alwaysUpdateLinks": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "strictLineBreaks": false,
   "pdfExportSettings": {
     "includeName": false,
@@ -56,5 +56,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "spellcheck": false
 }

@@ -4,14 +4,14 @@
 ```
 # Rokadong
 ## Pronunciation
-(*Pahang*) IPA: [example]
+(*Pahang*) IPA: [ˈminaɾ]
 
 ## Verb
 !!{large}**** • _minar_!!
 ### Origin
 
 ### Definition
-1. to feel
+1. to [[feel]]
 ```gloss
 \ex (Sentence)
 \gla (sentence-translit)

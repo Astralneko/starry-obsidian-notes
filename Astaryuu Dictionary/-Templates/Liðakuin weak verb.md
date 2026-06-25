@@ -1,4 +1,4 @@
-#Liðakuin #Liðakuin-word #Liðakuin-verb
+#Liðakuin #Liðakuin-word #Liðakuin-verb #Liðakuin-weak-verb
 #conlang 
 ```table-of-contents
 ```

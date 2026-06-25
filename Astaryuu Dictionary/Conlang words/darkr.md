@@ -4,7 +4,7 @@
 ```
 # Liðakuin
 ## Pronunciation
-(*Pahang*) IPA: [example]
+(*Infernal*) IPA: [ˈdɑɾkər]
 
 ## Noun
 !!{large}**** • _darkr_!!
@@ -12,7 +12,7 @@ Masculine declension 1
 ### Origin
 
 ### Definition
-1. man
+1. [[man]]
 ```gloss
 \ex (Sentence)
 \gla (sentence-translit)

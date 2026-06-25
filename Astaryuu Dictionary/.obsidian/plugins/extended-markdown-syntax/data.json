@@ -93,8 +93,8 @@
   "showRemoveDivTag": true,
   "predefinedDivTag": [
     {
-      "name": "",
-      "tag": "",
+      "name": "Outer Rounded Box",
+      "tag": "outer-box",
       "showInMenu": true
     }
   ],

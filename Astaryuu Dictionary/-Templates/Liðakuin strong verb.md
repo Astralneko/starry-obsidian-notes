@@ -1,10 +1,10 @@
-#Liðakuin #Liðakuin-word #Liðakuin-verb
+#Liðakuin #Liðakuin-word #Liðakuin-verb #Liðakuin-strong-verb
 #conlang 
 ```table-of-contents
 ```
 # Liðakuin
 ## Pronunciation
-(*Pahang*) IPA: [example]
+(*Infernal*) IPA: [example]
 
 ## Verb
 !!{large}**word** • _{{title}}_!!

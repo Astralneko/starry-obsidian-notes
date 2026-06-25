@@ -4,14 +4,14 @@
 ```
 # Haltzeonian
 ## Pronunciation
-(*Haltzeonian*) IPA: [example]
+(*Haltzeonian*) IPA: [ˈneɫ]
 
 ## Pronoun
 !!{large}**** • _nel_!!
 ### Origin
 
 ### Definition
-1. I (1st person singular pronoun)
+1. [[you]] (2nd person singular pronoun)
 ```gloss
 \ex (Sentence)
 \gla (sentence-translit)

@@ -4,14 +4,14 @@
 ```
 # Kairitelan
 ## Pronunciation
-(*Pahang*) IPA: [example]
+(*Pahang*) IPA: [lɯ́kâr]
 
 ## Verb
 !!{large}**** • _lukar_!!
 ### Origin
 
 ### Definition
-1. to move
+1. to [[move]]
 ```gloss
 \ex (Sentence)
 \gla (sentence-translit)

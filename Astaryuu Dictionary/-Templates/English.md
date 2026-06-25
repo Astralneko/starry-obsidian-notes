@@ -1,13 +1,12 @@
-#Nenevesian #Nenevesian-word #Nenevesian-noun
-#conlang 
+#English #English-word #English-noun
 ```table-of-contents
 ```
-# Nenevesian
+# English
 ## Pronunciation
-(*Karentahnan*) IPA: [example]
+(*Midlands American English*) IPA: [example]
 
 ## Noun
-!!{large}**word** • _{{title}}_!!
+!!{large}**word**!!
 ### Origin
 
 ### Definition
@@ -16,7 +15,6 @@
 \ex (Sentence)
 \gla (sentence-translit)
 \glb (sentence-gloss)
-\ft (sentence-def)
 ```
 ## Usage notes
 
