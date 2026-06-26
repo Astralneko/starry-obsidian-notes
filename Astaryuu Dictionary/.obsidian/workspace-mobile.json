@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conlang words/-fa.md",
-                "mode": "preview",
+                "file": "Conlang words/-mida.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-fa"
+              "title": "-mida"
             }
           }
         ],
@@ -169,7 +169,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "-Templates/Related words/Derived.md",
+            "file": "Full dictionaries/Debazi lexicon.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -235,12 +235,32 @@
         "state": {
           "type": "juggl_nodes",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "juggl_nodes"
+        }
+      },
+      {
+        "id": "34d0985eea9dcbbe",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_style",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "juggl_style"
+        }
+      },
+      {
+        "id": "16aee3e382687b90",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_nodes",
+          "state": {},
           "icon": "ag-node-list",
           "title": "Juggl nodes"
         }
       },
       {
-        "id": "34d0985eea9dcbbe",
+        "id": "0d3da492d3e5a83b",
         "type": "leaf",
         "state": {
           "type": "juggl_style",
@@ -254,6 +274,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -264,22 +286,26 @@
       "juggl:Juggl global graph": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-importer:Open Importer": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "055464e7b7495e9e",
   "lastOpenFiles": [
-    "Conlang words/-can.md",
+    "Full dictionaries/Debazi lexicon.md",
+    "Full dictionaries/Haltzeonian lexicon.md",
+    "Full dictionaries/Kairitelan lexicon.md",
+    "Full dictionaries/Liðakuin lexicon.md",
+    "Full dictionaries/Lunarian lexicon.md",
     "Full dictionaries/Rokadong lexicon.md",
+    "Full dictionaries/Nenevesian lexicon.md",
+    "Conlang words/-fa.md",
+    "Conlang words/-can.md",
     "-Templates/Related words/Derived.md",
     "Conlang words/ácenar.md",
     "-Templates/Related words/Synonyms.md",
     "-Templates/Related words/Antonyms.md",
     "-Templates/Related words",
     "Conlang words/-eŋe.md",
-    "Conlang words/-fa.md",
     "Conlang words/-an.md",
     "-Templates/Rokadong nonverb.md",
     "-Templates/Nenevesian verb.md",
@@ -292,12 +318,6 @@
     "-Templates/Liðakuin noun f1.md",
     "Conlang words/su.md",
     "Conlang words/salafa.md",
-    "Conlang words/nel.md",
-    "Conlang words/minar.md",
-    "Conlang words/lukar.md",
-    "Conlang words/darkr.md",
-    "Conlang words/ludi.md",
-    "Conlang words/lulu.md",
     "Full dictionaries",
     "-Templates"
   ]
