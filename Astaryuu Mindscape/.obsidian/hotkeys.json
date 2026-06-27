@@ -1,0 +1,11 @@
+{
+  "table-editor-obsidian:evaluate-formulas": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ]
+}
