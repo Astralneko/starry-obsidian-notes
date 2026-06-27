@@ -6,8 +6,8 @@ Combat Brands: Sniper / Knight
 # Character notes
 Backstory: Previously, Sirene was a regular pixie child - known to play pranks on people, but in a manner more expected of a child, out of a sense of boredom. However, after being captured and imprisoned in a bottle by an elven adventurer who grew rich off of expeditions into the Labyrinth, she vowed to never let anyone be captured again. Escaping the adventurer's grasp with trained agility, she styled herself as a Robin Hood-type, known to trick and mess with traveling merchants and noblepersons that she encounters. While in keeping with known pixie stereotypes, Sirene's reasoning is more than mere instinct: She loathes the ultra-wealthy, considering them to be dragons in overworlder form.
 # Brand Skills
-Unlocked skills should be marked in some way (bold, italic, etc) - Total points: 8, Allocated: 8
-## Dragoon
+Unlocked skills should be marked in some way (bold, italic, etc) - Total points: 4
+## Sniper
 - Main Stat (m): Tempo
 - Sub Stat 1 (s1): Strength
 - Sub Stat 2 (s2): Will
@@ -23,7 +23,7 @@ Unlocked skills should be marked in some way (bold, italic, etc) - Total points:
 |   1 |     | L1  |  <  |      M1       |  <  | R1  |  <  |     |
 |   1 |     |     | s1  |       m       |  <  | s2  |     |     |
 |   0 |     |     |     | =={accent}B== |  <  |     |     |     |
-## Footsoldier
+## Knight
 - Main Stat (m): Strength 
 - Sub Stat 1 (s1): Ego 
 - Sub Stat 2 (s2): Mystique
