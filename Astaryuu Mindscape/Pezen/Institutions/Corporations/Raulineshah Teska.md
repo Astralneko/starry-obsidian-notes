@@ -1,0 +1,6 @@
+#worldbuilding #spectradom #quill-kingdom #quill-corporation
+**Raulineshah Teska** (Rokadong   [ɾáwlînēˈʃáʔ tɛ́skɐ̂]) is a technology corporation in [[Palontana]], whose office is in [[Mókucela]].
+# History
+Raulineshah Teska began in [[Palontana]] in 2407 MK (Kanata 69), as a firm buying [[Debaz|Debazi]] computers and distributing them to [[Quill Kingdom]] stores. As it was one of the first in the country to do so, the Debazi tech industry took note, and effectively bankrolled Raulineshah Teska in exchange for 51% of its stocks, allowing it to become a near-monopoly in Quillanian computing. In fact, in 2412 MK, a year after the effective buyout, they attempted to displace the Rokadong word for the internet, the [[Debazi]]-loaned "fyókamaria" ("superdistant talk"), with their own name "raulineshah" ("electric data"), though it didn't catch on.
+
+In 2420 MK, Raulineshah Teska bought out the rising-star Palontanan electronic ~~advertising agency~~ mail server "[[Nyuqányu]]" (a portmanteau of "nyuhar ta lanyur", "sending and receiving"), using its revenue to buy back 11% of its own shares. Since it now had control of 60% of its shares, it was no longer completely under Debazi control, though Debazi interests still held massive sway.

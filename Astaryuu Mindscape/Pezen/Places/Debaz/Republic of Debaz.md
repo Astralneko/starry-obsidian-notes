@@ -1,3 +1,8 @@
+---
+aliases:
+  - Debaz
+---
+
 #debaz #spectradom #worldbuilding 
 ```table-of-contents
 ```
@@ -9,7 +14,7 @@ The Republic of Debaz began as a political merger of several of the historic kin
 Debaz grew to its current size by variously causing and taking advantage of riots in several kingdoms near Makhēda. Debaz is notorious for using its economic power as the center of world and especially [[Mangell]]ian commerce to effectively inflate its empire beyond its current borders.
 The last province to be added was [[Serayyah]], 185 years before present. However, the [[Lūtàbax|Holy City of Lūtàbax]] has since seceded, 64 years prior to the present. Ironically, this move was favored by the Senate of Debaz, because Lūtàbax City itself, being a holy city, caused Debaz public perception issues with regard to secularity in the Senate.
 ## Divisions
-![[Assets/My art/Debaz wip map]]
+![[Debaz wip map.jpeg]]
 There are 29 provinces in the Republic of Debaz. These are usually divided into three regions: "Core Debaz" in the center, with North and South Debaz on either side. There is also commonly an east-west divide, although this is less clear, with [[Eramēs]] and [[Asōmdagli]] often going on either side. There is also the District of the Senate, which is not a province but is part of Debaz.
 ### List of provinces of Debaz
 Where a province is sorted by its easternmost point.
