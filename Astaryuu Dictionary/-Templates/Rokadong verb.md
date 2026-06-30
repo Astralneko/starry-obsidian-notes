@@ -3,6 +3,7 @@
 ```table-of-contents
 ```
 # Rokadong
+{{Roka-word/derived|||mìˈnáɾ|verb|to feel|moodstem=mina}}
 ## Pronunciation
 (*Pahang*) IPA: [example]
 

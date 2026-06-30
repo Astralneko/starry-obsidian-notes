@@ -43,6 +43,16 @@ Mike - 󴀀 *Maika* \[ɱaɪ̯k]
 Battat -  *Béttét* \[bêːtːēːt]
 Pluey - 󴀁 *Pwúí* \[pwûː.īː] (CwV is normally banned but recent loans sometimes have it)
 Jongler -  *Jonggwyr* \[d͡ʒɔ́ŋɡwə̄ɾ] (this is a fucking ABOMINATION)
+Pink - 󴀀 *Lairan* \[lájɾɐ̂n] ("lily") (This refers specifically to her appearance in the Dark World, hence its inclusion here despite being a Lightner. If she receives a name in the Light World, its Rokadong equivalent would be  *Rúta*.)
+
+**Non-Sapient Living Things**
+Flowery -  *Tashaná* \[tàʃɐ̄nâː] ("gold flower" portmanteau)
+Aqua -  *Korong* \[kòɾɔ́ŋ]
+Seth -  *Líkas* \[lîːkāθ] (*líga* "violet" mutated to sound akin to the name *Lúkas*)
+Green -  *Caling* \[tʃɐ̀líŋ] ("jade")
+Orange -  *Yángfi* \[jámfî]
+Yellow -  *Sútan* \[sûːtān]
+Blue -  *Nila* \[nílɐ̂]
 
 __VERY VERY INTERESTING__
 W. D. Gaster -    *Wá Dá Gastyr* \[wāː dāː gástəɾ]

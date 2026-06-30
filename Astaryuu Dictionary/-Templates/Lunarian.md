@@ -3,6 +3,7 @@
 ```table-of-contents
 ```
 # Lunarian
+{{Lunr-word||󴑔󴕴󴐽󴕇|ˈlájɾân|noun|lily}}
 ## Pronunciation
 (*Pahang*) IPA: [example]
 

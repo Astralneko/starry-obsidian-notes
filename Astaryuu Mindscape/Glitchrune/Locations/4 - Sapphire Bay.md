@@ -5,4 +5,4 @@
 **Team members added**: 
 **DV_Chapter Boss**: 
 **GR_Chapter Boss**: 
-**Other Bosses**: Mizzle
+**Other Bosses**: 

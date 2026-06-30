@@ -8,91 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be613e06bf7d72e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Templates/Haltzeonian.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Haltzeonian"
-            }
-          },
-          {
-            "id": "22fd4ef3c88049c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Templates/Rokadong.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Rokadong"
-            }
-          },
-          {
-            "id": "2352b4f5bf4e2a19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "minar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "minar"
-            }
-          },
-          {
-            "id": "7056d9a78b3670b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Templates/Kairitelan.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Kairitelan"
-            }
-          },
-          {
-            "id": "e374d0f3b5ec049d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Templates/Liðakuin noun f1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Liðakuin noun f1"
-            }
-          },
-          {
             "id": "055464e7b7495e9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conlang words/-mida.md",
+                "file": "-Templates/Lunarian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-mida"
+              "title": "Lunarian"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -291,6 +220,14 @@
   },
   "active": "055464e7b7495e9e",
   "lastOpenFiles": [
+    "-Templates/Haltzeonian verb.md",
+    "-Templates/Kairitelan nonverb.md",
+    "-Templates/Haltzeonian non-verb.md",
+    "-Templates/English.md",
+    "-Templates/Rokadong nonverb.md",
+    "-Templates/Rokadong verb.md",
+    "Conlang words/lairan.md",
+    "Conlang words/-mida.md",
     "Full dictionaries/Debazi lexicon.md",
     "Full dictionaries/Haltzeonian lexicon.md",
     "Full dictionaries/Kairitelan lexicon.md",
@@ -307,17 +244,9 @@
     "-Templates/Related words",
     "Conlang words/-eŋe.md",
     "Conlang words/-an.md",
-    "-Templates/Rokadong nonverb.md",
     "-Templates/Nenevesian verb.md",
     "-Templates/Nenevesian nonverb.md",
-    "-Templates/Rokadong verb.md",
     "-Templates/Liðakuin weak verb.md",
-    "-Templates/Liðakuin strong verb.md",
-    "-Templates/Liðakuin noun n1.md",
-    "-Templates/Liðakuin noun m1.md",
-    "-Templates/Liðakuin noun f1.md",
-    "Conlang words/su.md",
-    "Conlang words/salafa.md",
     "Full dictionaries",
     "-Templates"
   ]

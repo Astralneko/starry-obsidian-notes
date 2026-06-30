@@ -1,13 +1,13 @@
-#Rokadong #Rokadong-word #Rokadong-noun
+#Haltzeonian #Haltzeonian-word #Haltzeonian-noun
 #conlang 
 ```table-of-contents
 ```
-# Rokadong
-{{Roka-word/derived||󴀀|ˈlájɾân|noun|lily}}
+# Haltzeonian
+{{Hatz-word|||ˈlájɾân|noun|lily}}
 ## Pronunciation
-(*Pahang*) IPA: [example]
+(*Haltzeonian*) IPA: [example]
 
-## Noun
+## Verb
 !!{large}**word** • _{{title}}_!!
 ### Origin
 

@@ -3,6 +3,7 @@
 ```table-of-contents
 ```
 # Haltzeonian
+{{Hatz-word|||ˈlájɾân|verb|lily}}
 ## Pronunciation
 (*Haltzeonian*) IPA: [example]
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "National Mana League/Languages/Lunarian/Lunarian orthography.md",
+                "file": "Translations/I Use Deltarune To Show How Name Loans Work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lunarian orthography"
+              "title": "I Use Deltarune To Show How Name Loans Work"
             }
           }
         ]
@@ -232,8 +232,16 @@
   },
   "active": "8daa5b032337ee8b",
   "lastOpenFiles": [
-    "National Mana League/Languages/Lunarian/Lunarian phonology.md",
+    "Glitchrune/Locations/3 - Onyx City.md",
+    "Translations/I Use Deltarune To Show How Name Loans Work.md",
+    "Glitchrune/Locations/1 - Amethyst Fields.md",
+    "Glitchrune/Locations/2 - Albite Mountain.md",
+    "Glitchrune/Locations/4 - Sapphire Bay.md",
+    "Glitchrune/Locations/7 - Quartz Sea.md",
+    "Glitchrune/Locations/6 - Ruby Delta.md",
+    "Glitchrune/Locations/5 - Jade Frontier.md",
     "National Mana League/Languages/Lunarian/Lunarian orthography.md",
+    "National Mana League/Languages/Lunarian/Lunarian phonology.md",
     "National Mana League/Languages/Lunarian/Dialects of Lunarian.md",
     "National Mana League/Languages/Lunarian/Lunarian.md",
     "National Mana League/Languages/Kardonian/Kardonian orthography.md",
@@ -258,14 +266,6 @@
     "Newsprint City/Locations/Newsprint City.md",
     "Pezen/Institutions/Corporations",
     "National Mana League/Characters",
-    "Newsprint City/Bio-Assessment Survey Squad.md",
-    "Newsprint City/NEPO Phonetic Alphabet.md",
-    "Multibranded/Conversion Sheet.md",
-    "Pezen/Languages/Liðakuin/Liðakuin grammar.md",
-    "Pezen/Languages/Kairitelan/Kairitelan grammar.md",
-    "-Templates/roka-word.md",
-    "-Dictionary/minar.md",
-    "National Mana League/Languages/Kardonian/Haltzeonian grammar.md",
     "-Templates",
     "-Dictionary",
     "Glitchrune/Locations",

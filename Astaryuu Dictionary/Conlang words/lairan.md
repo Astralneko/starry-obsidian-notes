@@ -5,14 +5,14 @@
 # Rokadong
 {{Roka-word/derived||󴀀|ˈlájɾân|noun|lily}}
 ## Pronunciation
-(*Pahang*) IPA: [example]
+(*Pahang*) IPA: [ˈlájɾân]
 
 ## Noun
-!!{large}**word** • _{{title}}_!!
+!!{large}**󴀀** • _lairan_!!
 ### Origin
 
 ### Definition
-1. Definition
+1. lily
 ```gloss
 \ex (Sentence)
 \gla (sentence-translit)
