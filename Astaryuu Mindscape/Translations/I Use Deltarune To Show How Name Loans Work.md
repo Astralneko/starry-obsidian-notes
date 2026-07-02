@@ -7,7 +7,7 @@ Susie -  *Suzí* \[súzîː]
 Ralsei -  *Ralsé* \[ɾálsêː]
 Noelle -  *Noel* \[nòwél]
 
-__Gaster's List__
+__Lightner Side Characters__
 Toriel - 󴀂 *Toriel* \[tóɾî.ēl] (Allowed because /i.V/ :FasThumbsUp: /o.V/ :FasThumbsDown:)
 Asgore -  *Azgór* \[ázgōːɾ] (Long to prevent [ɔ])
 Sans -  *Sanzu* \[sánzû] (/u/ because the Internet always appends "Undertale" :ramsey:)
@@ -15,9 +15,8 @@ Papyrus - 󴀀 *Papairos* \[pəpájɾɔ́s]
 Undyne - 󴀀 *Ondain* \[ɔ́ndâjn(ə)]
 Alphys -  *Alfis* \[álfɪ̂s]
 Rudy -  *Rudí* \[ɾúdîː]
-Gerson -  *Gyrsan* \[gə́ɾsə̂n] (ɹ̩ is in Kairitelan and thus Rokadong speakers might expect this bullshit)
 QC -  *Kyúsí* \[kju] (normally English acronyms are borrowed using /Ca:/ for the letters, but not for either of these letters (X is /ʃaː/ blame Spain))
-Berdly -  *Byrdí* \[bə́ɾdîː] 
+Berdly -  *Byrdí* \[bə́ɾdîː] (ɹ̩ is in Kairitelan and thus Rokadong speakers might expect this bullshit)
 Bratty -  *Barétí* \[bəɾêtīː] (/æ/ is loaned as /eː/)
 Catty -  *Kéti* \[kêːtī]
 Catti -  *Kétí* \[kêtīː]
@@ -43,9 +42,10 @@ Mike - 󴀀 *Maika* \[ɱaɪ̯k]
 Battat -  *Béttét* \[bêːtːēːt]
 Pluey - 󴀁 *Pwúí* \[pwûː.īː] (CwV is normally banned but recent loans sometimes have it)
 Jongler -  *Jonggwyr* \[d͡ʒɔ́ŋɡwə̄ɾ] (this is a fucking ABOMINATION)
-Pink - 󴀀 *Lairan* \[lájɾɐ̂n] ("lily") (This refers specifically to her appearance in the Dark World, hence its inclusion here despite being a Lightner. If she receives a name in the Light World, its Rokadong equivalent would be  *Rúta*.)
+Gerson -  *Gyrsan* \[gə́ɾsə̂n]
+Pink - 󴀀 *Lairań* \[lájɾɐ̂n] ("lily") (This refers specifically to her appearance in the Dark World, hence its inclusion here despite being a Lightner. If she receives a name in the Light World, its Rokadong equivalent would be  *Rúta*.)
 
-**Non-Sapient Living Things**
+__Non-Sapient Living Things__
 Flowery -  *Tashaná* \[tàʃɐ̄nâː] ("gold flower" portmanteau)
 Aqua -  *Korong* \[kòɾɔ́ŋ]
 Seth -  *Líkas* \[lîːkāθ] (*líga* "violet" mutated to sound akin to the name *Lúkas*)

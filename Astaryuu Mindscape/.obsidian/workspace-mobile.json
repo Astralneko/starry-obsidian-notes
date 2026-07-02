@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "I Use Deltarune To Show How Name Loans Work"
             }
+          },
+          {
+            "id": "4f449603e334627d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Translations/I Use Deltarune To Show How Name Loans Work.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "I Use Deltarune To Show How Name Loans Work"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,10 +245,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8daa5b032337ee8b",
+  "active": "4f449603e334627d",
   "lastOpenFiles": [
-    "Glitchrune/Locations/3 - Onyx City.md",
+    "July Song of the Day.md",
     "Translations/I Use Deltarune To Show How Name Loans Work.md",
+    "Glitchrune/Locations/3 - Onyx City.md",
     "Glitchrune/Locations/1 - Amethyst Fields.md",
     "Glitchrune/Locations/2 - Albite Mountain.md",
     "Glitchrune/Locations/4 - Sapphire Bay.md",
@@ -263,7 +279,6 @@
     "2026-06-24.md",
     "Pezen/Institutions/Corporations/Nyuqányu.md",
     "Pezen/Institutions/Corporations/Raulineshah Teska.md",
-    "Newsprint City/Locations/Newsprint City.md",
     "Pezen/Institutions/Corporations",
     "National Mana League/Characters",
     "-Templates",
