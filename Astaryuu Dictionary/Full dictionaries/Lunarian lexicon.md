@@ -26,10 +26,10 @@
 | [[koxon]]   | nine               | Adjective      |
 | [[ce]]      | ten                | Adjective      |
 | [[fɇn]]     | eleven             | Adjective      |
-| [[asen]]    | twelve             | Adjective      |
-| [[merken]]  | thirteen           | Adjective      |
-| [[plsen]]   | fourteen           | Adjective      |
-| [[qɨshen]]  | fifteen            | Adjective      |
+| [[irna]]    | twelve             | Adjective      |
+| [[merka]]   | thirteen           | Adjective      |
+| [[plse]]    | fourteen           | Adjective      |
+| [[rʉsi]]    | fifteen            | Adjective      |
 | [[hɏ]]      | sixteen            | Adjective      |
 | [[batɏ]]    | 256                | Adjective      |
 | [[dⱥɲcɏ]]   | 4096               | Adjective      |
@@ -42,3 +42,4 @@
 | [[baƿⱥ]]    | -256i              | Adjective      |
 | [[kvaƿⱥ]]   | 65536i             | Adjective      |
 | [[kowi]]    | smart              | Adjective      |
+| [[tɏfa]]    | thing              | Noun           |

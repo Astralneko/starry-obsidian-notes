@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pezen/Languages/Matelian/Matelian phonology.md",
-                "mode": "source",
+                "file": "National Mana League/Languages/Kardonian/Haltzeonian phonology.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Matelian phonology"
+              "title": "Haltzeonian phonology"
             }
           }
         ],
@@ -247,7 +247,10 @@
   },
   "active": "4f449603e334627d",
   "lastOpenFiles": [
+    "National Mana League/Languages/Lunarian/Lunarian orthography.md",
+    "National Mana League/Languages/Kardonian/Haltzeonian grammar.md",
     "July Song of the Day.md",
+    "Pezen/Languages/Matelian/Matelian phonology.md",
     "Translations/I Use Deltarune To Show How Name Loans Work.md",
     "Glitchrune/Locations/3 - Onyx City.md",
     "Glitchrune/Locations/1 - Amethyst Fields.md",
@@ -256,7 +259,6 @@
     "Glitchrune/Locations/7 - Quartz Sea.md",
     "Glitchrune/Locations/6 - Ruby Delta.md",
     "Glitchrune/Locations/5 - Jade Frontier.md",
-    "National Mana League/Languages/Lunarian/Lunarian orthography.md",
     "National Mana League/Languages/Lunarian/Lunarian phonology.md",
     "National Mana League/Languages/Lunarian/Dialects of Lunarian.md",
     "National Mana League/Languages/Lunarian/Lunarian.md",
@@ -277,8 +279,6 @@
     "Pezen/Places/Karantank",
     "Pezen/Places/Debaz.md",
     "2026-06-24.md",
-    "Pezen/Institutions/Corporations/Nyuqányu.md",
-    "Pezen/Institutions/Corporations/Raulineshah Teska.md",
     "Pezen/Institutions/Corporations",
     "National Mana League/Characters",
     "-Templates",

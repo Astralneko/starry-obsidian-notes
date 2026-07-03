@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Templates/Lunarian.md",
+                "file": "Full dictionaries/Lunarian lexicon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lunarian"
+              "title": "Lunarian lexicon"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Full dictionaries/Debazi lexicon.md",
+            "file": "Full dictionaries/Lunarian lexicon.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -218,21 +218,27 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "dc8b0f5346d0c311",
+  "active": "055464e7b7495e9e",
   "lastOpenFiles": [
+    "-Templates/Rokadong verb.md",
+    "orphaned files output.md",
+    "Conlang words/asen.md",
+    "Conlang words/qɨshen.md",
+    "Conlang words/merken.md",
+    "Conlang words/plsen.md",
+    "Full dictionaries/Lunarian lexicon.md",
+    "-Templates/Lunarian.md",
     "-Templates/Haltzeonian verb.md",
     "-Templates/Kairitelan nonverb.md",
     "-Templates/Haltzeonian non-verb.md",
     "-Templates/English.md",
     "-Templates/Rokadong nonverb.md",
-    "-Templates/Rokadong verb.md",
     "Conlang words/lairan.md",
     "Conlang words/-mida.md",
     "Full dictionaries/Debazi lexicon.md",
     "Full dictionaries/Haltzeonian lexicon.md",
     "Full dictionaries/Kairitelan lexicon.md",
     "Full dictionaries/Liðakuin lexicon.md",
-    "Full dictionaries/Lunarian lexicon.md",
     "Full dictionaries/Rokadong lexicon.md",
     "Full dictionaries/Nenevesian lexicon.md",
     "Conlang words/-fa.md",
@@ -240,13 +246,7 @@
     "-Templates/Related words/Derived.md",
     "Conlang words/ácenar.md",
     "-Templates/Related words/Synonyms.md",
-    "-Templates/Related words/Antonyms.md",
     "-Templates/Related words",
-    "Conlang words/-eŋe.md",
-    "Conlang words/-an.md",
-    "-Templates/Nenevesian verb.md",
-    "-Templates/Nenevesian nonverb.md",
-    "-Templates/Liðakuin weak verb.md",
     "Full dictionaries",
     "-Templates"
   ]

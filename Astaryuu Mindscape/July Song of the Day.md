@@ -1,7 +1,7 @@
-Wed. July 1 - 🇺🇸🇺🇸🇯🇵 TheCappucino04, Toby Fox, Camellia - [Flower Man ft. Kasane Teto](https://youtu.be/IsaVLrmJ6Nk)
-Thur. July 2 - 🇮🇩 Whimpiddy - [REMATCH](https://youtu.be/OtCwSfbrAck)
-Fri. July 3 -
-Sat. July 4 -
+Wed. July 1 - 🇺🇸🇺🇸🇯🇵 TheCappucino04, Toby Fox, Camellia - [Flower Man ft. Kasane Teto](https://youtu.be/IsaVLrmJ6Nk) (Jun 2026)
+Thur. July 2 - 🇮🇩 Whimpiddy - [REMATCH](https://youtu.be/OtCwSfbrAck) (Apr 2026)
+Fri. July 3 - 🇺🇸 TANKAKUKA - [To The One I Owe](https://youtu.be/POFtgwYU6NE) (Feb 2025)
+Sat. July 4 - 🇯🇵 Chenomio - [This is Fiction. feat. Kasane Teto](https://youtu.be/LxVv4QneUuU) (Apr 2026)
 Sun. July 5 -
 Mon. July 6 -
 Tues. July 7 -
