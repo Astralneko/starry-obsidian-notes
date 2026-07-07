@@ -3,7 +3,7 @@ Thur. July 2 - 🇮🇩 Whimpiddy - [REMATCH](https://youtu.be/OtCwSfbrAck) (Apr
 Fri. July 3 - 🇺🇸 TANKAKUKA - [To The One I Owe](https://youtu.be/POFtgwYU6NE) (Feb 2025)
 Sat. July 4 - 🇯🇵 Chenomio - [This is Fiction. feat. Kasane Teto](https://youtu.be/LxVv4QneUuU) (Apr 2026)
 Sun. July 5 - 🇵🇭 Dasu - [PINAKANAKAKAPAGNGITNGITNGITNGITANGPAGSISINUNGASINUNGALINGAN feat. Hatsune Miku](https://youtu.be/WFTtlevKTnA) (Jul 2026) (I should clarify that somehow, this is not Dasu's most unhinged song title)
-Mon. July 6 -
+Mon. July 6 - 🇰🇷 AnythingBecomeMoe - [YARARARA feat. Kasane Teto](https://youtu.be/T24rF_x0TmQ)
 Tues. July 7 -
 Wed. July 8 -
 Thurs. July 9 -
