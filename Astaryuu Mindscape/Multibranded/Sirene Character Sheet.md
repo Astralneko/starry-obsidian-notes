@@ -7,7 +7,7 @@ Utility Brand: Thief
 # Character notes
 Backstory: Previously, Sirene was a regular pixie child - known to play pranks on people, but in a manner more expected of a child, out of a sense of boredom. However, after being captured and imprisoned in a bottle by an elven adventurer who grew rich off of expeditions into the Labyrinth, she vowed to never let anyone be captured again. Escaping the adventurer's grasp with trained agility, she styled herself as a Robin Hood-type, known to trick and mess with traveling merchants and noblepersons that she encounters. While in keeping with known pixie stereotypes, Sirene's reasoning is more than mere instinct: She loathes the ultra-wealthy, considering them to be dragons in overworlder form.
 # Brand Skills
-Unlocked skills should be marked in some way (bold, italic, etc) - Total points: 8, Allocated: 8
+Unlocked skills should be marked in some way (bold, italic, etc) - Total points: 11, Allocated: 9
 ## Dragoon
 - Main Stat (m): Tempo
 - Sub Stat 1 (s1): Strength
@@ -20,7 +20,7 @@ Unlocked skills should be marked in some way (bold, italic, etc) - Total points:
 |   3 |     |       L3       |       <        |       M3       |  <  | R3  |  <  |     |
 |   1 |     |       m        |       s1       |       m        |  <  | s2  |  m  |     |
 |   2 | LL2 |       <        |       L2       |       <        | R2  |  <  | RR2 |  <  |
-|   1 |     |       m        |       s1       |       m        |  <  | s2  |  m  |     |
+|   1 |     | =={accent}m==  |       s1       |       m        |  <  | s2  |  m  |     |
 |   1 |     | =={accent}L1== |       <        | =={accent}M1== |  <  | R1  |  <  |     |
 |   1 |     |                | =={accent}s1== | =={accent}m==  |  <  | s2  |     |     |
 |   0 |     |                |                | =={accent}B==  |  <  |     |     |     |
@@ -36,7 +36,7 @@ Unlocked skills should be marked in some way (bold, italic, etc) - Total points:
 |   3 |     |       L3       |       <        |      M3       |  <  |       R3       |  <  |     |
 |   1 |     |       m        |       s1       |       m       |  <  |       s2       |  m  |     |
 |   2 | LL2 |       <        |       L2       |       <       | R2  |       <        | RR2 |  <  |
-|   1 |     |       m        |       s1       |       m       |  <  |       s2       |  m  |     |
+|   1 |     |       m        |       s1       |       m       |  <  | =={accent}s2== |  m  |     |
 |   1 |     | =={accent}L1== |       <        |      M1       |  <  | =={accent}R1== |  <  |     |
 |   1 |     |                | =={accent}s1== |       m       |  <  | =={accent}s2== |     |     |
 |   0 |     |                |                | =={accent}B== |  <  |                |     |     |
@@ -70,10 +70,10 @@ Unlocked skills should be marked in some way (bold, italic, etc) - Total points:
 |           | STR          | FRT | WIL      | INT | EGO         | MYS | CTR        | TEM |
 | --------- | ------------ | --- | -------- | --- | ----------- | --- | ---------- | --- |
 | Base      | 7            | 5   | 5        | 5   | 8           | 4   | 6          | 8   |
-| Bonus     | 1            |     |          |     | 1           | 1   |            | 1   |
+| Bonus     | 1            |     |          |     | 1           | 2   |            | 2   |
 |           | **Vitality** | <   | **Mana** | <   | **Resolve** | <   | **Energy** | <   |
-| Dyn. Base | 26           | <   | 20       | <   | 28          | <   | 30         | <   |
-| Dyn. Cur. | 26           | <   | 20       | <   | 28          | <   | 30         | <   |
+| Dyn. Base | 26           | <   | 20       | <   | 30          | <   | 32         | <   |
+| Dyn. Cur. | 26           | <   | 20       | <   | 30          | <   | 32         | <   |
 <!-- TBLFM: @5$2=(sum(@2$2..@3$3)*2) -->
 <!-- TBLFM: @5$4=(sum(@2$4..@3$5)*2) -->
 <!-- TBLFM: @5$6=(sum(@2$6..@3$7)*2) -->
@@ -97,8 +97,10 @@ Unlocked skills should be marked in some way (bold, italic, etc) - Total points:
 **Character Size**: Tiny
 - Height: 171mm (roughly 6.66 inches)
 - Weight: Negligible
+
+**Defense**: 7 Phys, 5 Mag, 8 Ment
 # Equipment
-**Armor**: Light Bronze Mail (2 Toughness)
+**Armor**: Light Bronze Mail (2 Toughness, Phys/Ment)
 **Handheld Equipment**:
 - Bronze Dagger (4 Power, 2 Phys Block, 0 Weight, 8ft Range, Small Slashing/Piercing) - Strike Power: 12, Accuracy: 10
 - Small Stone Ward (6 Magic/Mental Block, 5 Weight, -5 Accuracy)
