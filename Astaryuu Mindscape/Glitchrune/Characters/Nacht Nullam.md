@@ -1,3 +1,7 @@
+---
+aliases:
+  - Nacht
+---
 #glitchrune-character
 **Nacht Nullam** (English: \[nɔkt nʌɫ.ɫəm]) is a minor character in ''[[Glitchrune]]'', important to the lore, but dead by the time of the main story. Their present-day counterpart is [[Solin Leihinheim]].
 # Plot

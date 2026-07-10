@@ -1,0 +1,3 @@
+The **Great War of the Worlds** is an event that happened an indeterminate time ago in universe - simply "long enough that people have since been born with no memory of it". However, multiple characters still exist from the War period.
+
+The War occurred between the Light and Dark Worlds, which were once one connected world, but have since been split in two. It's implied that this was done with the [[Daybreaker]] itself, as it can manipulate darkness.

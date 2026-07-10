@@ -3,7 +3,6 @@
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "image-converter",
-  "obsidian-icon-folder",
   "obsidian-importer",
   "obsidian-excel-to-markdown-table",
   "automatic-table-of-contents",
@@ -19,5 +18,7 @@
   "links",
   "vowel-chart",
   "obsidian-style-settings",
-  "ling-gloss"
+  "ling-gloss",
+  "obsidian-icon-folder",
+  "iconic"
 ]
