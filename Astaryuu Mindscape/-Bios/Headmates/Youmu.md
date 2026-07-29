@@ -19,4 +19,4 @@ H
 
 #### History
 ### In-sys relations
-Deeply afraid of [[Reimu]], her boss, so to speak. Seems to have helped form [[Zephyr]] and/or [[Ganymede]] to reinforce positive thoughts.
+Deeply afraid of [[Reimu]], her boss, so to speak. Seems to have helped form [[-Bios/Headmates/Zephyr]] and/or [[Ganymede]] to reinforce positive thoughts.

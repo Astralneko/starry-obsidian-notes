@@ -10,3 +10,5 @@ Chapter 3 is based upon Deltarune Chapter 2, though with heavy inspiration from 
 **Other Bosses**: Mettaton, Tasque Manager, Cats_2, Spamton
 
 \*Madz_2 is only actually the second encounter if not fought in Chapter 2. Each member of the rush has their own minigame-ass attack segment, but this minigame doesn't appear in Chapter 2 Madz as it apparently relies on Teal to work, so the Chapter 3 battle is still unique. Still, Madz_2 is moved to before Holo-Cats_3 if this has happened.
+# Sublocations
+- [[Onyx Coleg]]

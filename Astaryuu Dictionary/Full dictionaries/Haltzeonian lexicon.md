@@ -78,4 +78,5 @@
 | [[lhámyae]]    | unity              | Noun           |          |            |           |                                                                                    |                 |
 | [[reolkó]]     | wolf               | Noun           |          |            |           |                                                                                    |                 |
 | [[nel]]        | you                | Pronoun        |            |            |           |                                                                                    |                 |
-|                |                    |                |               |            |           |                                                                                    |                 |
+| gal            | be                 | Verb           |               |            |           |                                                                                    |                 |
+| níliu          | talk               | Verb           |               |            |           |                                                                                    |                 |

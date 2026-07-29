@@ -1,0 +1,11 @@
+{
+  "centralLowVowel": true,
+  "layout": "triangle",
+  "size": 40,
+  "trueMid": true,
+  "style": {
+    "backgroundColor": "white",
+    "gridColor": "black",
+    "textColor": "black"
+  }
+}

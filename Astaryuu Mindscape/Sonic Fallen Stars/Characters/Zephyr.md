@@ -1,0 +1,14 @@
+#sfs-character
+**Zephyr** is an ancient automaton rabbit created somewhere near the [[Starfall Isles]] by the resident dragon population. The dragons themselves were wiped out by [[Starfall!The End|The End]], but the rabbit, being an automaton, survived the encounter. It went dormant for about the next 7,000 years, until being found by [[Starfall!Zero|Zero]] during the events of Sonic Fallen Stars.
+
+# Plot
+## Ancient history
+The sun dragons believed that machines like those found on the islands could predict the future. Thus, they imitated their technology, creating tiny robots that could then assemble into the form of various creatures.
+
+During her creation, a piece of "[[The Truth]]," an old name for one of several powerful gems said to be gifted by the gods, was placed inside of Zephyr. Hers isn’t the full gem, and the rest of the gem would, due to an ancient wizard sealing themselves away in it, become the wicked Phantom Ruby.^[These gems are definitely not re-imagined Super Emeralds from Sonic 3 & Knuckles please don't hurt me] After being created, Zephyr served as an oracle for the sun dragons of Starfall Isles.
+
+She used to live in the tall tower known as Cirrascus (renamed to [[Chaos Angel Tower]]^[Named after the stage Chaos Angel from Sonic Advance 3.] by modern civilization, with the true name written only in either untranslatable text or Zephyr's memories). Due to a cataclysmic event destroying the city around the tower, Zephyr shut herself down and locked herself within the tower.
+## Modern day
+[[Starfall!Zero|Zero]], looking for further pieces of the Phantom Ruby, learns that there may be one at the top of Chaos Angel Tower. Along the way, he triggers Chaos Angel's security system, but encounters [[Starfall!Nicole|Nicole]], who helps him get past it. At the top floor of the tower, the two of them find Zephyr laying dormant, covered in dust. The two of them pick up the rabbit, assuming she is a deceased, but otherwise very much organic, rabbit - both of these assumptions are wrong, and Zephyr tries to fight Zero. The fight is ended by Nicole hacking Zephyr to force her back into dormancy; while she works on trying to assuage the rabbit's fear, Zero carries them down the tower.
+
+On the first floor, Zephyr wakes up, and Zero explains why he's here: He must destroy Phantom Ruby devices, and was told there was one within Chaos Angel, one which Zephyr activated in a last ditch attempt to send away Zero. The rabbit explains that the Ruby powers her systems and regardless of the horrors it has been used for, the simple fact is that Zephyr cannot run without the piece of Truth inside her.

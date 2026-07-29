@@ -1,4 +1,4 @@
-**The Script** is the fate prophesied for the world of Glitchrune. In-universe, it is treated as predicting the end of the world "Deltaverse", but in very obvious context, it is the literal script of the game "Deltaverse."
+**The Script** is the fate prophesied for the world of Glitchrune. In-universe, it is treated as predicting the end of the world "Deltaverse", but in very obvious context, it is the literal script of the game "[[Deltaverse]]."
 
 The Script was first revealed directly after the [[Great War of the Worlds]] by legendary hero Patchy, who purportedly read it through his covered eye. It predicts that someone from beyond the world's edge will "bark" up the wrong tree, and fall into the world atop the legendary "**implement** of change", and that they are destined to keep the world from total collapse, but that they can only do so when the world is on the brink anyway.
 

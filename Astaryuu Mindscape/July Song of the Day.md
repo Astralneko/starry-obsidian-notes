@@ -1,3 +1,5 @@
+Note: Remixes are credited to the new artist if they are significantly different from the orginal
+
 Wed. July 1 - 🇺🇸🇺🇸🇯🇵 TheCappucino04, Toby Fox, Camellia - [Flower Man ft. Kasane Teto](https://youtu.be/IsaVLrmJ6Nk) (Jun 2026)
 Thur. July 2 - 🇮🇩 Whimpiddy - [REMATCH](https://youtu.be/OtCwSfbrAck) (Apr 2026)
 Fri. July 3 - 🇺🇸 TANKAKUKA - [To The One I Owe](https://youtu.be/POFtgwYU6NE) (Feb 2025)
@@ -5,19 +7,27 @@ Sat. July 4 - 🇯🇵 Chenomio - [This is Fiction. feat. Kasane Teto](https://y
 Sun. July 5 - 🇵🇭 Dasu - [PINAKANAKAKAPAGNGITNGITNGITNGITANGPAGSISINUNGASINUNGALINGAN feat. Hatsune Miku](https://youtu.be/WFTtlevKTnA) (Jul 2026) (I should clarify that somehow, this is not Dasu's most unhinged song title)
 Mon. July 6 - 🇰🇷 AnythingBecomeMoe - [YARARARA feat. Kasane Teto](https://youtu.be/T24rF_x0TmQ) (Jun 2026)
 Tues. July 7 - 🇺🇸🇺🇸 suzie, KAT - [affection addiction ft. Aku-P (suzie ver.)](https://youtu.be/fFxglqcsO5w) (Apr 2025)
-Wed. July 8 - 🇨🇳 HOYO-MiX ft. YMIR - [Flares of the Blazing Sun](https://youtu.be/75582gY4rdQ) (Jul 2025)
-Thurs. July 9 - 🇺🇾 koffee_kris - [Black Knife - Sonic Rush](https://youtu.be/OnmPMqH882k) (Jun 2026) (I am only crediting kris here because this is a proper remix fusing the title track 🇺🇸 Toby Fox - BLACK KNIFE with 🇯🇵 Hideki Naganuma - Wrapped in Black)
+Wed. July 8 - 🇨🇳 HOYO-MiX, YMIR - [Flares of the Blazing Sun](https://youtu.be/75582gY4rdQ) (Jul 2025)
+Thurs. July 9 - 🇺🇾 koffee_kris - [Black Knife - Sonic Rush](https://youtu.be/OnmPMqH882k) (Jun 2026) (🇺🇸 Toby Fox - BLACK KNIFE / 🇯🇵 Hideki Naganuma - Wrapped in Black)
 Fri. July 10 - 🇰🇷 REASAN - [Behemoth Hammer](https://youtu.be/fBwLvmBI_70) (Mar 2026)
-Sat. July 11 - 
-Sun. July 12 -
-Mon. July 13 -
-Tues. July 14 -
-Wed. July 15 -
-Thur. July 16 -
-Fri. July 17 -
-Sat. July 18 -
-Sun. July 19 -
-Mon. July 20 -
-Tues. July 21 -
-Wed. July 22 -
-Thur. July 23 -
+Sat. July 11 - CHIPY - [Dance of Petals ~ Flowers Bloom in your Heart](https://youtu.be/dvM2EDa0jiw) (Jul 2026)
+Sun. July 12 - 🇺🇸🇺🇸 TheCappuccino04, Toby Fox - [Raise Up Your Bat ft. Kasane Teto](https://youtu.be/HFHCsq4nVmU) (deltarune tomorrow 2026)
+Mon. July 13 - 🇯🇵 Kobaryo - [Sequence Breaker ft. Shinonome Interface](https://youtu.be/gma72CksN8g) (May 2023)
+Tues. July 14 - 🇺🇸 RISK - [WORLD RESET](https://youtu.be/ipzfg_p2ov4) (May 2024)
+Wed. July 15 - Isrephel - [Doomsday Zone (Weird Ending)](https://youtu.be/kiTUh84o2ho) (May 2026) (Same as Jul 9 but the Sonic track is 🇯🇵 Jun Senoue - Doomsday Zone)
+Thur. July 16 - Frums - [XNOR XNOR XNOR](https://youtu.be/3qnrewFcnQs) (May 2020)
+Fri. July 17 - FLAVOR FOLEY - [streetcat ft. Nekomura Iroha](https://youtu.be/jbZT-bwZD3c?is=6Zgt4fdL1fSz2Tq8) (Jul 2026)
+Sat. July 18 - melody amaranth valentyne - [ΘΔ](https://youtu.be/tK_1324iP0k) (Jul 2026)
+Sun. July 19 - 🇰🇷 REASAN - [C:\UTIE_MEW_MEW.EXE](https://youtu.be/m19D8JEPSQc) (Jul 2026)
+Mon. July 20 - 🇺🇳 NoteBlock, Tater-Tot Tunes, Shane Steward, Andy-Ru, RoboRob, Kamex, Orenji Music, Bean Bops, Celestial Fury, HoopsandHipHop, harpsona, Ryan Lafford, Soundole VGM Covers, VikingGuitar, Fabulous Reindeer, The Musical Ghost, Charles Ritz, Duzzled, Player2, GuitarGeek25, Master Sword, LyricWulf, Lotie, Pascal Michael Stiefel, Plasma3Music Remixes, Kid Yuki, purpleschala, Christian Richardson, The Noble Demon, Emdasche, Nathan, Vector U, Cepukka, HugoJ, ooyu, MichaelOST, Janne Sala, Game & Sound, Dj CUTMAN, Brandon Yates, Mistigri, Lacey Johnson Music, Snivys, Artsy Omni, Garrett Williamson Misic, Gunderslam, Scruffy, Rahul Vanamali, Lame Genie, PixelCherries, Capt'n Shred, Alex Devine, Devlon Samuels, Stevie Viola, Nah Tony, PegsterMcDudeson, GlitchxCity, Moola Mixtape, Joshua Taipale, Joanne Moo, Felix Arifin, gabocarina96, sheddy, Ray Casarez, Piano Game Knoght, Figburn, NPC, TeraCMusic, TNHGameRemixes, Cochu U, DS Music, Music on the D Lo, Hekdar Thunderfist, Chernabogue, Ro Panuganti, Kade Kalka, David Russell, SHUTDOWN, Tazmi, Allison Martin Trombone, Chris Allen Hess, Grant Kirkhope, Thennecan, Doug Perry, FirahFabe, 1caaake, Katy Scary, Klaymore, VanilluxePavilion, longestsoloever, RichaadEB, Skig___, Eleanor Dishong, Vicvillon, Julia Henderson, Ladylgiko, Hugo Junstrand, harpsona, Janne Sala, AJ DiSpirito - [The ULTIMATE Smash Medley](https://youtu.be/2Kk01MoYmWc) (Oct 2021)
+Tues. July 21 - 🇬🇧 TJ Davis - [I'm Here](https://youtu.be/pWDDJ3443ZE) (Jul 2026) (🇯🇵 Tomoya Ohtani - I'm Here)
+Wed. July 22 - 🇯🇵 Kobaryo - [Leave it to Fate feat. Matatabi Sound System, DJ NECOJITA, Shinonome Interface, and blaxervant](https://youtu.be/FEi0B-WI7fs) (Apr 2024) (I remain unconvinced these are not all Kobaryo)
+Thur. July 23 - 🇯🇵 LeaF - [彁 (Ka)](https://youtu.be/t3T46A1Gt7w?is=1CjUo1xwIqC-pLaA) (May 2024)
+Fri. July 24 - 🇯🇵? Kemonota - [Keep Going!](https://youtu.be/WdKbY2pnhTM) (Feb 2022)
+Sat. July 25 - 🇨🇦 femtanyl - [IT'S TIME](https://youtu.be/W4GbHvprZb0) (Nov 2024)
+Sun. July 26 - 🇯🇵 CVllXXX - [HξÅΓ‘GΘЙ (Hexaguron) feat. CVllXXX](https://youtu.be/ydUFLRKpf_A) (Jan 2026) (No romanized name was given and I'm pretty sure this song is written and performed either in a conlang whose documentation I can't find, based on the comments sections of this artist's videos, or using *Splatoon*-style writing (that is, Japanese gibberish), based on the fact it fits Japanese phonotactics quite well. Thus, I can only make my best guess that "HξÅΓ‘GΘЙ" is the \[hek̚sæguɾõ] that gets repeated, and romanize that.)
+Mon. July 27 - ❓🇺🇸🇯🇵 Thiccolas3245, Toby Fox, Camellia - [Everybody Has Cutie Mew Mew Magic feat. Hatsune Miku, Childish Gambino, K'naan, Adam Levine, Dragon Force, Tech N9ne, μ's, Dave Rodgers, Lady Gaga, Colby O'Donis, and the OIIA cat](https://youtu.be/4Oe_DfvFiAc) (Jul 2026)
+Tues. July 28 - nakeiadn - [ego shifter ft. Kasane Teto](https://youtu.be/GkVucsKR05A) (Jul 2026)
+Wed. July 29 - 🇺🇸🇺🇸🇯🇵 Temmie Chang, Toby Fox, Camellia - [Somewhere in a Forest](https://open.spotify.com/track/37TSenlTe0SJjDxgLseZ0h) (Jul 2020)
+Thur. July 30 - 🇰🇷 TRAP CHICK - [Approve please, Genie!](https://youtu.be/XKZIQlqVjjk) (Jun 2026)
+Fri. July 31 - 🇯🇵🇲🇦 wasteofblood, Reda - [Gaia Tower](https://youtu.be/mfBNabmdZNo) (Jul 2026)

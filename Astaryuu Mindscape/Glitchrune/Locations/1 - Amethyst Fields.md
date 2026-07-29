@@ -8,3 +8,6 @@
 **Other Bosses**: Dustpile, Takara, Cats-1, Ganymede
 
 \*You cannot fight both - you are sent to the base of [[2 - Albite Mountain|Albite Mountain]] regardless of your choice.
+# Sublocations
+- [[Violet Town]]
+- [[Emerald Town]]

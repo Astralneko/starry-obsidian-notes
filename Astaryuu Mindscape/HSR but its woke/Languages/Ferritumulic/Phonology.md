@@ -25,3 +25,10 @@
 | Close-mid | e     |         | o    |
 | Open-mid  | ɛ     |         | ɔ    |
 | Open      |       | a       |      |
+
+```vowel-chart
+layout formant
+add [æ]
+add [ɑ]
+add [ɔ]
+```

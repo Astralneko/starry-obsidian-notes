@@ -6983,6 +6983,8 @@ class IconizePlugin extends obsidian.Plugin {
                 if (possibleIcon) {
                     titleIcon.add(this, activeView.inlineTitleEl, possibleIcon, {
                         fontSize: calculateInlineTitleSize(),
+                        // Astaryuu edit attempt
+                        // color: getIconColor(activeView.file.path),
                     });
                 }
             }

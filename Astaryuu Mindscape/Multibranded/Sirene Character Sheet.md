@@ -7,27 +7,29 @@ Utility Brand: Thief
 # Character notes
 Backstory: Previously, Sirene was a regular pixie child - known to play pranks on people, but in a manner more expected of a child, out of a sense of boredom. However, after being captured and imprisoned in a bottle by an elven adventurer who grew rich off of expeditions into the Labyrinth, she vowed to never let anyone be captured again. Escaping the adventurer's grasp with trained agility, she styled herself as a Robin Hood-type, known to trick and mess with traveling merchants and noblepersons that she encounters. While in keeping with known pixie stereotypes, Sirene's reasoning is more than mere instinct: She loathes the ultra-wealthy, considering them to be dragons in overworlder form.
 # Brand Skills
-Unlocked skills should be marked in some way (bold, italic, etc) - Total points: 11, Allocated: 9
+Unlocked skills should be marked in some way (bold, italic, etc)
 ## Dragoon
 - Main Stat (m): Tempo
 - Sub Stat 1 (s1): Strength
 - Sub Stat 2 (s2): Will
+- Total points: 11, Allocated: 9
 
 |     |     |                |                |                |     |     |     |     |
 | --: | :-: | :------------: | :------------: | :------------: | :-: | :-: | :-: | :-: |
-|   5 |     |                |                |      ULT       |  <  |     |     |     |
-|   1 |     |                |       s1       |       m        |  <  | s2  |     |     |
+|   5 |     |       <        |       <        |      ULT       |  <  |     |  <  |  <  |
+|   1 |     |       <        |       s1       |       m        |  <  | s2  |     |  <  |
 |   3 |     |       L3       |       <        |       M3       |  <  | R3  |  <  |     |
 |   1 |     |       m        |       s1       |       m        |  <  | s2  |  m  |     |
 |   2 | LL2 |       <        |       L2       |       <        | R2  |  <  | RR2 |  <  |
 |   1 |     | =={accent}m==  |       s1       |       m        |  <  | s2  |  m  |     |
 |   1 |     | =={accent}L1== |       <        | =={accent}M1== |  <  | R1  |  <  |     |
-|   1 |     |                | =={accent}s1== | =={accent}m==  |  <  | s2  |     |     |
-|   0 |     |                |                | =={accent}B==  |  <  |     |     |     |
+|   1 |     |       <        | =={accent}s1== | =={accent}m==  |  <  | s2  |     |  <  |
+|   0 |     |       <        |       <        | =={accent}B==  |  <  |     |  <  |  <  |
 ## Footsoldier
 - Main Stat (m): Strength 
 - Sub Stat 1 (s1): Ego 
 - Sub Stat 2 (s2): Mystique
+- Total points: 11, Allocated: 9
 
 |     |     |                |                |               |     |                |     |     |
 | --: | :-: | :------------: | :------------: | :-----------: | :-: | :------------: | :-: | :-: |
@@ -40,9 +42,25 @@ Unlocked skills should be marked in some way (bold, italic, etc) - Total points:
 |   1 |     | =={accent}L1== |       <        |      M1       |  <  | =={accent}R1== |  <  |     |
 |   1 |     |                | =={accent}s1== |       m       |  <  | =={accent}s2== |     |     |
 |   0 |     |                |                | =={accent}B== |  <  |                |     |     |
+## Thief
+- Main Stat (m): Tempo 
+- Sub Stat 1 (s1): Will
+- Sub Stat 2 (s2): Control
+- Total points: 5, Allocated: 5
+
+|     |     |     |     |               |                |               |     |     |                |                |     |     |
+| --- | :-: | :-: | :-: | :-----------: | :------------: | :-----------: | :-: | :-: | :------------: | :------------: | :-: | :-: |
+| 4   | LL3 |  <  | L3  |       <       |       M3       |       <       |  <  |  <  |       R3       |       <        | RR3 |  <  |
+| 1   |  m  | s1  |  <  |      s2       |       <        |       m       |  <  | s1  |       <        |       s2       |  <  |  m  |
+| 2   | LL2 |  <  | L2  |       <       |       <        |       <       | R2  |  <  |       <        |       <        | RR2 |  <  |
+| 1   |  m  | s1  |  <  | =={accent}m== |       <        |       <       |  m  |  <  |       <        |       s2       |  <  |  m  |
+| 1   | L1  |  <  |  <  |       <       | =={accent}M1== |       <       |  <  |  <  | =={accent}R1== |       <        |  <  |  <  |
+| 1   |     | s1  |  <  |               |       <        | =={accent}m== |  <  |     |       <        | =={accent}s2== |  <  |     |
+
 ## Full list of skills
 **Definitions**:
 - **Momentum** (Stat): Equal to 1/4 the distance moved last movement at base. See the Stats section for details.
+- **Cover** (Stat): Stealth stat, unique to the Thief. Based on levels, ranging from 0-3 (respectively, None, Weak, Strong, Complete). Natural cover can only reach level 2. Open ground with no impediment between you and the target naturally applies Level 0 Cover. Level 2 Cover includes complete darkness, heavy foliage, and direct terrain cover, while Level 1 Cover includes heavy shadows, other low-light conditions, medium foliage, and partial terrain cover. Level 3 Cover can only be attained through brand abilities and magic, and indicates zero ability to be sensed.
 - **Batallion** (Unit Group): All allied characters, both player and non-player, within 40 feet, including yourself. Also referenced as a Stat, equal to the number of such characters.
 - **Invigorated** (Status): Marked by Roaring Cheer; until the next ally turn, the afflicted cannot be Invigorated again.
 - **Aggravated** (Status): When choosing to make an attack, if it is possible for the afflicted to do so, the primary target of the attack must be the one who applied the status.
@@ -63,6 +81,17 @@ Unlocked skills should be marked in some way (bold, italic, etc) - Total points:
 **Heroic Art of Provocation** (Footsoldier L1) - Word Debuff one foe, 6 Energy - Designate a target within 60 feet and yell at them. That target makes a save (Target MYS >= User EGO x2); if they fail the save, they become **Aggravated** until the beginning of your next turn. While the target is **Aggravated**, you may convert Physical damage dealt to you by this target into Mental damage. At the beginning of your next turn, you may make a Weapon Attack against the **Aggravated** target without using your action for this turn.
 
 **Roaring Cheer** (Footsoldier R1) - Word Enhance allies, 12 Energy - Can only be used if you took no other actions, other than movement, so far this turn. All other **Batallion** members are **Invigorated** if they are not already, causing them to immediately recover 4 Energy.
+
+**Nab** (Thief M1) - Stealth Strike either creature or environment, 8 Energy - If used on a creature, this skill requires Cover Level 1 or above, and they will be likely to notice you unless they are sufficiently distracted. Loose items are the least likely to be noticed (unless they are in a backpack), followed by accessories, then held items, then worn items. Steals an item from the target, depositing it into your bag immediately. If the creature notices your attempt, they must make two successive checks, and if either fail, the attempt succeeds:
+- Reaction time: Target TEM >= User TEM. The target will automatically succeed this check if they see you begin your attempt (i.e. your Cover Level is 0). For accessories and worn items, the target's TEM is effectively doubled.
+- Wrest the item from your control: Performed if the reaction time check succeeds. Target STR >= User STR. For held and worn items, the target's STR is effectively doubled.
+
+**Lurk** - Stealth Movement self or ally, 8 Energy - You sink into the terrain around you, hiding for up to a minute (10 turns). If a non-ally target senses you while you are using this ability, the ability immediately ends and the upkeep cost cannot be paid.
+- In Complete Cover, only magic can sense you.
+- In Strong Cover, so long as others are not specifically looking for hiding foes, the ability continues.
+- In Weak Cover, enemies may notice you, even if they are not paying close attention, especially when moving.
+- Being spotted while using this Ability does not end it unless the enemy notices you via a save (Target TEM >= User TEM).
+- **Upkeep (2 Energy)**: At the beginning of your turn, if the ability were to end this turn, you may pay 2 Energy to extend the effect until the end of your next turn.
 ### Passive
 **Mystic Flight** (Racial Passive) - Can fly naturally. The conferred flight speed is equal to base speed.
 # Stats
@@ -70,10 +99,10 @@ Unlocked skills should be marked in some way (bold, italic, etc) - Total points:
 |           | STR          | FRT | WIL      | INT | EGO         | MYS | CTR        | TEM |
 | --------- | ------------ | --- | -------- | --- | ----------- | --- | ---------- | --- |
 | Base      | 7            | 5   | 5        | 5   | 8           | 4   | 6          | 8   |
-| Bonus     | 1            |     |          |     | 1           | 2   |            | 2   |
+| Bonus     | 1            |     |          |     | 1           | 2   | 1          | 4   |
 |           | **Vitality** | <   | **Mana** | <   | **Resolve** | <   | **Energy** | <   |
-| Dyn. Base | 26           | <   | 20       | <   | 30          | <   | 32         | <   |
-| Dyn. Cur. | 26           | <   | 20       | <   | 30          | <   | 32         | <   |
+| Dyn. Base | 26           | <   | 20       | <   | 30          | <   | 38         | <   |
+| Dyn. Cur. | 26           | <   | 20       | <   | 30          | <   | 38         | <   |
 <!-- TBLFM: @5$2=(sum(@2$2..@3$3)*2) -->
 <!-- TBLFM: @5$4=(sum(@2$4..@3$5)*2) -->
 <!-- TBLFM: @5$6=(sum(@2$6..@3$7)*2) -->
@@ -105,7 +134,7 @@ Unlocked skills should be marked in some way (bold, italic, etc) - Total points:
 - Bronze Dagger (4 Power, 2 Phys Block, 0 Weight, 8ft Range, Small Slashing/Piercing) - Strike Power: 12, Accuracy: 10
 - Small Stone Ward (6 Magic/Mental Block, 5 Weight, -5 Accuracy)
 **Other**:
-- 100 Gold
+- 73 Gold
 - Sacrificial knife (Non-combat, at least for now) + note scrawled in possibly another language besides Common
 # Notes
 The following is merely a summary of convenient rules to have on hand. Check the rulebook for more information.

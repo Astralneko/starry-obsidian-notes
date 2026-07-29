@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaScythe",
+      "RaLanternFlame",
       "LiBeaker",
       "RiShining2Fill",
-      "FasBaseballBatBall",
-      "RaFairy",
-      "RaCrystals"
+      "FasBaseballBatBall"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,11 +28,91 @@
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
-    "iconsInLinksEnabled": true,
+    "iconsInLinksEnabled": false,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
+  },
+  "-Bios/Headmates/Aster.md": {
+    "iconName": "FasMeteor",
+    "iconColor": "#d357f3"
+  },
+  "-Bios/Headmates/Almond.md": {
+    "iconName": "FabFly",
+    "iconColor": "#cfb698"
+  },
+  "-Bios/Headmates/Estariel.md": {
+    "iconName": "RiBrushLine",
+    "iconColor": "#23ffea"
+  },
+  "-Bios/Headmates/Hikari.md": {
+    "iconName": "RaLightningBolt",
+    "iconColor": "#0088ff"
+  },
+  "-Bios/Headmates/Junko.md": {
+    "iconName": "RaMagnet",
+    "iconColor": "#a3f9e2"
+  },
+  "-Bios/Headmates/Kalia.md": {
+    "iconName": "RaFireballSword",
+    "iconColor": "#330000"
+  },
+  "-Bios/Headmates/Marzipan.md": {
+    "iconName": "LiCandy",
+    "iconColor": "#cf4064"
+  },
+  "-Bios/Headmates/Fossil.md": {
+    "iconName": "RaTrefoilLily",
+    "iconColor": "#26aa19"
+  },
+  "-Bios/Headmates/Puanga.md": {
+    "iconName": "RaFlowers",
+    "iconColor": "#cd62a3"
+  },
+  "-Bios/Headmates/Reimu.md": {
+    "iconName": "FasCross",
+    "iconColor": "#1b0ccb"
+  },
+  "-Bios/Headmates/Reisen.md": {
+    "iconName": "RaBullets",
+    "iconColor": "#3a87fe"
+  },
+  "-Bios/Headmates/Seolyeong.md": {
+    "iconName": "RaLanternFlame",
+    "iconColor": "#d65846"
+  },
+  "-Bios/Headmates/Solin.md": {
+    "iconName": "RaCrystals",
+    "iconColor": "#707070"
+  },
+  "-Bios/Headmates/Takara.md": {
+    "iconName": "RiZzzFill",
+    "iconColor": "#8f9486"
+  },
+  "-Bios/Headmates/Sahara.md": {
+    "iconName": "RiMoonClearLine",
+    "iconColor": "#ebf2cc"
+  },
+  "-Bios/Headmates/Techikas’.md": {
+    "iconName": "LiSquareMousePointer",
+    "iconColor": "#c4f76f"
+  },
+  "-Bios/Headmates/Sparkle.md": {
+    "iconName": "LiSparkles",
+    "iconColor": "#dd0000"
+  },
+  "-Bios/Headmates/Youmu.md": {
+    "iconName": "RaCandleFire",
+    "iconColor": "#ffffff"
+  },
+  "-Bios/Headmates/Yankee.md": {
+    "iconName": "RiPlanetLine",
+    "iconColor": "#d4078c"
+  },
+  "-Bios/Headmates/Trinity.md": {
+    "iconName": "LiClock1",
+    "iconColor": "#dd4d45"
   },
   "Glitchrune/Characters/LACE NULLAM.md": {
     "iconName": "RaBoneKnife",
@@ -58,5 +138,13 @@
   "Glitchrune/Characters/Takara Ahrah.md": {
     "iconName": "LiBeaker",
     "iconColor": "#aca694"
+  },
+  "FE Lake of Mist/Characters/Player units/Seolyeong.md": {
+    "iconName": "RaLanternFlame",
+    "iconColor": "#661414"
+  },
+  "Glitchrune/Characters/Apollyon.md": {
+    "iconName": "RaScythe",
+    "iconColor": "#6e2e4b"
   }
 }

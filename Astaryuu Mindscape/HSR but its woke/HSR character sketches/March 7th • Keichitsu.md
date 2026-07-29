@@ -13,7 +13,7 @@ Nightly Hate-Mail - Single-Target
 Gains 1 Punchline. Deal Ice DMG equal to 50-100% (140% at Lv.10) of Keichitsu's ATK.
 ## Skill
 Lightshow Recollection - Support AOE
-Gains 6 Punchline. All allies other than Keichitsu receive "Snow Knight" for 3 of Keichitsu's turns (Aha Instant turns do not count). They receive Shield equal to 10-20% (24% at Lv.15) of Keichitsu's DEF plus 80-200 (280 at Lv. 15). At the beginning of Keichitsu's action (including Aha Instant), those with "Snow Knight" receive this amount of Shield again. When a target afflicted with "Snow Knight" takes damage, gain 1 Punchline.
+Gains 6 Punchline. All allies other than Keichitsu receive "Snow Knight" for 3 of Keichitsu's turns (Aha Instant turns do not count as these are Aha's turn). They receive Shield equal to 10-20% (24% at Lv.15) of Keichitsu's DEF plus 80-200 (280 at Lv. 15). At the beginning of Keichitsu's action (including Aha Instant), those with "Snow Knight" receive this amount of Shield again. When a target afflicted with "Snow Knight" takes damage, gain 1 Punchline.
 Keichitsu's provided Shield cannot exceed Keichitsu's Max HP. If Keichitsu uses Lightshow Recollection whilst "Snow Knight" is still active, its timer is reset to 3 turns. When "Snow Knight" ends, all Shield is removed from the targets.
 ## Talent
 Too Close to the Fake Sun
