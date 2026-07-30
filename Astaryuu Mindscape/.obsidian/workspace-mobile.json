@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "July Song of the Day.md",
+                "file": "Translations/Rokadong Avatar Intro.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "July Song of the Day"
+              "title": "Rokadong Avatar Intro"
             }
           }
         ],
@@ -160,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "July Song of the Day.md",
+            "file": "Translations/Rokadong Avatar Intro.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -262,9 +262,12 @@
   },
   "active": "68f054d9cb8b47d5",
   "lastOpenFiles": [
-    "HSR but its woke/Languages/Ferritumulic.md",
-    "July Song of the Day.md",
+    "Notes on dreams.md",
     "Drawing 2025-11-19 12.43.24.excalidraw.md",
+    "July Song of the Day.md",
+    "Pezen/Languages/Rokadong/Rokadong pronouns.md",
+    "Translations/Rokadong Avatar Intro.md",
+    "HSR but its woke/Languages/Ferritumulic.md",
     "Glitchrune/Characters/Yoshimitsu Jinkyuu.md",
     "Glitchrune/Characters/Takara Ahrah.md",
     "Glitchrune/Characters/Apollyon.md",
@@ -285,9 +288,6 @@
     "Anima/Snow Phoenix and the Slumbering Dragon.md",
     "Glitchrune/Deltaverse.md",
     "HSR but its woke/Languages/Ferritumulic/Orthography.md",
-    "HSR but its woke/Languages/Ferritumulic/Grammar.md",
-    "HSR but its woke/Languages/Ferritumulic/Dictionary.md",
-    "HSR but its woke/Languages/Ferritumulic/Phonology.md",
     "Yokai City/Characters",
     "Tachyon Force/Events",
     "Laniākea/Characters",

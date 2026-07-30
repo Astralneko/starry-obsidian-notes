@@ -1,0 +1,6 @@
+"Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then, everything changed when the Fire Nation attacked. Only the Avatar, master of all four elements, could stop them, but when the world needed him most, he vanished."
+"A hundred years passed and my brother and I discovered the new Avatar, an airbender named Aang. And although his airbending skills are great, he has a lot to learn before he's ready to save anyone. But I believe Aang can save the world."
+
+«Korong. Reka. Ari. Tayu. Nyaratangka kugya, ila kenaka fejonawí pom tengkurkapan hénsemah. Gan, nakuha vakaran kemí Fejonawí to Ari zetaran. Avatál itaki, kayúguha to tékuha kityazdaka, penamin kamusha, ket kemí ila shika 
+
+water | earth | fire | wind | many_seasons past DET.PROX four nation together live-REMPST ADVB-peaceful | after everything change-PST when nation GEN fire attack-PST | Avatar alone master of all element stop-HYP 3pl but when DET.PROX world need-PST 3sg.M most 3sg.M disappear-PST | hundred-year pass-PST and brother=GEN.1sg and 1sg find-PST new Avatar wind-manipulation-person name-PST Aang | and though skill GEN 3sg.M LOC wind-manipulation COP great 3sg.M need learn much before 3sg.M COP ready save anyone | but 1sg believe Aang can save DET.PROX world
