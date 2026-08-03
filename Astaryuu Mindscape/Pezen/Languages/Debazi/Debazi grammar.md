@@ -2,6 +2,7 @@
 ```table-of-contents
 ```
 Overall, Debazi is a polysynthetic, slightly fusional language with triconsonantal roots. Verbs are incredibly basic overall, noun marking aside, making it unique among Astaryuu conlangs - as they tend to have supremely fucked verbs.
+
 Interestingly, there is no true verb for "to be" - the best equivalent is the suffix *-llah*, which turns adjectives into stative verbs.
 # Declensions
 Declensions apply to both nouns and verbs, and depend on the number of vowels in the root form of the word. Generally, conjugations will add vowels until a word has at least three of them.
@@ -95,15 +96,46 @@ Declension C2 mirrors Declension C1, but with all e, i, j, u, w, E, O swapped wi
 Declension C4 mirrors Declension C3, but with the same swapped letters as C2.
 # Verbs
 Verbs mark for person and tense, but the tenses are generally basic unless affixes are involved. However, verbs exhibit polypersonality: they mark for both the person of the subject and the object.
-## Personal agreement
-The default is to have both the subject and object be in the third person (0 in the below table). The object which is marked here is indirect by default for intransitive verbs, and direct by default for transitive verbs. 
+## Mood
 
-|                 | Object 1sg | Object 1pl | Object 2 | Object 0 |
-| --------------- | ---------- | ---------- | -------- | -------- |
-| **Subject 1sg** | fwa        | fuya       | fus      | fu       |
-| **Subject 1pl** | fyura      | fyu        | fyas     | fya      |
-| **Subject 2sg** | saf        | sam        | sas      | sa       |
-| **Subject 2pl** | swav       | swam       | swa      | sya      |
-| **Subject 0**   | chu        | chi        | cha      | (k’i)    |
-The suffix -aŋ can be applied to an intransitive verb, but before any other suffixes, to make it act as a transitive verb. Verbs which are already transitive can become "intransitive" by using the prefix corresponding to a reflexive pronoun (those in the diagonal of the table); this is the only case where the personal prefix *k’i* is used.
-Personal prefixes and the suffix -aŋ are never stressed, and so will be subject to mutation in certain environments. Additionally, if the verb starts with /ʔ ʕ/, it mutates to \[ː] when a personal prefix that ends in a continuant is added to it, but its vowel remains dark.
+Before any tense or aspect information is provided, the verb can be mutated to one of the following:
+
+- repeatedly [verb] (semelfactive): antepenultimate vowel → E, penultimate vowel → wV
+- can [verb]: antepenultimate vowel → O, penultimate vowel → wV
+- want to [verb] (optative): penultimate vowel → E, ultimate vowel → jatV (converts to declension A)
+- need to [verb]: penultimate vowel → O, ultimate vowel → ɥosA (converts to declension A)
+- must [verb] (jussive): penultimate vowel → O, ultimate vowel → Yma
+
+These are often considered separate verbs to the original, though, especially since semantic drift regularly happens.
+
+Negative verbs also have chu- appended to the front. This will convert B and C-type verbs into A and B-type verbs respectively, since a vowel is being added.
+
+## Tense and aspect
+
+The following table only lists the examples for declensions A, B1, B2, C1, and C3, but like with nouns, the others can be derived from this information.
+
+|                                                   | -   | A        | B1      | B2      | C1         | C3         |
+| ------------------------------------------------- | --- | -------- | ------- | ------- | ---------- | ---------- |
+| Non-future                                        | -   | default  | <       | <       | <          | <          |
+| Future                                            | -   | VVE      | ViV     | VuV     | VXi        | VXu        |
+| Present Progressive                               | -   | VYe      | VX(Vwa) | VX(Vya) | VXX + ēwa  | VXX + ōya  |
+| Past Progressive !!{small}(imperfect)!!           | -   | VV(ayV)  | VX(Eyo) | VX(Owe) | VXX + àshi | VXX + àssu |
+| Present participle !!{small}(nominative gerund)!! | -   | VVX      | YXE     | AXO     | EXX        | OXX        |
+| Past participle !!{small}(genitive gerund)!!      | -   | VVV + ay | YXi     | AXu     | VXX + ay   | <          |
+
+Participles may often take Declension C even if the verb is normally not Declension C, particularly if there are multiple versions of the same participle.
+## Personal agreement
+The default is to have both the subject and object be in the third person (0 in the below table). The object which is marked here is indirect by default for intransitive verbs, and direct by default for transitive verbs. All of these are prefixes.
+
+|             | -   | Object 1sg | Object 1pl | Object 2 | Object 0 |
+| ----------- | --- | ---------- | ---------- | -------- | -------- |
+| Subject 1sg | -   | fwa        | fuya       | fus      | fu       |
+| Subject 1pl | -   | nura       | nu         | nas      | na       |
+| Subject 2sg | -   | saf        | sam        | sat      | sa       |
+| Subject 2pl | -   | swav       | swam       | swa      | sya      |
+| Subject 0   | -   | cu         | ci         | ca       | (k’i)    |
+The interfix -aŋ- can be applied to an intransitive verb, after the personal prefix but before the verb itself, to make it act as a transitive verb.
+
+Verbs which are already transitive can become "intransitive" by using the prefix corresponding to a reflexive pronoun (those in the diagonal of the table); this is the only case where the personal prefix *k’i* is used.
+
+Personal prefixes and -aŋ- are never stressed, and so will be subject to mutation in certain environments. Additionally, if the verb starts with /ʔ ʕ/, it mutates to \[ː] when a personal prefix that ends in a continuant is added to it, but its vowel remains dark.
