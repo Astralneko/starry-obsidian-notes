@@ -3,7 +3,7 @@
 
 | Entry Chapter       | -   | [[0b Defense of Albacet]] |
 | ------------------- | --- | ------------------------- |
-| Starting Race/Class | -   | Kumiho Rogue              |
+| Starting Race/Class | -   | Kumiho Diviner            |
 | Starting Level      | -   | 1                         |
 | Gender/Age          | -   | 16, F                     |
 | Base Weapon Ranks   | -   | Daggers: C                |

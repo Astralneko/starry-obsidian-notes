@@ -5,5 +5,7 @@ I prefer if my weapons have limited durability. However, that would make weapons
 I do like the idea conceptually. However, it's already difficult enough to design a game around the equipment a player has in a game with permanent death. Adding weapon forging would make that a bit too ridiculous, and also risk the Fates Bronze Weapon problem even with durability half-present.
 ## Reclassing
 I really hate the open reclassing of Engage. Even with 3H at least it feels like you earned the reclass. Fates had the best reclassing so we're going back to that - units will generally have two possible natural upgrades, but can side-grade into any class from a unit they have an A support or better with.
+## Class trees
+
 ## Stat functions
 Avoidance is based on both Speed and Dex
