@@ -3,7 +3,7 @@
 
 | Entry Chapter       | -   | [[1a Breakthrough Long Shot]] |
 | ------------------- | --- | ----------------------------- |
-| Starting Race/Class | -   | Human Mage                    |
+| Starting Race/Class | -   | Human Diviner                 |
 | Starting Level      | -   | 3                             |
 | Gender/Age          | -   | 18, F                         |
 | Base Weapon Ranks   | -   | Tomes: C                      |

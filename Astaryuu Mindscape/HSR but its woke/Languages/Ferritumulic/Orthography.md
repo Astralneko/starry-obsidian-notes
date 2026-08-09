@@ -26,4 +26,3 @@ Even though they now have semivowel letters, standard text is expected to write 
 | Close-mid | ᴇ́    |         | ᴏ́   |
 | Open-mid  | ᴇ     |         | ᴏ    |
 | Open      |       | ᴀ       |      |
-|           |       |         |      |

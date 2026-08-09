@@ -7,7 +7,7 @@
 | Stop      | p      | t d    |         | k g   |
 | Affricate | pɸ bβ  | ts dz  | cɕ ɟʝ   |       |
 | Fricative | ɸ β    | s/z    | ɕ       | x     |
-| Liquid    |        | ɾ      | ʎ       | ʟ     |
+| Liquid    |        | r      | ʎ       | ʟ     |
 
 ## Notes
 
