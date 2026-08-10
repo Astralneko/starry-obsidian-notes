@@ -1,6 +1,6 @@
 {
-  "findText": "\\t",
-  "replaceText": "",
+  "findText": "(p|b|t|d|k|g)ɾ",
+  "replaceText": "r",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

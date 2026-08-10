@@ -21,6 +21,12 @@
       "icon": "lucide-file-code-2",
       "name": "Link Remover: Remove external links from file",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-regex-replace:obsidian-regex-replace",
+      "icon": "lucide-replace",
+      "name": "Regex Find/Replace: Find and Replace using regular expressions",
+      "mode": "any"
     }
   ],
   "leftRibbon": [],
@@ -30,6 +36,7 @@
   "pageHeader": [],
   "macros": [],
   "explorer": [],
+  "textToolbarCommands": [],
   "hide": {
     "statusbar": [],
     "leftRibbon": []
@@ -42,18 +49,6 @@
     "buttonWidth": 32,
     "columnLayout": false,
     "mappedIcons": [
-      {
-        "commandID": "style-text:style1",
-        "iconID": "lucide-a-arrow-up"
-      },
-      {
-        "commandID": "style-text:style2",
-        "iconID": "lucide-a-arrow-down"
-      },
-      {
-        "commandID": "style-text:remove-style",
-        "iconID": "lucide-remove-formatting"
-      },
       {
         "commandID": "automatic-table-of-contents:insert-automatic-table-of-contents",
         "iconID": "lucide-list-tree"
