@@ -1,10 +1,10 @@
 **Mahosin** is the basis for most magic in the world of Pezen. It is a protein that many, but not all, living beings across the world of Pezen possess.
 # Mechanics
-There are eight "varieties" or "flavors" of mahosin: red, yellow, green, cyan, blue, magenta, black, and white. The first six flavors are associated with the core elements of Pezeni magic, while the other two can suppress and enhance the effects of the other flavors.
+There are eight "varieties" or "flavors" of mahosin: red, yellow, green, cyan, blue, magenta, black, and white. The first six flavors are associated with the core elements of Pezeni magic, while the other two can suppress and enhance the effects of the other flavors. Black anf white mahosin have strange, seemingly "broken" effects when they are the primary element of a spell, rather than a helper component.
 
 All varieties of mahosin have an unknown element which is able to interact with the so-called [[Imaginary Plane]]. This element is, of course, also found inorganically. Laterally-active inorganic matter is usually called [[Denzinite|denzinite]] or a variant thereof, but the exact thing that causes connection to the Imaginary Plane is currently unknown, as Pezen generally hasn't developed nuclear physics.
 
-The most common source of mahosin for spellcraft is plants that produce it, which are crushed into dyes and applied to rough cards - such that the crafted spell can be activated with a flick. Such cards are [[Swatch|swatches]].
+The most common source of mahosin for spellcraft is plants that produce it, which are crushed into dyes and applied to rough cards - such that the crafted spell can be activated with a flick. Such cards are [[Swatch|swatches]]. Notably, this use is distinctly Prasenhan - Mangell does not produce swatches, and in general has a different theory of spellcraft. It has discovered mahosin, but considers the "broken" effects of black and white mahosin to be standard, referring to them instead as "violet" and "rose", which Prasenhans usually correlate with magenta and either blue or red.
 ## Flavors
 Red magic is associated with fire and warmth.
 Yellow magic is associated with earth, rock, and metal.

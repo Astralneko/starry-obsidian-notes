@@ -1,3 +1,4 @@
+#glitchrune-character 
 **Apollyon** is a [[Ruby Delta]] hellhound who at one point studied at Onyx Coleg, though unlike, for example, [[Takara]], Apollyon is not a scientist.
 # Plot
 Apollyon does seem to be somewhat aware that the world they are in is a game, and thus knows that [[The Script]] is factually going to happen, unless unintended actions happen. She is thus a piece in [[Yoshimitsu Jinkyuu|Dr. Jinkyuu]]'s plan to do exactly that in order to protect the world from harm.

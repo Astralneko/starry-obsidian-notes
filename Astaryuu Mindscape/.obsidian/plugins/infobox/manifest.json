@@ -1,0 +1,11 @@
+{
+	"id": "infobox",
+	"name": "Infobox",
+	"version": "1.0.6",
+	"minAppVersion": "1.4.0",
+	"description": "Renders Wikipedia-style infoboxes from YAML frontmatter.",
+	"author": "ozzycosmo",
+	"authorUrl": "https://github.com/ozzycosmo",
+	"fundingUrl": "https://ko-fi.com/omni_",
+	"isDesktopOnly": false
+}

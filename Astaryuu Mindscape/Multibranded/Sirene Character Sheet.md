@@ -3,7 +3,7 @@
 **Sirene Aidia**
 Race: Fairy *(Pixie)*
 Starting Combat Brands: Dragoon / Footsoldier
-Utility Brand: Thief
+Utility Brand: Thief (Will be replaced with Magician if and when my idea is approved)
 # Character notes
 Backstory: Previously, Sirene was a regular pixie child - known to play pranks on people, but in a manner more expected of a child, out of a sense of boredom. However, after being captured and imprisoned in a bottle by an elven adventurer who grew rich off of expeditions into the Labyrinth, she vowed to never let anyone be captured again. Escaping the adventurer's grasp with trained agility, she styled herself as a Robin Hood-type, known to trick and mess with traveling merchants and noblepersons that she encounters. While in keeping with known pixie stereotypes, Sirene's reasoning is more than mere instinct: She loathes the ultra-wealthy, considering them to be dragons in overworlder form.
 # Brand Skills
@@ -12,7 +12,7 @@ Unlocked skills should be marked in some way (bold, italic, etc)
 - Main Stat (m): Tempo
 - Sub Stat 1 (s1): Strength
 - Sub Stat 2 (s2): Will
-- Total points: 11, Allocated: 9
+- Total points: 5, Allocated: 5
 
 |     |     |                |                |                |     |     |     |     |
 | --: | :-: | :------------: | :------------: | :------------: | :-: | :-: | :-: | :-: |
@@ -29,7 +29,7 @@ Unlocked skills should be marked in some way (bold, italic, etc)
 - Main Stat (m): Strength 
 - Sub Stat 1 (s1): Ego 
 - Sub Stat 2 (s2): Mystique
-- Total points: 11, Allocated: 9
+- Total points: 5, Allocated: 5
 
 |     |     |                |                |               |     |                |     |     |
 | --: | :-: | :------------: | :------------: | :-----------: | :-: | :------------: | :-: | :-: |
@@ -86,7 +86,7 @@ Unlocked skills should be marked in some way (bold, italic, etc)
 - Reaction time: Target TEM >= User TEM. The target will automatically succeed this check if they see you begin your attempt (i.e. your Cover Level is 0). For accessories and worn items, the target's TEM is effectively doubled.
 - Wrest the item from your control: Performed if the reaction time check succeeds. Target STR >= User STR. For held and worn items, the target's STR is effectively doubled.
 
-**Lurk** - Stealth Movement self or ally, 8 Energy - You sink into the terrain around you, hiding for up to a minute (10 turns). If a non-ally target senses you while you are using this ability, the ability immediately ends and the upkeep cost cannot be paid.
+**Lurk** (Thief R1) - Stealth Movement self or ally, 8 Energy - You sink into the terrain around you, hiding for up to a minute (10 turns). If a non-ally target senses you while you are using this ability, the ability immediately ends and the upkeep cost cannot be paid.
 - In Complete Cover, only magic can sense you.
 - In Strong Cover, so long as others are not specifically looking for hiding foes, the ability continues.
 - In Weak Cover, enemies may notice you, even if they are not paying close attention, especially when moving.
@@ -102,40 +102,41 @@ Unlocked skills should be marked in some way (bold, italic, etc)
 | Bonus     | 1            |     |          |     | 1           | 2   | 1          | 4   |
 |           | **Vitality** | <   | **Mana** | <   | **Resolve** | <   | **Energy** | <   |
 | Dyn. Base | 26           | <   | 20       | <   | 30          | <   | 38         | <   |
-| Dyn. Cur. | 26           | <   | 20       | <   | 30          | <   | 38         | <   |
+| Dyn. Cur. | 18           | <   | 20       | <   | 30          | <   | 30         | <   |
 <!-- TBLFM: @5$2=(sum(@2$2..@3$3)*2) -->
 <!-- TBLFM: @5$4=(sum(@2$4..@3$5)*2) -->
 <!-- TBLFM: @5$6=(sum(@2$6..@3$7)*2) -->
 <!-- TBLFM: @5$8=(sum(@2$8..@3$9)*2) -->
 ## Extended
-**Base Speed**: 32 feet per round (Walking, Flying)
+**Base Speed**: 24 feet per round (Flying, Magical)
 
 **Unique Stats**:
 - **Momentum**: 0 - Every time you move by a mechanism other than a Momentum talent, add 1/4 the number of feet moved. At any time, you may consume 1 Momentum to immediately move 1 foot. Momentum is reset to 0 at the beginning of your turn. Maximum: Base Speed.
 
 **Resistances**:
-- Racial: Earth, Acid
+- Racial: All Terrestrial Aspects (Earth, Wind, Water)
 - Class: N/A
 - Equipment: N/A
 
 **Weaknesses**:
-- Racial: Despair, Fire
+- Racial: All Entropic Aspects (Decay, Acid, Poison)
 - Class: N/A
 - Equipment: N/A
 
 **Character Size**: Tiny
 - Height: 171mm (roughly 6.66 inches)
 - Weight: Negligible
-
-**Defense**: 7 Phys, 5 Mag, 8 Ment
 # Equipment
 **Armor**: Light Bronze Mail (2 Toughness, Phys/Ment)
+
 **Handheld Equipment**:
-- Bronze Dagger (4 Power, 2 Phys Block, 0 Weight, 8ft Range, Small Slashing/Piercing) - Strike Power: 12, Accuracy: 10
-- Small Stone Ward (6 Magic/Mental Block, 5 Weight, -5 Accuracy)
+- Bronze Dagger (4 Power, 2 Phys Block, 4 Weight, 8ft Reach, Small Slashing/Piercing) - Strike Power: 12, Basic Attack: 8 Accuracy, 4 Energy
+- Oak Flute (2 Power, 4 Weight, 32ft Range, hits all targets in range, Small Sonic/Dynamic (presumably Basic Word's dynamic effects can't be used here)) - Word Power: 11, Basic Attack: 15 Accuracy assuming CTR + TEM - Weight, 12 Accuracy assuming CTR + EGO - Weight, 4 Energy
+
 **Other**:
 - 73 Gold
 - Sacrificial knife (Non-combat, at least for now) + note scrawled in possibly another language besides Common
+- (Magic item as yet undefined)
 # Notes
 The following is merely a summary of convenient rules to have on hand. Check the rulebook for more information.
 ## Character Size
@@ -167,11 +168,9 @@ All larger units can only pass through tiles inhabited by Tiny units.
 
 **Tempo** (TEM): Reflexes, reaction time, and ability to track the flow of combat, or other fast situations. Those with high tempo can spot details even amongst fast-moving objects.
 
-**Accuracy**: How well you can hit enemies. The stat used varies based on the type of ability and is modified by equipment:
-- Ranged: Control
-- Melee (Physical): Strength
-- Melee (Magical): Will
-- Melee (Mental): Ego
+**Accuracy**: How well you can hit enemies. The stat used varies based on the type of ability and is modified by weapon type.
+- Ranged: CTR + TEM - Weapon's Weight
+- Melee: CTR + Weapon's Attacking Stat - Weapon's Weight, maximum CTR
 
 **Weapon Attack**: The attack performed by using your standard weapon without any skills.
 

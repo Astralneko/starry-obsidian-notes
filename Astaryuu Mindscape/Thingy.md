@@ -1,5 +1,5 @@
 # Rauratoshan
-Remulapola: RAR / RA-RPI (Remulapola to irikang)
+Remulapola, Irikang Pkwy: RAR / RA-RPI (Remulapola to irikang)
 Astona Hill: RA-YTA (Yunrai ta Astona)
 Azeria Downtown: RAZ / RA-AZW (Azeria, Unote)
 Azeria Midtown: RAA / RA-AZS (Azeria, Satai)
@@ -11,6 +11,9 @@ Murya Island: RA-MUT (Muryateláh)
 Irisela Island: RA-IST (Iriselateláh)
 Dip(a)lomacy Corner: RA-DLC
 Rasórabong: RA-RRB
+
+Remulapola, Harbor: RAR / RA-RPY
+: RA-PPI 
 
 # New Maeksikeo
 Albaqaerqe Customs: NMA / NM-ANP (Albaqáerqe-Nhalsérryẽpáxdel)

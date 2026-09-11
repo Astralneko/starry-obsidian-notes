@@ -1,6 +1,6 @@
 {
-  "findText": "(p|b|t|d|k|g)ɾ",
-  "replaceText": "r",
+  "findText": "󴑔󴖄󴒽󴔯",
+  "replaceText": "󴑔󴖄󴒽󴔯",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,
