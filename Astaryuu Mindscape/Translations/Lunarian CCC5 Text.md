@@ -1,7 +1,7 @@
 Genuinely, the more I read about the Gambian Holiday, the less I understand. The ratio of what I understand to what I've read trends to zero. Every time I try to grasp something, it seems like five new, arcane concepts appear and force me to come to terms with them first. In the fog of war, I don't know which one will lead me to the root of all knowledge, to the first principles from which I can build the rest of this bizarre multiverse.
 
 ```gloss
-\ex 󴑔󴕴󴓌󴔱󴐊󴐄󴕄 󴒌󴕁󴐚 󴐌󴕴󴐁󴖊󴔼 󴓄󴔼 󴔌󴕤󴑔󴔩󴑲 󴑼󴔩󴐂󴑉󴔊󴔩󴐊󴖔󴕜󴓝󴔷󴑜󴕬 󴐌󴕁󴐊 󴑔󴖄󴒽󴔯 󴒕󴔷 󴔌󴔩󴐂󴑌󴔼 󴐌󴕴󴐁󴖊󴔼 󴓅󴔿 󴔌󴕤󴒔󴕉󴑲 󴑔󴖄󴒽󴔯 󴒕󴔷 󴔔󴔩󴑲󴔄󴔼.
+\ex 󴑔󴕴󴓌󴔱󴐊󴐄󴕄 󴒌󴕁󴐚 󴐌󴕴󴐁󴖊󴔼 󴓄󴔼 󴔌󴕤󴑔󴔩󴑲 󴑼󴔩󴐂󴑉󴔊󴔩󴐊󴖔󴕜󴓝󴔷󴑜󴕬 󴐌󴕁󴐊 󴑔󴖄󴒽󴔯 󴒕󴔷 󴔌󴔩󴐂󴑌󴔼 󴐌󴕴󴐁󴖊󴔼 󴓅󴔿 󴔌󴕤󴒔󴕉󴑲 󴑔󴖄󴒽󴔯 󴒕󴔷 󴔔󴔩󴑲󴔄󴔼.
 \gla Tøzhenmo, ƨoŋ nømi chi yɇtak Gambyanhⱥledɨ non tɏfa se yambi, nømi chi yɇsuk tɏfa se wakri.
 \glb true-real-time while 1sg.IMPUR NOM more Gambian_Holiday GEN thing ACC read 1sg.IMPUR NOM less thing ACC understand
 \ft Genuinely, the more I read about the Gambian Holiday, the less I understand.
@@ -9,7 +9,7 @@ Genuinely, the more I read about the Gambian Holiday, the less I understand. The
 (Literally: Htruly, as I read more things from the Gambian Holiday, I understand less things.)
 
 ```gloss
-\ex 󴔬󴔼 󴔔󴔩󴑲󴔄󴕉󴖊󴑴󴔬󴐌󴔬 󴑔󴖄󴒽󴔯 󴖍󴐏 󴔌󴔩󴐂󴑌󴕌󴑴󴔬󴐌󴔬 󴑔󴖄󴒽󴔯 󴔬󴐜 󴔕󴔯󴑔󴕔󴒑󴔺󴐌 󴓄󴔼 󴔄󴕤󴑍󴕇 󴒕󴔷 󴒔󴔬󴑤󴕄󴔄󴔼.
+\ex 󴔬󴔼 󴔔󴔩󴑲󴔄󴕉󴖊󴑴󴔬󴐌󴔬 󴑔󴖄󴒽󴔯 󴖍󴐏 󴔌󴔩󴐂󴑌󴕌󴑴󴔬󴐌󴔬 󴑔󴖄󴒽󴔯 󴔬󴐜 󴔕󴔯󴑔󴕔󴒑󴔺󴐌 󴓄󴔼 󴔄󴕤󴑍󴕇 󴒕󴔷 󴒔󴔬󴑤󴕄󴔄󴔼.
 \gla Ay wakrukana tɏfa n̄ yambukana tɏfa, aŋ watȝsin chi rɇbo se sacori.
 \glb from understand-PST-ADJ.AVG thing to read-PST-ADJ.AVG thing DET.PROX ratio NOM zero-number ACC approach
 \ft The ratio of what I understand to what I've read trends to zero.
@@ -18,7 +18,7 @@ Genuinely, the more I read about the Gambian Holiday, the less I understand. The
 (Like in Japanese, numbers need a head, and rather than use the dummy noun, the word "number" is used.)
 
 gloss
-\ex 󴐁󴐂󴐁󴕂 󴐼󴔬 󴐌󴕴󴐁󴖊󴔼 󴐜󴕔 󴖍󴔇󴑔󴖄󴒽󴔯 󴒕󴔷 󴑔󴔩󴑊󴔁󴕢󴐌󴐔󴔬󴖉󴑲󴔼 󴔬󴒤󴔉󴔪󴑔 󴓜󴔱󴐊󴑜󴕄󴑔󴖄󴒽󴔯
+\ex 󴐁󴐂󴐁󴕂 󴐼󴔬 󴐌󴕴󴐁󴖊󴔼 󴐜󴕔 󴖍󴔇󴑔󴖄󴒽󴔯 󴒕󴔷 󴑔󴔩󴑊󴔁󴕢󴐌󴐔󴔬󴖉󴑲󴔼 󴔬󴒤󴔉󴔪󴑔 󴓜󴔱󴐊󴑜󴕄󴑔󴖄󴒽󴔯
 \gla Momomo xa nømi ŋȝ r̄tɏfa se tabrɇnɲaki, aʒyat lendotɏfakat chi Asjipara non koɣo łi raɣɇri, yo
 \glb repeat-time when 1sg.IMPUR TOP one-thing ACC eat-CONJ-try new-SIMPUR five-thing-SIMPUR NOM Ashwipara GEN heart LOC appear and before everything DET.DIST thing ACC 1sg.IMPUR NOM understand-REQ
 \ft Every time I try to grasp something, it seems like five new, arcane concepts appear and force me to come to terms with them first.

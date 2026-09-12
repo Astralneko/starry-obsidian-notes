@@ -1,6 +1,6 @@
 {
-  "textFontFamily": "AH Rokajang Shika,Truth and Ideals",
-  "interfaceFontFamily": "AH Rokajang Shika,Truth and Ideals",
+  "textFontFamily": "Truth and Ideals",
+  "interfaceFontFamily": "Truth and Ideals",
   "enabledCssSnippets": [
     "tags",
     "truth-and-unifont",

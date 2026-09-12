@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Translations/Lunarian CCC5 Text.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Lunarian CCC5 Text"
