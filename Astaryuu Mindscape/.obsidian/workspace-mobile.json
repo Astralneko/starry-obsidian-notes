@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Translations/Lunarian CCC5 Text.md",
-                "mode": "preview",
+                "file": "Valkyrie/Characters/Twilight Scythe_Marzipan.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lunarian CCC5 Text"
+              "title": "Twilight Scythe_Marzipan"
             }
           }
         ]
@@ -235,8 +235,9 @@
   },
   "active": "2773ab059c955349",
   "lastOpenFiles": [
-    "National Mana League/Languages/Kardonian/Haltzeonian grammar.md",
+    "Valkyrie/Characters/Blind Snowfall_Corazon.md",
     "Translations/Lunarian CCC5 Text.md",
+    "National Mana League/Languages/Kardonian/Haltzeonian grammar.md",
     "Translations/Rauratoshan EAS transcript.md",
     "Pezen/Languages/Liðakuin/Liðakuin grammar.md",
     "Multibranded/Idea for Azeria's TTRPG thingy.md",
@@ -261,7 +262,6 @@
     "Pezen/Species",
     "Pezen/Items/Swatch.md",
     "Pezen/Technology in Pezen.md",
-    "Pezen/Imbuing.md",
     "Yokai City/Characters",
     "Tachyon Force/Events",
     "Laniākea/Characters",
