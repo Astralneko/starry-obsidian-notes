@@ -87,6 +87,11 @@
       "name": "Large",
       "tag": "large",
       "showInMenu": true
+    },
+    {
+      "name": "Yuyancika",
+      "tag": "yuyancika",
+      "showInMenu": true
     }
   ],
   "showDefaultDivTag": true,

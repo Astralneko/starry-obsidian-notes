@@ -4,4 +4,10 @@
 «Korong. Reka. Ari. Tayu. Nyaratangka kugya, ila kenaka fejonawí pom tengkurkapan hénsemah. Gan, nakuha vakaran kemí Fejonawí to Ari zetaran. Avatál itaki, kayúguha to tékuha kityazdaka, penamin kamusha, ket kemí ila shika húnaran landa pomyatek, landa nekamvaran.»
 «Harikedikótan katran, ta nicanya ta aya tuyaran Avatál rasó, tayulattákasona kataran Éng. Ta naskí mida to landa to tayulattáka vel tényésa, landa húnakayúr itrán kahangkil landa vel bangwetaja tah tentemar asona. Ket aya zantur zah Éng mar tentemar ila shika.»
 
+      󴀀               󴀀         󴀀      
+          -   󴀃          -   󴀀            󴀃  󴀀 
+
+!!{yuyancika}      󴀀               󴀀         󴀀      
+          -   󴀃          -   󴀀            󴀃  󴀀 !!
+
 water | earth | fire | wind | many_seasons past DET.PROX four nation together live-REMPST ADVB-peaceful | after everything change-PST when nation GEN fire attack-PST | Avatar alone master of all element stop-HYP 3pl but when DET.PROX world need-PST 3sg.M most 3sg.M disappear-PST | 96-year pass-PST and brother=GEN.1sg and 1sg find-PST Avatar new wind-manipulation-person name-PST Aang | and though ability GEN 3sg.M LOC wind-manipulation COP great 3sg.M need-learn much before 3sg.M COP ready for save anyone | but 1sg believe that.CONJ Aang can save DET.PROX world

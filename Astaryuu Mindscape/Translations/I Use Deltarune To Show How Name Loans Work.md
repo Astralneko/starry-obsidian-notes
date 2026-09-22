@@ -5,22 +5,22 @@ __Main Characters__
 Kris -  *Karis* \[kə̀ɾɪ́θ]
 Susie -  *Suzí* \[súzîː]
 Ralsei -  *Ralsé* \[ɾálsêː]
-Noelle -  *Noel* \[nòwél]
+Noelle -  *Nowel* \[nòwél]
 
 __Lightner Side Characters__
 Toriel - 󴀂 *Toriel* \[tóɾî.ēl]^[Allowed because /i.V/ :FasThumbsUp: /o.V/ :FasThumbsDown:]
 Asgore -  *Azgór* \[ázgōːɾ]^[Long to prevent \[ɔ\]]
 Sans -  *Sanzu* \[sánzû]^[/u/ because the Internet always appends "Undertale" :ramsey:]
-Papyrus - 󴀀 *Papairos* \[pəpájɾɔ́s]
+Papyrus - 󴀀 *Papairos* \[pəpájɾɔ́θ]
 Undyne - 󴀀 *Ondain* \[ɔ́ndâjn(ə)]
-Alphys -  *Alfis* \[álfɪ̂s]
+Alphys -  *Alfis* \[álfɪ̂θ]
 Rudy -  *Rudí* \[ɾúdîː]
-QC -  *Kyúsí* \[kju]^[Normally, English acronyms are borrowed using /Ca:/ for the letters, but not for either of these letters (X is /ʃaː/ blame Spain)]
+QC -  *Kyúsí* \[kjûːsiː]^[Normally, English acronyms are borrowed using /Ca:/ for the letters, but not for either of these letters (X is /ʃaː/ blame Spain)]
 Berdly -  *Byrdí* \[bə́ɾdîː]^[ɹ̩ is in Kairitelan and thus Rokadong speakers might expect this bullshit]
 Bratty -  *Barétí* \[bəɾêtīː]^[/æ/ is loaned as /eː/]
 Catty -  *Kéti* \[kêːtī]
 Catti -  *Kétí* \[kêːtīː]
-Jockington -  *Jokkingtan* \[d͡ʒɔ́kîntān]
+Jockington -  *Jokkingtan* \[d͡ʒɔ́kːîntān]
 
 __Antagonists__
 Roaring Knight - 󴁹󴃓󴀣󴁰󴃑 *Senetovénia* \[sēnétôvêːnī.ɐ̄]^[Nguhcraft knows why this one]

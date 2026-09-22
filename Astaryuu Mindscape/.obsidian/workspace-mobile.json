@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Valkyrie/Characters/Twilight Scythe_Marzipan.md",
+                "file": "Translations/I Use Deltarune To Show How Name Loans Work.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Twilight Scythe_Marzipan"
+              "title": "I Use Deltarune To Show How Name Loans Work"
             }
           }
         ]
@@ -133,7 +133,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Translations/Lunarian CCC5 Text.md",
+            "file": "Translations/I Use Deltarune To Show How Name Loans Work.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -235,8 +235,25 @@
   },
   "active": "2773ab059c955349",
   "lastOpenFiles": [
-    "Valkyrie/Characters/Blind Snowfall_Corazon.md",
+    "HSR but its woke/HSR's Aeons and Paths.md",
+    "Translations/Rokadong Avatar Intro.md",
+    "Laniākea/Laniākea (planet).md",
+    "Laniākea/Places/Icewall Plateau.md",
+    "Laniākea/Places",
+    "Pezen/Languages/Debazi/Debazi phonology.md",
+    "Pezen/Languages/Debazi/Debazi grammar.md",
+    "Pezen/Languages/Debazi/Debazi orthography.md",
+    "Translations/I Use Deltarune To Show How Name Loans Work.md",
     "Translations/Lunarian CCC5 Text.md",
+    "Translations/Rokadong Nuclear Waste Warning.md",
+    "Translations/Rokadong Complaint Tablet to Ea-nāṣir.md",
+    "Glitchrune/Characters/Solin Leihinheim.md",
+    "Glitchrune/Characters/Yoshimitsu Jinkyuu.md",
+    "Glitchrune/Items/Daybreaker.md",
+    "Glitchrune/Characters/Nacht Nullam.md",
+    "Glitchrune/Characters/Apollyon.md",
+    "Valkyrie/Characters/Twilight Scythe_Marzipan.md",
+    "Valkyrie/Characters/Blind Snowfall_Corazon.md",
     "National Mana League/Languages/Kardonian/Haltzeonian grammar.md",
     "Translations/Rauratoshan EAS transcript.md",
     "Pezen/Languages/Liðakuin/Liðakuin grammar.md",
@@ -245,23 +262,7 @@
     "Notes on dreams.md",
     "Ultimate Smash Remix List.md",
     "Thingy.md",
-    "National Mana League/Languages/Kardonian/Kardonian orthography.md",
-    "National Mana League/Languages/Kardonian/Haltzeonian lexicon.md",
-    "National Mana League/Languages/Kardonian/Haltzeonian.md",
-    "Tachyon Force/Characters/Erin Palasso.md",
-    "Translations/I Use Deltarune To Show How Name Loans Work.md",
-    "Drawing 2025-11-19 12.43.24.excalidraw.md",
-    "2026.09 Song of the Day.md",
-    "2026.07 Song of the Day.md",
-    "Pezen/Items/Mahosin.md",
-    "Pezen/Items/Eternal Jade Scarf.md",
-    "Pezen/Items/Debazi coffee.md",
-    "Pezen/Items/Denzinite.md",
-    "Pezen/Species/Figure.md",
-    "Pezen/Rokaselan calendar.md",
     "Pezen/Species",
-    "Pezen/Items/Swatch.md",
-    "Pezen/Technology in Pezen.md",
     "Yokai City/Characters",
     "Tachyon Force/Events",
     "Laniākea/Characters",
@@ -270,7 +271,6 @@
     "Tachyon Force/Characters",
     "Sonic Fallen Stars/Characters",
     "Glitchrune/Items",
-    "HSR but it's woke/Languages/Ferritumulic",
     "-Assets/My art/Debaz wip map.jpeg",
     "-Assets/My art/Youmu Ref.webp",
     "Assets/My art/Youmu Ref.webp"

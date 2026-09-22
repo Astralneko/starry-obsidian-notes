@@ -73,7 +73,7 @@ Talah mikáran dakke pá nata laki ibi kyado sho?
 
 **You have withheld my money bag from me in enemy territory; it is now up to you to restore (my money) to me in full.**
 `2sg.FOR away-hold-PST bag GEN money GEN 1sg.FOR in land GEN enemy now 2sg.FOR should restore-IMP all that DAT 1sg.FOR`
-Talah fílasur ferayan to payang to nata te tanah to ávanrash; ashofa talah nulá faiténakatenh
+Talah fílasur ferayan to payang to nata te tanah to ávanrash; ashofa talah nulá faiténakaten nakuha ibi laki nata.
 
 *You withheld my money bag in an enemy's land; now you ought to restore all of it to me.*
 
