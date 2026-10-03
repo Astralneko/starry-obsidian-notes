@@ -8,7 +8,7 @@ Although when secret hunting, [[GR!Madz]] can appear early, it's notable that on
 *I've seen that blade before... I was treated as a dark King for daring to speak out against its creation. Young one... What in the Angel's name was written in your **fate**?*
 
 **Team members added**: Rika
-**DV_Chapter Boss**: Ceroba
+**DV_Chapter Boss**: Yun
 **GR_Chapter Boss**: 
 **GR1_Chapter\* Boss**: Asgore
 **Other Bosses**: Rika, Hakutou, Kris
