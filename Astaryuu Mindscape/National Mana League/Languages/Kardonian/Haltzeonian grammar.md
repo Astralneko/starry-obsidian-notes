@@ -49,27 +49,27 @@ Kardonian languages are almost always SOV word order, and Haltzeonian is no diff
 
 ```gloss
 \ex   
-\gla Nel hímioncil caelékamik.
+\gla Nel himioncil caelekamik.
 \glb 2sg^[NOM^] paper-ACC.PL throw-IND-PST
 \ft You threw away the papers.
 ```
 ```gloss
 \ex   
-\gla Caelékamik nel hímioncil?
+\gla Caelekamik nel himioncil?
 \glb throw-IND-PST 2sg^[NOM^] paper-ACC.PL
 \ft Did you throw away the papers?
 ```
 However, the possessor, placed in the possessive case, is placed *after* the noun they own.
 ```gloss
 \ex    
-\gla Caelékamik nel hímioncil súma?
+\gla Caelekamik nel himioncil suma?
 \glb throw-IND-PST 2sg^[NOM^] paper-ACC.PL 1sg-POSS
 \ft Did you throw away my papers?
 ```
 This differs from the normal genitive, which has meanings of description and origin:
 ```gloss
 \ex    
-\gla Caelékamik nel aettérẽsheo hímioncil?
+\gla Caelekamik nel aetterẽsheo himioncil?
 \glb throw-IND-PST 2sg^[NOM^] science-GEN paper-ACC.PL
 \ft Did you throw away the scientific papers?
 ```

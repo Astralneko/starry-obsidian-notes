@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multibranded/Conversion Sheet.md",
+                "file": "National Mana League/Languages/Kardonian/Kardonian orthography.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Conversion Sheet"
+              "title": "Kardonian orthography"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -200,6 +202,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-importer:Open Importer": false,
       "omnisearch:Omnisearch": false,
@@ -217,9 +220,15 @@
   },
   "active": "1333ac9919b8b093",
   "lastOpenFiles": [
+    "National Mana League/Languages/Kardonian/Haltzeonian grammar.md",
+    "National Mana League/Languages/Kardonian/Haltzeonian phonology.md",
+    "National Mana League/Languages/Kardonian/Haltzeonian lexicon.md",
+    "FE Lake of Mist/Items/Fire Emblem.md",
+    "FE Lake of Mist/Places/Isola della Nebbia.md",
+    "FE Lake of Mist/Places/Darralucia.md",
+    "Multibranded/Conversion Sheet.md",
     "Multibranded/Sirene Character Sheet.md",
     "Multibranded/Idea for Azeria's TTRPG thingy.md",
-    "Multibranded/Conversion Sheet.md",
     "FE Lake of Mist/Characters/Player units/Huyao.md",
     "Pezen/Languages/Nenevesian.md",
     "Pezen/Languages/Nenevesian/Nenevesian phonology.md",
@@ -237,12 +246,6 @@
     "Pezen/Languages/Liðakuin/Liðakuin lexicon.md",
     "Pezen/Languages/Liðakuin/Liðakuin grammar.md",
     "Pezen/Languages/Liðakuin/Liðakuin orthography.md",
-    "Pezen/Languages/Liðakuin/Liðakuin phonology.md",
-    "Pezen/Languages/Kairitelan/Kairitelan grammar.md",
-    "Pezen/Languages/Kairitelan/Kairitelan lexicon.md",
-    "Pezen/Languages/Kairitelan/Kairitelan orthography.md",
-    "Pezen/Languages/Kairitelan/Kairitelan phonology.md",
-    "Pezen/Languages/Liðakuin.md",
     "-Dictionary",
     "Pezen/Languages/Kairitelan",
     "Pezen/Languages/Kairitelan",
