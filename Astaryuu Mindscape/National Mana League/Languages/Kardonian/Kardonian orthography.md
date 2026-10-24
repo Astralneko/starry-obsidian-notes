@@ -87,3 +87,9 @@ Numbers start with a number sign , though units will replace this sign. The l
 For numbers 4096 and above, an interpunct is placed before the clump, then the number of 4096^n is written for each clump.
 
 For an example that combines all of these, 9000, which in base 8 is 21450, is written as .
+# Punctuation
+Kardonian's punctuation is somewhat similar to Latin. Phrases are connected with , which will also be called a comma for clarity. Sentences end with . Notably, though, paragraphs end with a double stop . There is also a question mark, used in place of the sentence end punctuation or the first line of the paragraph end punctuation: .
+
+Kardonian also has a "semicomma"  used in enumerating a list, including one's address as that functionally is a list of places that your home is in. For example, 1 Ironwood Road, Kriseon Coty, New Maeksikeo is written as       _Zuirraegtzya Ngaostae, #1, Griseuenkanh, Aewal Maeksikeo_. Note that normally, a space is not included after the semicomma, or any punctuation except the four variations of sentence end; they've been added to this list for readability.
+
+Finally, Kardonian has brackets, . These are used to set aside clarifying information, much as a pair of commas or dashes would do in typical English text. Notably, it's not used for quotes, instead, dialogue is supposed to be typeset using a double or triple semicomma  before or after the quote; the exact use varies, and a double or triple semicomma is also used in general for a long pause or as a replacement for the normal comma.

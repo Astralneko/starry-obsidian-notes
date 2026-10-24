@@ -41,7 +41,7 @@ Two of the three known Emanators of the Erudition created entire Aeons: Dr. Prim
 
 The extrapolations of δme-13 embody, as the name suggests, 13 of the 18 Paths, and 11 of them are directly determined by δme-13 to lead to Destruction, while the 12th and 13th ones, Remembrance and Trailblaze, fall to Destruction as a consequence, albeit not one δme-13 is allowed to acknowledge. In these extrapolations, δme-13 also created 12 simulated Emanators, who have been and will continue to be discussed in their respective sections.
 
-Herta is also an Emanator, and seems to also have connection to the Remembrance, as like Fuli is said to be able to do, Herta, in a way, birthed an entire universe (the Simulated Universe project). She knows enough about the Remembrance to be able to trap and torture Memosnatchers, at least. Of course, \[SkeMma720] Anaxagoras is a virtual Emanator, though he seems to be a direct reflection of Zandar's own desire to create the Destruction, as Anaxagoras self-harms repeatedly to gain partial control of δme-13.
+Herta is also an Emanator, and seems to also have connection to the Remembrance, as like Fuli is said to be able to do, Herta, in a way, birthed an entire universe (the Simulated Universe project). She knows enough about the Remembrance to be able to trap and torture Memosnatchers, at least. Of course, \[SkeMma720] Anaxagoras is a virtual Emanator, though he seems to be a direct reflection of Zandar's own desire to create the Destruction, as Anaxagoras self-harms repeatedly and eventually commits suicide to gain partial control of δme-13.
 ## Harmony
 To battle the brutality of the laws of the universe, intelligent lifeforms must discard their cowardly selfishness and the differences between individuals, fusing into one singular melody. Understanding and supporting others is paramount.
 ### Xipe
@@ -112,6 +112,10 @@ The food chain of ecology is a universal constant; everything is made to eat or 
 Yes, they follow the Voracity. Or at least, two of their core worlds, Astropolis and Planarcadia, are hotbeds of Voracity that the company seeks to take for its own gain. Abusing natural resources for profit is very Voracity-coded, and real-life corporations are known to verbally take stances they do not actually support for the sake of public relations. Thus, it is my belief that few, if any, IPC big shots are actually followers of Qlipoth, though this may simply be a function of capitalism being a hunger for resources and money, and Ouroboros being the god of hunger.
 
 Interestingly, one of Qlipoth's Emanators is IPC CTO Taravan Keane, who in Astropolis is so known for his overindulgence that people literally compare him to Ouroboros, the Aeon of Voracity. This may be a personal example of the tension between the IPC's ideals and their actions. However, since the IPC consistently chooses to sate their hunger over following their ideals, I still feel comfortable saying the IPC is, at best, only a Preservation faction on paper.
+### Connections
+Nihility and Voracity are linked. Both destroy what they come into contact with. IX is also inside Ouroboros. However, there *is* a difference: Nihility does not have a will, while Voracity does. Additionally, Nihility is literally nothing, which the Voracity can't actually digest (as there is nothing to digest), so IX can survive in Ouroboros as long as THEIR Primum Mobile does not merge with that of Ouroboros.
+
+Likewise, Hysilens may be a Leviathan, but her default state is still Nihility, as she by default is purposeless upon coming to land. She *is* still connected to the Voracity, though - the purpose Cerydra gives her is as Cerydra's right hand. Cerydra's main goal is conquest; see the IPC for why such conquest would be Voracity-coded.
 ## Beauty
 All things in the universe are beautiful. The universe can best be understood as a work of art. By experiencing its beauty, the universe will impart that beauty onto us.
 ### Idrila and THEIR Followers
@@ -128,6 +132,12 @@ The virtual Emanator of the Permanence, \[SkoPeo365] Terravox the Earth, like Lo
 Life's reason is exponential growth. Nothing may be preserved; all is but fuel for growth. Victory over the infinite is the final goal.
 ### Tayzzyronth
 Tayzzyronth turned into an Aeon from THEIR intense desire to revive THEIR species, of which THEY were the last surviving member pre-ascension. This history is likely why the Propagation is inherently opposed to the concept of Preservation, as described above.
+### The Very Thing They Sought To Destroy
+Yes, capitalism is exponential. Yes, the IPC demands growth at all costs. No, I am not connecting the Propagation to the IPC. That is presently boring. Instead, see Glamoth.
+
+Glamoth fought the Propagation on the front lines - USING the Propagation. In so doing, their soldiers gained the "Entropy Loss Syndrome", where the body eats itself. In general, a path seeking to destroy itself seems to cause this kind of curse to happen; see other paths for examples.
+
+Yes, it's not lost on me that Propagation and Voracity are closely connected, and I think that's why the IPC shows aspects of both.
 ## Enigmata
 The universe is full of infinite possibility, and so understanding can never be completed. Prophecies and order do not exist, they are illusions created through limited knowledge.
 
@@ -149,7 +159,9 @@ In Amphoreus and Planarcadia, the opposite Trailblazer appears; in 4.4 they are 
 ### Followers
 The Stellaron Hunters follow the Finality through their prophet, Elio (possibly an Emanator). Everyone thinks Elio is a black cat, even though 3.8 clearly explained that the black cat is actually an arm of Terminus.
 
-However, notably, Nous can also predict the future, so the Erudition in its purest form might also be part of the Finality.
+However, notably, Nous can also predict the future, so the Erudition in its purest form is most likely also the Finality.
+
+Screwllum, a follower of the Erudition, has expertise in the Finality, as he knows that Silver Wolf's Lv.999 should mean her end, but thanks to the Elation, it does not. However, Screwllum is not an Emanator, despite his immense power and ability to speak for the entirety of silicate life - which would include Nous. It is my theory that Nous does not see Screwllum because doing so would bring about the Fourth Finality.
 ## Order
 The universe is a place of order and rhythm. The rules of the universe are its very meaning. Life's so-called dignity is but strife and chaos, and so must be discarded.
 ### Emanators of Order
