@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "National Mana League/Languages/Kardonian/Kardonian orthography.md",
+                "file": "HSR but its woke/Languages/Ferritumulic/Grammar.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Kardonian orthography"
+              "title": "Grammar"
             }
           }
         ]
@@ -220,6 +220,10 @@
   },
   "active": "1333ac9919b8b093",
   "lastOpenFiles": [
+    "HSR but its woke/Languages/Ferritumulic/Phonology.md",
+    "HSR but its woke/Languages/Ferritumulic/Orthography.md",
+    "HSR but its woke/Languages/Ferritumulic/Grammar.md",
+    "National Mana League/Languages/Kardonian/Kardonian orthography.md",
     "National Mana League/Languages/Kardonian/Haltzeonian grammar.md",
     "National Mana League/Languages/Kardonian/Haltzeonian phonology.md",
     "National Mana League/Languages/Kardonian/Haltzeonian lexicon.md",
@@ -242,10 +246,6 @@
     "Pezen/Languages/Debazi/Debazi orthography.md",
     "Pezen/Languages/Debazi/Debazi phonology.md",
     "Pezen/Languages/Debazi/Debazi lexicon.md",
-    "Pezen/Languages/Debazi/Debazi grammar.md",
-    "Pezen/Languages/Liðakuin/Liðakuin lexicon.md",
-    "Pezen/Languages/Liðakuin/Liðakuin grammar.md",
-    "Pezen/Languages/Liðakuin/Liðakuin orthography.md",
     "-Dictionary",
     "Pezen/Languages/Kairitelan",
     "Pezen/Languages/Kairitelan",
